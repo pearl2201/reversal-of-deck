@@ -1154,6 +1154,7 @@ GameObject:
   - component: {fileID: 874070007}
   - component: {fileID: 874070011}
   - component: {fileID: 874070012}
+  - component: {fileID: 874070013}
   m_Layer: 0
   m_Name: NetworkManager
   m_TagString: Untagged
@@ -1200,7 +1201,7 @@ MonoBehaviour:
   maxConnections: 200
   disconnectInactiveConnections: 0
   disconnectInactiveTimeout: 60
-  authenticator: {fileID: 0}
+  authenticator: {fileID: 874070013}
   playerPrefab: {fileID: 3559083313143303799, guid: 11d2414f1e120a14c98cba6866e5348f, type: 3}
   autoCreatePlayer: 0
   playerSpawnMethod: 1
@@ -1281,6 +1282,26 @@ MonoBehaviour:
     ClientPortOption: 0
     CustomClientPort: 7777
   minimumLogLevel: 3
+--- !u!114 &874070013
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 874070006}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9af8669368fa9ce469f14a5d320a3273, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  OnServerAuthenticated:
+    m_PersistentCalls:
+      m_Calls: []
+  OnClientAuthenticated:
+    m_PersistentCalls:
+      m_Calls: []
+  currentUserId: 
+  currentAccessToken: 
 --- !u!1 &1005098733
 GameObject:
   m_ObjectHideFlags: 0
@@ -2043,6 +2064,56 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_ShowMaskGraphic: 0
+--- !u!1 &1373579804
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1373579806}
+  - component: {fileID: 1373579805}
+  m_Layer: 0
+  m_Name: NakamaService
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1373579805
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1373579804}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7188abf4c896b294cad150498c0eb8c5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  networkManager: {fileID: 874070009}
+  nakamaAuthenticator: {fileID: 874070013}
+  protocol: http
+  host: 45.77.46.148
+  port: 7350
+  serverKey: defaultkey
+--- !u!4 &1373579806
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1373579804}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1386671668
 GameObject:
   m_ObjectHideFlags: 0
@@ -2553,6 +2624,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1707762352}
+  - component: {fileID: 1707762353}
   m_Layer: 0
   m_Name: Authenticated
   m_TagString: Untagged
@@ -2575,6 +2647,18 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1707762353
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1707762351}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5350cc3aa5d31c24c927e46c3e2a0278, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1902615731
 GameObject:
   m_ObjectHideFlags: 0
@@ -3123,3 +3207,4 @@ SceneRoots:
   - {fileID: 2050110697}
   - {fileID: 1902615734}
   - {fileID: 1707762352}
+  - {fileID: 1373579806}
