@@ -1,0 +1,3893 @@
+fileFormatVersion: 2
+guid: c9a4c7faa7735df4cac0e2abd7cb6bfd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4450303635752707077
+    second: ProtectionEFX1_0
+  - first:
+      213: -5792821437155561782
+    second: ProtectionEFX1_1
+  - first:
+      213: -2880931711218863242
+    second: ProtectionEFX1_2
+  - first:
+      213: -3462067633314227047
+    second: ProtectionEFX1_3
+  - first:
+      213: 8863667699068021137
+    second: ProtectionEFX1_4
+  - first:
+      213: 8897040143765521383
+    second: ProtectionEFX1_5
+  - first:
+      213: -3630376769276896090
+    second: ProtectionEFX1_6
+  - first:
+      213: 822212187823570473
+    second: ProtectionEFX1_7
+  - first:
+      213: 3088158775485957264
+    second: ProtectionEFX1_8
+  - first:
+      213: -2276335653308624512
+    second: ProtectionEFX1_9
+  - first:
+      213: -3908368760764766181
+    second: ProtectionEFX1_10
+  - first:
+      213: 7195197797690766873
+    second: ProtectionEFX1_11
+  - first:
+      213: 885023421667056514
+    second: ProtectionEFX1_12
+  - first:
+      213: -5315895087871403177
+    second: ProtectionEFX1_13
+  - first:
+      213: 2530580223310828691
+    second: ProtectionEFX1_14
+  - first:
+      213: -3855648176694581970
+    second: ProtectionEFX1_15
+  - first:
+      213: -7219460441190238157
+    second: ProtectionEFX1_16
+  - first:
+      213: 2088848393234869148
+    second: ProtectionEFX1_17
+  - first:
+      213: 3004745859220367096
+    second: ProtectionEFX1_18
+  - first:
+      213: 8285963913519204290
+    second: ProtectionEFX1_19
+  - first:
+      213: -5079526581534278695
+    second: ProtectionEFX1_20
+  - first:
+      213: -266373896257865073
+    second: ProtectionEFX1_21
+  - first:
+      213: -5376597202942040030
+    second: ProtectionEFX1_22
+  - first:
+      213: 8600021669492585977
+    second: ProtectionEFX1_23
+  - first:
+      213: 2379858771783304495
+    second: ProtectionEFX1_24
+  - first:
+      213: 5691755127582904916
+    second: ProtectionEFX1_25
+  - first:
+      213: -2434414873776646948
+    second: ProtectionEFX1_26
+  - first:
+      213: 1688737926665982180
+    second: ProtectionEFX1_27
+  - first:
+      213: 5692718660850091683
+    second: ProtectionEFX1_28
+  - first:
+      213: 5589538887073803167
+    second: ProtectionEFX1_29
+  - first:
+      213: -9059993563109048004
+    second: ProtectionEFX1_30
+  - first:
+      213: 2616849834310609716
+    second: ProtectionEFX1_31
+  - first:
+      213: -964395048818960776
+    second: ProtectionEFX1_32
+  - first:
+      213: -5436299367023784340
+    second: ProtectionEFX1_33
+  - first:
+      213: -6631803014429102445
+    second: ProtectionEFX1_34
+  - first:
+      213: 3076924431960867826
+    second: ProtectionEFX1_35
+  - first:
+      213: -2954514599791403465
+    second: ProtectionEFX1_36
+  - first:
+      213: -6807584323097491640
+    second: ProtectionEFX1_37
+  - first:
+      213: -4982338021075042728
+    second: ProtectionEFX1_38
+  - first:
+      213: 8140712051141845664
+    second: ProtectionEFX1_39
+  - first:
+      213: -6277769952506069547
+    second: ProtectionEFX1_40
+  - first:
+      213: -8034942670275978259
+    second: ProtectionEFX1_41
+  - first:
+      213: -5678717398536994372
+    second: ProtectionEFX1_42
+  - first:
+      213: -6694051584555402943
+    second: ProtectionEFX1_43
+  - first:
+      213: -3932693414722674038
+    second: ProtectionEFX1_44
+  - first:
+      213: -1259295699752395303
+    second: ProtectionEFX1_45
+  - first:
+      213: 8829360931149615911
+    second: ProtectionEFX1_46
+  - first:
+      213: 6334884382965159681
+    second: ProtectionEFX1_47
+  - first:
+      213: -3918372153128784273
+    second: ProtectionEFX1_48
+  - first:
+      213: -54134036073344401
+    second: ProtectionEFX1_49
+  - first:
+      213: 7956591707631595523
+    second: ProtectionEFX1_50
+  - first:
+      213: -4350070321031355713
+    second: ProtectionEFX1_51
+  - first:
+      213: -1139971643884804250
+    second: ProtectionEFX1_52
+  - first:
+      213: -8273767007338918777
+    second: ProtectionEFX1_53
+  - first:
+      213: -1368540291037012754
+    second: ProtectionEFX1_54
+  - first:
+      213: -2435965005184639242
+    second: ProtectionEFX1_55
+  - first:
+      213: -4613219493370821832
+    second: ProtectionEFX1_56
+  - first:
+      213: 3126870385991010217
+    second: ProtectionEFX1_57
+  - first:
+      213: 2079099914171398635
+    second: ProtectionEFX1_58
+  - first:
+      213: 1545814761458702904
+    second: ProtectionEFX1_59
+  - first:
+      213: 8991660699413394898
+    second: ProtectionEFX1_60
+  - first:
+      213: -3244153411078814402
+    second: ProtectionEFX1_61
+  - first:
+      213: -2362609412478883102
+    second: ProtectionEFX1_62
+  - first:
+      213: 4757899024047927797
+    second: ProtectionEFX1_63
+  - first:
+      213: -8970251186526971208
+    second: ProtectionEFX1_64
+  - first:
+      213: -3646758672458491460
+    second: ProtectionEFX1_65
+  - first:
+      213: 327944291182690525
+    second: ProtectionEFX1_66
+  - first:
+      213: 594105654379877352
+    second: ProtectionEFX1_67
+  - first:
+      213: -4057520296768210585
+    second: ProtectionEFX1_68
+  - first:
+      213: -5422473156617182606
+    second: ProtectionEFX1_69
+  - first:
+      213: -5385496124145835224
+    second: ProtectionEFX1_70
+  - first:
+      213: 5026437880739045813
+    second: ProtectionEFX1_71
+  - first:
+      213: -6273650678504632462
+    second: ProtectionEFX1_72
+  - first:
+      213: 3418225580481595099
+    second: ProtectionEFX1_73
+  - first:
+      213: 8718258806438340397
+    second: ProtectionEFX1_74
+  - first:
+      213: -8949705030400578416
+    second: ProtectionEFX1_75
+  - first:
+      213: 2655978021111918385
+    second: ProtectionEFX1_76
+  - first:
+      213: 6092423566459740063
+    second: ProtectionEFX1_77
+  - first:
+      213: -1461749743380249620
+    second: ProtectionEFX1_78
+  - first:
+      213: -3497625633786240109
+    second: ProtectionEFX1_79
+  - first:
+      213: -543939881330393751
+    second: ProtectionEFX1_80
+  - first:
+      213: 2180440720859458849
+    second: ProtectionEFX1_81
+  - first:
+      213: 5684078546645595932
+    second: ProtectionEFX1_82
+  - first:
+      213: -4691990369460896318
+    second: ProtectionEFX1_83
+  - first:
+      213: -161051486324804512
+    second: ProtectionEFX1_84
+  - first:
+      213: 2846482439451158821
+    second: ProtectionEFX1_85
+  - first:
+      213: -2523269395614187017
+    second: ProtectionEFX1_86
+  - first:
+      213: 9132529201661463620
+    second: ProtectionEFX1_87
+  - first:
+      213: -4941575851199334264
+    second: ProtectionEFX1_88
+  - first:
+      213: -5781264461678744949
+    second: ProtectionEFX1_89
+  - first:
+      213: 5012929741726313319
+    second: ProtectionEFX1_90
+  - first:
+      213: -1086402248746370945
+    second: ProtectionEFX1_91
+  - first:
+      213: 6822793477645769359
+    second: ProtectionEFX1_92
+  - first:
+      213: -7303832023096379046
+    second: ProtectionEFX1_93
+  - first:
+      213: 4910784016378884207
+    second: ProtectionEFX1_94
+  - first:
+      213: -9222279775801225982
+    second: ProtectionEFX1_95
+  - first:
+      213: 3811324479947499909
+    second: ProtectionEFX1_96
+  - first:
+      213: -3610289994629665941
+    second: ProtectionEFX1_97
+  - first:
+      213: -3459609716431676010
+    second: ProtectionEFX1_98
+  - first:
+      213: 3743525478934558509
+    second: ProtectionEFX1_99
+  - first:
+      213: 338403115212356511
+    second: ProtectionEFX1_100
+  - first:
+      213: -8029599041185221557
+    second: ProtectionEFX1_101
+  - first:
+      213: 9077039355036657802
+    second: ProtectionEFX1_102
+  - first:
+      213: -695663145409705615
+    second: ProtectionEFX1_103
+  - first:
+      213: 4786608322606947854
+    second: ProtectionEFX1_104
+  - first:
+      213: -167651866931674778
+    second: ProtectionEFX1_105
+  - first:
+      213: -1457447655337504403
+    second: ProtectionEFX1_106
+  - first:
+      213: -718265858233417040
+    second: ProtectionEFX1_107
+  - first:
+      213: -7947201430635586043
+    second: ProtectionEFX1_108
+  - first:
+      213: -2954424263062633635
+    second: ProtectionEFX1_109
+  - first:
+      213: -1810079546526954184
+    second: ProtectionEFX1_110
+  - first:
+      213: 3380785267052577506
+    second: ProtectionEFX1_111
+  - first:
+      213: 3825120741719917433
+    second: ProtectionEFX1_112
+  - first:
+      213: -7783979485726734412
+    second: ProtectionEFX1_113
+  - first:
+      213: -7250772660469488676
+    second: ProtectionEFX1_114
+  - first:
+      213: -8473983105684727364
+    second: ProtectionEFX1_115
+  - first:
+      213: -7266707884432630856
+    second: ProtectionEFX1_116
+  - first:
+      213: -871584187142285861
+    second: ProtectionEFX1_117
+  - first:
+      213: -2209843218528405411
+    second: ProtectionEFX1_118
+  - first:
+      213: -3901755672421395273
+    second: ProtectionEFX1_119
+  - first:
+      213: 7217716967712728755
+    second: ProtectionEFX1_120
+  - first:
+      213: -6650880147859565204
+    second: ProtectionEFX1_121
+  - first:
+      213: 7929686037704134706
+    second: ProtectionEFX1_122
+  - first:
+      213: -3654559003819938901
+    second: ProtectionEFX1_123
+  - first:
+      213: 5613409345297171812
+    second: ProtectionEFX1_124
+  - first:
+      213: 8376354187941847302
+    second: ProtectionEFX1_125
+  - first:
+      213: 3207829436738218861
+    second: ProtectionEFX1_126
+  - first:
+      213: 664513703970952231
+    second: ProtectionEFX1_127
+  - first:
+      213: 6017866485794183276
+    second: ProtectionEFX1_128
+  - first:
+      213: -4485906221146856968
+    second: ProtectionEFX1_129
+  - first:
+      213: 7497732357357246507
+    second: ProtectionEFX1_130
+  - first:
+      213: -2818877581743389930
+    second: ProtectionEFX1_131
+  - first:
+      213: 2591743559199202783
+    second: ProtectionEFX1_132
+  - first:
+      213: -6081630126010654971
+    second: ProtectionEFX1_133
+  - first:
+      213: 9065664059242977673
+    second: ProtectionEFX1_134
+  - first:
+      213: -7710369870145473723
+    second: ProtectionEFX1_135
+  - first:
+      213: -7374081307917545675
+    second: ProtectionEFX1_136
+  - first:
+      213: -2157320496245101698
+    second: ProtectionEFX1_137
+  - first:
+      213: -165956731952746247
+    second: ProtectionEFX1_138
+  - first:
+      213: 460813514258761355
+    second: ProtectionEFX1_139
+  - first:
+      213: 8287082309910336746
+    second: ProtectionEFX1_140
+  - first:
+      213: -6534153105096260939
+    second: ProtectionEFX1_141
+  - first:
+      213: -4865499220156261792
+    second: ProtectionEFX1_142
+  - first:
+      213: 5020262457374166343
+    second: ProtectionEFX1_143
+  - first:
+      213: 737803192677749717
+    second: ProtectionEFX1_144
+  - first:
+      213: -282518339435554634
+    second: ProtectionEFX1_145
+  - first:
+      213: -1003746085096858031
+    second: ProtectionEFX1_146
+  - first:
+      213: 2920225713596844679
+    second: ProtectionEFX1_147
+  - first:
+      213: 7319566468473413075
+    second: ProtectionEFX1_148
+  - first:
+      213: -3397435343457188843
+    second: ProtectionEFX1_149
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Win64
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ProtectionEFX1_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 906
+        width: 107
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5046ba7f397a2cd30800000000000000
+      internalID: 4450303635752707077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_1
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 954
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ace23173893cb9fa0800000000000000
+      internalID: -5792821437155561782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_2
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 906
+        width: 106
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67334aa5fdfd408d0800000000000000
+      internalID: -2880931711218863242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_3
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 954
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99c9def84d344ffc0800000000000000
+      internalID: -3462067633314227047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_4
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 906
+        width: 106
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 199ad028fc2120b70800000000000000
+      internalID: 8863667699068021137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_5
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 954
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e3c8894fd2a87b70800000000000000
+      internalID: 8897040143765521383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_6
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 905
+        width: 107
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ac9b6a109f4e9dc0800000000000000
+      internalID: -3630376769276896090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_7
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 955
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92e7839e0a5196b00800000000000000
+      internalID: 822212187823570473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_8
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 906
+        width: 109
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09488d66b085bda20800000000000000
+      internalID: 3088158775485957264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_9
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 955
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0819bfaa8c4d860e0800000000000000
+      internalID: -2276335653308624512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_10
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 903
+        width: 107
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b18e16bc15fa2c9c0800000000000000
+      internalID: -3908368760764766181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_11
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 906
+        width: 106
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 916f704764a7ad360800000000000000
+      internalID: 7195197797690766873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_12
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 906
+        width: 107
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28b9d5aec1c384c00800000000000000
+      internalID: 885023421667056514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_13
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 778
+        width: 107
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75b5e2815952a36b0800000000000000
+      internalID: -5315895087871403177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_14
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 775
+        width: 107
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39412163e4d6e1320800000000000000
+      internalID: 2530580223310828691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_15
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 775
+        width: 108
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e25ac31596cfd7ac0800000000000000
+      internalID: -3855648176694581970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_16
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 777
+        width: 109
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 338fed4aaf25fcb90800000000000000
+      internalID: -7219460441190238157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_17
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 778
+        width: 110
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9be864eb841dfc10800000000000000
+      internalID: 2088848393234869148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_18
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 778
+        width: 109
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f6e72b607003b920800000000000000
+      internalID: 3004745859220367096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_19
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 777
+        width: 108
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c784074748adf270800000000000000
+      internalID: 8285963913519204290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_20
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 775
+        width: 107
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dbbe709c75e189b0800000000000000
+      internalID: -5079526581534278695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_21
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 649
+        width: 107
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8afc184a56ad4cf0800000000000000
+      internalID: -266373896257865073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_22
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 650
+        width: 108
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 228e742945d7265b0800000000000000
+      internalID: -5376597202942040030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_23
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 675
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f574ceb42a695770800000000000000
+      internalID: 8600021669492585977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_24
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 650
+        width: 104
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f25cdb3a1f4f60120800000000000000
+      internalID: 2379858771783304495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_25
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 650
+        width: 104
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4525610e12d2dfe40800000000000000
+      internalID: 5691755127582904916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_26
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 650
+        width: 104
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd49d940298373ed0800000000000000
+      internalID: -2434414873776646948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_27
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 649
+        width: 104
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e0d7ad623a9f6710800000000000000
+      internalID: 1688737926665982180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_28
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 650
+        width: 105
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a60532f579900f40800000000000000
+      internalID: 5692718660850091683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_29
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 647
+        width: 106
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9b244ec008029d40800000000000000
+      internalID: 5589538887073803167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_30
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 522
+        width: 107
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c314f833bdf644280800000000000000
+      internalID: -9059993563109048004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_31
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 519
+        width: 105
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43baf944f0be05420800000000000000
+      internalID: 2616849834310609716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_32
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 522
+        width: 109
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 876100c00d7cd92f0800000000000000
+      internalID: -964395048818960776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_33
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 522
+        width: 109
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6ecdd747826e84b0800000000000000
+      internalID: -5436299367023784340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_34
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 563
+        width: 109
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39ea6909b4a17f3a0800000000000000
+      internalID: -6631803014429102445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_35
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 621
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f38fb7f77e63ba20800000000000000
+      internalID: 3076924431960867826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_36
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 623
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73e5abb00a47ff6d0800000000000000
+      internalID: -2954514599791403465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_37
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 563
+        width: 108
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8478143502a9681a0800000000000000
+      internalID: -6807584323097491640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_38
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 620
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85e36e6a7fd2bdab0800000000000000
+      internalID: -4982338021075042728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_39
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 623
+        width: 19
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a22d0baa7e99f070800000000000000
+      internalID: 8140712051141845664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_40
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 569
+        width: 108
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dd314f3d71e0e8a0800000000000000
+      internalID: -6277769952506069547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_41
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 619
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deb529b56362e7090800000000000000
+      internalID: -8034942670275978259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_42
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 563
+        width: 108
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb14f58fc942131b0800000000000000
+      internalID: -5678717398536994372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_43
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 519
+        width: 60
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1493f6aec83f913a0800000000000000
+      internalID: -6694051584555402943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_44
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 552
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a82efe4fc244c69c0800000000000000
+      internalID: -3932693414722674038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_45
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 522
+        width: 64
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ddd41dab35168ee0800000000000000
+      internalID: -1259295699752395303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_46
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 551
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72392e6acf0388a70800000000000000
+      internalID: 8829360931149615911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_47
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 522
+        width: 73
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 107decb58c70ae750800000000000000
+      internalID: 6334884382965159681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_48
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 563
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6ee9f289452f99c0800000000000000
+      internalID: -3918372153128784273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_49
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 555
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f621799816daf3ff0800000000000000
+      internalID: -54134036073344401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_50
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 546
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3003334900e7b6e60800000000000000
+      internalID: 7956591707631595523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_51
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 561
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb2e4f6371271a3c0800000000000000
+      internalID: -4350070321031355713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_52
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 557
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6676a3864d10e20f0800000000000000
+      internalID: -1139971643884804250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_53
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 522
+        width: 44
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78c873d3ebcad2d80800000000000000
+      internalID: -8273767007338918777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_54
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 553
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eecddeb2bd7f10de0800000000000000
+      internalID: -1368540291037012754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_55
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 522
+        width: 47
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fedfacebb6b13ed0800000000000000
+      internalID: -2435965005184639242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_56
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 522
+        width: 46
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83389ba005d8affb0800000000000000
+      internalID: -4613219493370821832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_57
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 522
+        width: 47
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a7cea79c00e46b20800000000000000
+      internalID: 3126870385991010217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_58
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 539
+        width: 30
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be93bbc3b527adc10800000000000000
+      internalID: 2079099914171398635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_59
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 522
+        width: 45
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83a1d41e556d37510800000000000000
+      internalID: 1545814761458702904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_60
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 435
+        width: 108
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d5306924cbc8cc70800000000000000
+      internalID: 8991660699413394898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_61
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 491
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3586cf29a37af2d0800000000000000
+      internalID: -3244153411078814402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_62
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 435
+        width: 109
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eaa33ac143563fd0800000000000000
+      internalID: -2362609412478883102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_63
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 493
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f1fd8534f3770240800000000000000
+      internalID: 4757899024047927797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_64
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 435
+        width: 109
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ba98018214438380800000000000000
+      internalID: -8970251186526971208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_65
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 492
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb9598a0f4c146dc0800000000000000
+      internalID: -3646758672458491460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_66
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 439
+        width: 109
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd0cf0668971d8400800000000000000
+      internalID: 327944291182690525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_67
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 491
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e31d58e1ffae3800800000000000000
+      internalID: 594105654379877352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_68
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 441
+        width: 108
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 769713aa9cac0b7c0800000000000000
+      internalID: -4057520296768210585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_69
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 441
+        width: 107
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 272edbfb4618fb4b0800000000000000
+      internalID: -5422473156617182606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_70
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 440
+        width: 107
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8236b050fcfd245b0800000000000000
+      internalID: -5385496124145835224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_71
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 436
+        width: 108
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b1a40f0f9e71c540800000000000000
+      internalID: 5026437880739045813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_72
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 394
+        width: 79
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27fc7d672f38fe8a0800000000000000
+      internalID: -6273650678504632462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_73
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 394
+        width: 96
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd642ce0e0aff6f20800000000000000
+      internalID: 3418225580481595099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_74
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 391
+        width: 93
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d27ada1713a7df870800000000000000
+      internalID: 8718258806438340397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_75
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 419
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09c627241b24cc380800000000000000
+      internalID: -8949705030400578416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_76
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 435
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13fee9f20fdebd420800000000000000
+      internalID: 2655978021111918385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_77
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 443
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9f1d0464f2ac8450800000000000000
+      internalID: 6092423566459740063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_78
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 419
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce34d436a52d6bbe0800000000000000
+      internalID: -1461749743380249620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_79
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 435
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 393eedc6400f57fc0800000000000000
+      internalID: -3497625633786240109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_80
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 394
+        width: 97
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96d32225f898378f0800000000000000
+      internalID: -543939881330393751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_81
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 437
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12def9c784b724e10800000000000000
+      internalID: 2180440720859458849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_82
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 394
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c17ba389257e1ee40800000000000000
+      internalID: 5684078546645595932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_83
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 436
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cdbab24e93b2eeb0800000000000000
+      internalID: -4691990369460896318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_84
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 418
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 064bf07c684d3cdf0800000000000000
+      internalID: -161051486324804512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_85
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 429
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 529afd682bcb08720800000000000000
+      internalID: 2846482439451158821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_86
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 394
+        width: 62
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f14dc18adb8bfcd0800000000000000
+      internalID: -2523269395614187017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_87
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 430
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44cc9e53ce24dbe70800000000000000
+      internalID: 9132529201661463620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_88
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 394
+        width: 85
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8887d96e1fefb6bb0800000000000000
+      internalID: -4941575851199334264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_89
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 394
+        width: 93
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8a6c014a92d4cfa0800000000000000
+      internalID: -5781264461678744949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_90
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 394
+        width: 44
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76b669b5a01819540800000000000000
+      internalID: 5012929741726313319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_91
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 395
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f78794829e25ce0f0800000000000000
+      internalID: -1086402248746370945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_92
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 409
+        width: 30
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8a9deae48e6fae50800000000000000
+      internalID: 6822793477645769359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_93
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 312
+        width: 107
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a59b73ce87393aa90800000000000000
+      internalID: -7303832023096379046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_94
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 266
+        width: 81
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f60fde06b0c962440800000000000000
+      internalID: 4910784016378884207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_95
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 290
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20d4918d761e30080800000000000000
+      internalID: -9222279775801225982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_96
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 312
+        width: 108
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5896507db6b84e430800000000000000
+      internalID: 3811324479947499909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_97
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 266
+        width: 97
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6ba3f5c06ca5edc0800000000000000
+      internalID: -3610289994629665941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_98
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 290
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69d999eea4ffcffc0800000000000000
+      internalID: -3459609716431676010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_99
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 311
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d27b48bc69ca3f330800000000000000
+      internalID: 3743525478934558509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_100
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 311
+        width: 107
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9b3e1127df32b400800000000000000
+      internalID: 338403115212356511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_101
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 266
+        width: 90
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b447655f632219090800000000000000
+      internalID: -8029599041185221557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_102
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 290
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a886331833f18fd70800000000000000
+      internalID: 9077039355036657802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_103
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 266
+        width: 107
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17906861e028856f0800000000000000
+      internalID: -695663145409705615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_104
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 312
+        width: 107
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0e5aeba8e27d6240800000000000000
+      internalID: 4786608322606947854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_105
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 266
+        width: 107
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6614b99e3816cadf0800000000000000
+      internalID: -167651866931674778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_106
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 311
+        width: 107
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d61d1e0541b16cbe0800000000000000
+      internalID: -1457447655337504403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_107
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 313
+        width: 107
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b2c4b9e1053806f0800000000000000
+      internalID: -718265858233417040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_108
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 266
+        width: 107
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50e5d78a76ed5b190800000000000000
+      internalID: -7947201430635586043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_109
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 266
+        width: 98
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d534b5439c6cff6d0800000000000000
+      internalID: -2954424263062633635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_110
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 307
+        width: 106
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83d8f0e1e3e41e6e0800000000000000
+      internalID: -1810079546526954184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_111
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 311
+        width: 106
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e20b88c946faee20800000000000000
+      internalID: 3380785267052577506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_112
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 266
+        width: 95
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 973c1395c0f851530800000000000000
+      internalID: 3825120741719917433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_113
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 291
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b7845626efb9f390800000000000000
+      internalID: -7783979485726734412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_114
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 282
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd32a997ea4106b90800000000000000
+      internalID: -7250772660469488676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_115
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 282
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb91001334d566a80800000000000000
+      internalID: -8473983105684727364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_116
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 290
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bbdcd50ea7772b90800000000000000
+      internalID: -7266707884432630856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_117
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 270
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd55985bcc287e3f0800000000000000
+      internalID: -871584187142285861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_118
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 183
+        width: 105
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d58fe4e0d4f0551e0800000000000000
+      internalID: -2209843218528405411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_119
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 138
+        width: 101
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b415f863ed2ad9c0800000000000000
+      internalID: -3901755672421395273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_120
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 183
+        width: 105
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b6a3dd475b7a2460800000000000000
+      internalID: 7217716967712728755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_121
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 138
+        width: 102
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c65122f4eb353b3a0800000000000000
+      internalID: -6650880147859565204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_122
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 183
+        width: 106
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 230dab12077eb0e60800000000000000
+      internalID: 7929686037704134706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_123
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 138
+        width: 98
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bab6b9ed2f5684dc0800000000000000
+      internalID: -3654559003819938901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_124
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 185
+        width: 106
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 465cb45fe06d6ed40800000000000000
+      internalID: 5613409345297171812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_125
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 138
+        width: 99
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 601212d01c9ce3470800000000000000
+      internalID: 8376354187941847302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_126
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 183
+        width: 106
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6ba2dc70ef748c20800000000000000
+      internalID: 3207829436738218861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_127
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 138
+        width: 99
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 724519961b3d83900800000000000000
+      internalID: 664513703970952231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_128
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 183
+        width: 106
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c689d7f4fa1c38350800000000000000
+      internalID: 6017866485794183276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_129
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 137
+        width: 99
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f1a3d82f0cdeb1c0800000000000000
+      internalID: -4485906221146856968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_130
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 183
+        width: 106
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b281b35badb4d0860800000000000000
+      internalID: 7497732357357246507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_131
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 138
+        width: 98
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6138fd246c551e8d0800000000000000
+      internalID: -2818877581743389930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_132
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 185
+        width: 107
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdd99f21909b7f320800000000000000
+      internalID: 2591743559199202783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_133
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 138
+        width: 102
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50f12db4f95b99ba0800000000000000
+      internalID: -6081630126010654971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_134
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 10
+        width: 107
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98914301e65bfcd70800000000000000
+      internalID: 9065664059242977673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_135
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 10
+        width: 103
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 543ba1354734ff490800000000000000
+      internalID: -7710369870145473723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_136
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 51
+        width: 107
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53f0ab8be100aa990800000000000000
+      internalID: -7374081307917545675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_137
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 9
+        width: 100
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7b24aa4078af02e0800000000000000
+      internalID: -2157320496245101698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_138
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 56
+        width: 108
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f03fd74b3762bdf0800000000000000
+      internalID: -165956731952746247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_139
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 10
+        width: 108
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b86c7112373256600800000000000000
+      internalID: 460813514258761355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_140
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 54
+        width: 107
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae411aa3471a10370800000000000000
+      internalID: 8287082309910336746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_141
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 10
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b2c8bece560255a0800000000000000
+      internalID: -6534153105096260939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_142
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 58
+        width: 106
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06a55afdc364a7cb0800000000000000
+      internalID: -4865499220156261792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_143
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 10
+        width: 107
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74d44034b1e8ba540800000000000000
+      internalID: 5020262457374166343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_144
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 63
+        width: 106
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d3d4bd38143d3a00800000000000000
+      internalID: 737803192677749717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_145
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 58
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b8196f211b441cf0800000000000000
+      internalID: -282518339435554634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_146
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 10
+        width: 107
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15edc11f04af112f0800000000000000
+      internalID: -1003746085096858031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_147
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 58
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78ac6e280d9b68820800000000000000
+      internalID: 2920225713596844679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_148
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 10
+        width: 106
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ddd73f1ce2549560800000000000000
+      internalID: 7319566468473413075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProtectionEFX1_149
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 58
+        width: 107
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51480e53e82e9d0d0800000000000000
+      internalID: -3397435343457188843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

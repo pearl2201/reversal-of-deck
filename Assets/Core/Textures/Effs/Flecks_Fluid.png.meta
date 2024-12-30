@@ -1,0 +1,993 @@
+fileFormatVersion: 2
+guid: ab45f769d1deff442b888419a6868278
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5638371307151156160
+    second: Flecks_Fluid_0
+  - first:
+      213: -5844724673681650214
+    second: Flecks_Fluid_1
+  - first:
+      213: -8966135577297639419
+    second: Flecks_Fluid_2
+  - first:
+      213: -9066519851589153645
+    second: Flecks_Fluid_3
+  - first:
+      213: -665386362801497046
+    second: Flecks_Fluid_4
+  - first:
+      213: -7199236242222788299
+    second: Flecks_Fluid_5
+  - first:
+      213: 4304415803176407652
+    second: Flecks_Fluid_6
+  - first:
+      213: 6507603351803773498
+    second: Flecks_Fluid_7
+  - first:
+      213: 5531092889526012687
+    second: Flecks_Fluid_8
+  - first:
+      213: 3925925539699441460
+    second: Flecks_Fluid_9
+  - first:
+      213: -3780316316447351265
+    second: Flecks_Fluid_10
+  - first:
+      213: -5594404207928806869
+    second: Flecks_Fluid_11
+  - first:
+      213: 4961155404374537506
+    second: Flecks_Fluid_12
+  - first:
+      213: -1941731145173401277
+    second: Flecks_Fluid_13
+  - first:
+      213: -4768268838998237381
+    second: Flecks_Fluid_14
+  - first:
+      213: 8146713000874523541
+    second: Flecks_Fluid_15
+  - first:
+      213: -514438904801139450
+    second: Flecks_Fluid_16
+  - first:
+      213: -932705437784110335
+    second: Flecks_Fluid_17
+  - first:
+      213: -1249205326475097343
+    second: Flecks_Fluid_18
+  - first:
+      213: -4714323932782516618
+    second: Flecks_Fluid_19
+  - first:
+      213: -6455623169278946830
+    second: Flecks_Fluid_20
+  - first:
+      213: 7305723030162057644
+    second: Flecks_Fluid_21
+  - first:
+      213: 6658795423554527085
+    second: Flecks_Fluid_22
+  - first:
+      213: -559269473494521010
+    second: Flecks_Fluid_23
+  - first:
+      213: -2703691982986829801
+    second: Flecks_Fluid_24
+  - first:
+      213: -4146758766849812534
+    second: Flecks_Fluid_25
+  - first:
+      213: -6182527732951111436
+    second: Flecks_Fluid_26
+  - first:
+      213: -3672828998591652827
+    second: Flecks_Fluid_27
+  - first:
+      213: 7167812388024319429
+    second: Flecks_Fluid_28
+  - first:
+      213: 2841295310572537614
+    second: Flecks_Fluid_29
+  - first:
+      213: -8592000702662154489
+    second: Flecks_Fluid_30
+  - first:
+      213: 2682708887577503739
+    second: Flecks_Fluid_31
+  - first:
+      213: -3766782261492087006
+    second: Flecks_Fluid_32
+  - first:
+      213: 1929633026165944739
+    second: Flecks_Fluid_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Win64
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Flecks_Fluid_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 269
+        width: 195
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04c10856b2b70c1b0800000000000000
+      internalID: -5638371307151156160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flecks_Fluid_1
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 490
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: add8e3f30ed53eea0800000000000000
+      internalID: -5844724673681650214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flecks_Fluid_2
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 306
+        width: 206
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 508ae237233e19380800000000000000
+      internalID: -8966135577297639419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flecks_Fluid_3
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 470
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39c40014b304d2280800000000000000
+      internalID: -9066519851589153645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flecks_Fluid_4
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 480
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2cd3ded0a214c6f0800000000000000
+      internalID: -665386362801497046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flecks_Fluid_5
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 470
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5315138e7cc271c90800000000000000
+      internalID: -7199236242222788299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flecks_Fluid_6
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 448
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46258e10e5b5cbb30800000000000000
+      internalID: 4304415803176407652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flecks_Fluid_7
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 417
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a32c76b05c6af4a50800000000000000
+      internalID: 6507603351803773498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flecks_Fluid_8
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 412
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0b03e39da362cc40800000000000000
+      internalID: 5531092889526012687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flecks_Fluid_9
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 389
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43f3b685a70bb7630800000000000000
+      internalID: 3925925539699441460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flecks_Fluid_10
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 361
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1eda83d65e998bc0800000000000000
+      internalID: -3780316316447351265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flecks_Fluid_11
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 312
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b22f378630fac52b0800000000000000
+      internalID: -5594404207928806869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flecks_Fluid_12
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 317
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 225f0411e8099d440800000000000000
+      internalID: 4961155404374537506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flecks_Fluid_13
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 280
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34180aaafc59d05e0800000000000000
+      internalID: -1941731145173401277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flecks_Fluid_14
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 288
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3f12f911c4b3ddb0800000000000000
+      internalID: -4768268838998237381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flecks_Fluid_15
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 261
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59bbe28af40fe0170800000000000000
+      internalID: 8146713000874523541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flecks_Fluid_16
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 201
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 605efacaa885cd8f0800000000000000
+      internalID: -514438904801139450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flecks_Fluid_17
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 35
+        width: 192
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10b8dc4985d5e03f0800000000000000
+      internalID: -932705437784110335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flecks_Fluid_18
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 224
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10b0de7cf5ee9aee0800000000000000
+      internalID: -1249205326475097343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flecks_Fluid_19
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 192
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67620665c5b539eb0800000000000000
+      internalID: -4714323932782516618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flecks_Fluid_20
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 23
+        width: 230
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f1d85f4ee40966a0800000000000000
+      internalID: -6455623169278946830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flecks_Fluid_21
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 189
+        width: 62
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca923387364236560800000000000000
+      internalID: 7305723030162057644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flecks_Fluid_22
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 213
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6fd6fc682bc86c50800000000000000
+      internalID: 6658795423554527085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flecks_Fluid_23
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 191
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4ba3a280631d38f0800000000000000
+      internalID: -559269473494521010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flecks_Fluid_24
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 165
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 710affb577e8a7ad0800000000000000
+      internalID: -2703691982986829801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flecks_Fluid_25
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 163
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac71eac3fd0c376c0800000000000000
+      internalID: -4146758766849812534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flecks_Fluid_26
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 156
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f8a27788cf333aa0800000000000000
+      internalID: -6182527732951111436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flecks_Fluid_27
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 61
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52cd03a3c7d770dc0800000000000000
+      internalID: -3672828998591652827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flecks_Fluid_28
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 66
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cd75d4e36f297360800000000000000
+      internalID: 7167812388024319429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flecks_Fluid_29
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 67
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e07c8a8f70f4e6720800000000000000
+      internalID: 2841295310572537614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flecks_Fluid_30
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 17
+        width: 40
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7076aef12e413c880800000000000000
+      internalID: -8592000702662154489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flecks_Fluid_31
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 14
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf727d70585ea3520800000000000000
+      internalID: 2682708887577503739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flecks_Fluid_32
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 30
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 227858d8d73b9bbc0800000000000000
+      internalID: -3766782261492087006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flecks_Fluid_33
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 12
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a1bb7f730f67ca10800000000000000
+      internalID: 1929633026165944739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

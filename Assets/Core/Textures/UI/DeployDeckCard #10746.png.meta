@@ -1,0 +1,1518 @@
+fileFormatVersion: 2
+guid: a779d70424376364bb12c464aa39c427
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6129950499831621355
+    second: DeployDeckCard #10746_0
+  - first:
+      213: 4703809076355656120
+    second: DeployDeckCard #10746_1
+  - first:
+      213: 1614026226783870450
+    second: DeployDeckCard #10746_2
+  - first:
+      213: 758780148562401616
+    second: DeployDeckCard #10746_3
+  - first:
+      213: -5866584922795435587
+    second: DeployDeckCard #10746_4
+  - first:
+      213: -6013153653693060511
+    second: DeployDeckCard #10746_5
+  - first:
+      213: -4382957345369025988
+    second: DeployDeckCard #10746_6
+  - first:
+      213: 8150589398118095529
+    second: DeployDeckCard #10746_7
+  - first:
+      213: 8908126601117111135
+    second: DeployDeckCard #10746_8
+  - first:
+      213: 3662076979534337239
+    second: DeployDeckCard #10746_9
+  - first:
+      213: 6929052912001240408
+    second: DeployDeckCard #10746_10
+  - first:
+      213: -177884205299417856
+    second: DeployDeckCard #10746_11
+  - first:
+      213: 52225412792118721
+    second: DeployDeckCard #10746_12
+  - first:
+      213: 6904266561692147096
+    second: DeployDeckCard #10746_13
+  - first:
+      213: 2354645714081368989
+    second: DeployDeckCard #10746_14
+  - first:
+      213: 9063022030085889608
+    second: DeployDeckCard #10746_15
+  - first:
+      213: 8998321827502939885
+    second: DeployDeckCard #10746_16
+  - first:
+      213: -6562918708637983931
+    second: DeployDeckCard #10746_17
+  - first:
+      213: 5817119944440900259
+    second: DeployDeckCard #10746_18
+  - first:
+      213: 517270314484929268
+    second: DeployDeckCard #10746_19
+  - first:
+      213: -3262986996917380948
+    second: DeployDeckCard #10746_20
+  - first:
+      213: -8707375743225249274
+    second: DeployDeckCard #10746_21
+  - first:
+      213: -7503232538173787128
+    second: DeployDeckCard #10746_22
+  - first:
+      213: -2113673905322245839
+    second: DeployDeckCard #10746_23
+  - first:
+      213: 1936529988669623972
+    second: DeployDeckCard #10746_24
+  - first:
+      213: -6532189481934974510
+    second: DeployDeckCard #10746_25
+  - first:
+      213: 8518022630440682940
+    second: DeployDeckCard #10746_26
+  - first:
+      213: -3366837708734079707
+    second: DeployDeckCard #10746_27
+  - first:
+      213: -3901287188587672834
+    second: DeployDeckCard #10746_28
+  - first:
+      213: 6985868999873096955
+    second: DeployDeckCard #10746_29
+  - first:
+      213: -359866990039706774
+    second: DeployDeckCard #10746_30
+  - first:
+      213: 4486712967615682609
+    second: DeployDeckCard #10746_31
+  - first:
+      213: 8714923294167551801
+    second: DeployDeckCard #10746_32
+  - first:
+      213: -1934342616648736528
+    second: DeployDeckCard #10746_33
+  - first:
+      213: -4504340208413732957
+    second: DeployDeckCard #10746_34
+  - first:
+      213: 694016756795725131
+    second: DeployDeckCard #10746_35
+  - first:
+      213: -9198389849622541739
+    second: DeployDeckCard #10746_36
+  - first:
+      213: 7109244074412744888
+    second: DeployDeckCard #10746_37
+  - first:
+      213: -3652209678011485552
+    second: DeployDeckCard #10746_38
+  - first:
+      213: -2579312257387962643
+    second: DeployDeckCard #10746_39
+  - first:
+      213: 6266508706114291260
+    second: DeployDeckCard #10746_40
+  - first:
+      213: -8221538632104797698
+    second: DeployDeckCard #10746_41
+  - first:
+      213: 611222504207149403
+    second: DeployDeckCard #10746_42
+  - first:
+      213: -8552141572091795618
+    second: DeployDeckCard #10746_43
+  - first:
+      213: -7740532716004363951
+    second: DeployDeckCard #10746_44
+  - first:
+      213: 7298150126835747614
+    second: DeployDeckCard #10746_45
+  - first:
+      213: 1074396066975686281
+    second: DeployDeckCard #10746_46
+  - first:
+      213: -1702756480307125516
+    second: DeployDeckCard #10746_47
+  - first:
+      213: -2185592075582049810
+    second: DeployDeckCard #10746_48
+  - first:
+      213: -6066947064971866615
+    second: DeployDeckCard #10746_49
+  - first:
+      213: 6459261916574003758
+    second: DeployDeckCard #10746_50
+  - first:
+      213: -8590604749584007907
+    second: DeployDeckCard #10746_51
+  - first:
+      213: 2925441773585039247
+    second: DeployDeckCard #10746_52
+  - first:
+      213: 3763005322582127631
+    second: DeployDeckCard #10746_53
+  - first:
+      213: 749024272556981324
+    second: DeployDeckCard #10746_54
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Win64
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DeployDeckCard #10746_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 993
+        width: 388
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 519dece8f7a0eeaa0800000000000000
+      internalID: -6129950499831621355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeployDeckCard #10746_1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 953
+        width: 386
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b9ef6fde69474140800000000000000
+      internalID: 4703809076355656120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeployDeckCard #10746_2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 919
+        width: 386
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fddd914d4c266610800000000000000
+      internalID: 1614026226783870450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeployDeckCard #10746_3
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 773
+        width: 108
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0591ea1668ab78a00800000000000000
+      internalID: 758780148562401616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeployDeckCard #10746_4
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 773
+        width: 108
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db99d106814b59ea0800000000000000
+      internalID: -5866584922795435587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeployDeckCard #10746_5
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 773
+        width: 108
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16a68cb6c9cfc8ca0800000000000000
+      internalID: -6013153653693060511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeployDeckCard #10746_6
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 894
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c32179b248b9c23c0800000000000000
+      internalID: -4382957345369025988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeployDeckCard #10746_7
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 894
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aad4e8bfd5bc1170800000000000000
+      internalID: 8150589398118095529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeployDeckCard #10746_8
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 894
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f531bc942f500ab70800000000000000
+      internalID: 8908126601117111135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeployDeckCard #10746_9
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 894
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d497414c9f42d230800000000000000
+      internalID: 3662076979534337239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeployDeckCard #10746_10
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 855
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85d48b969e0f82060800000000000000
+      internalID: 6929052912001240408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeployDeckCard #10746_11
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 844
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00db9fbf147088df0800000000000000
+      internalID: -177884205299417856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeployDeckCard #10746_12
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 844
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cde8b97cba89b000800000000000000
+      internalID: 52225412792118721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeployDeckCard #10746_13
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 828
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89d94448bd1e0df50800000000000000
+      internalID: 6904266561692147096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeployDeckCard #10746_14
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 828
+        width: 49
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9b47bf2dc16da020800000000000000
+      internalID: 2354645714081368989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeployDeckCard #10746_15
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 806
+        width: 209
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84e1fc6b48256cd70800000000000000
+      internalID: 9063022030085889608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeployDeckCard #10746_16
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 820
+        width: 63
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deed4f6e60670ec70800000000000000
+      internalID: 8998321827502939885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeployDeckCard #10746_17
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 820
+        width: 63
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54b1ed1d434dbe4a0800000000000000
+      internalID: -6562918708637983931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeployDeckCard #10746_18
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 644
+        width: 140
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aa6d30e4cf8ab050800000000000000
+      internalID: 5817119944440900259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeployDeckCard #10746_19
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 767
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f29ab34c96bd2700800000000000000
+      internalID: 517270314484929268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeployDeckCard #10746_20
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 605
+        width: 129
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca855064d9a87b2d0800000000000000
+      internalID: -3262986996917380948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeployDeckCard #10746_21
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 662
+        width: 103
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 602c43b25ef292780800000000000000
+      internalID: -8707375743225249274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeployDeckCard #10746_22
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 571
+        width: 188
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 804bff6a2c92fd790800000000000000
+      internalID: -7503232538173787128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeployDeckCard #10746_23
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 659
+        width: 108
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 131414628c8baa2e0800000000000000
+      internalID: -2113673905322245839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeployDeckCard #10746_24
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 659
+        width: 106
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ae4b87b3cfefda10800000000000000
+      internalID: 1936529988669623972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeployDeckCard #10746_25
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 701
+        width: 70
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d119b376400955a0800000000000000
+      internalID: -6532189481934974510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeployDeckCard #10746_26
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 692
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb5c724b378163670800000000000000
+      internalID: 8518022630440682940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeployDeckCard #10746_27
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 701
+        width: 65
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52dd38231f69641d0800000000000000
+      internalID: -3366837708734079707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeployDeckCard #10746_28
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 611
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efa037dc8f7dbd9c0800000000000000
+      internalID: -3901287188587672834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeployDeckCard #10746_29
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 605
+        width: 26
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfc69d8b7dac2f060800000000000000
+      internalID: 6985868999873096955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeployDeckCard #10746_30
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 611
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a635b4411ee710bf0800000000000000
+      internalID: -359866990039706774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeployDeckCard #10746_31
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 617
+        width: 26
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1381fd32ca1044e30800000000000000
+      internalID: 4486712967615682609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeployDeckCard #10746_32
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 617
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93f42a9ff80a1f870800000000000000
+      internalID: 8714923294167551801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeployDeckCard #10746_33
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 611
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f0a0c483a5d725e0800000000000000
+      internalID: -1934342616648736528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeployDeckCard #10746_34
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 605
+        width: 26
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3af8df9027e5d71c0800000000000000
+      internalID: -4504340208413732957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeployDeckCard #10746_35
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 611
+        width: 54
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b455af03094a1a900800000000000000
+      internalID: 694016756795725131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeployDeckCard #10746_36
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 486
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55a80bbba21c85080800000000000000
+      internalID: -9198389849622541739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeployDeckCard #10746_37
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 367
+        width: 270
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b02cecb1db19a260800000000000000
+      internalID: 7109244074412744888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeployDeckCard #10746_38
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 408
+        width: 194
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 092b1e8e5aeb05dc0800000000000000
+      internalID: -3652209678011485552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeployDeckCard #10746_39
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 551
+        width: 6
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dee549dea21743cd0800000000000000
+      internalID: -2579312257387962643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeployDeckCard #10746_40
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 531
+        width: 388
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c36c5d1877c17f650800000000000000
+      internalID: 6266508706114291260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeployDeckCard #10746_41
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 539
+        width: 26
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef91e367c2a37ed80800000000000000
+      internalID: -8221538632104797698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeployDeckCard #10746_42
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 447
+        width: 78
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b59edf111af7b7800800000000000000
+      internalID: 611222504207149403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeployDeckCard #10746_43
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 239
+        width: 120
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e572e962d80b05980800000000000000
+      internalID: -8552141572091795618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeployDeckCard #10746_44
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 221
+        width: 152
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1513542818a149490800000000000000
+      internalID: -7740532716004363951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeployDeckCard #10746_45
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 276
+        width: 78
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1b44838fdc384560800000000000000
+      internalID: 7298150126835747614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeployDeckCard #10746_46
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 332
+        width: 387
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98e9920d78509ee00800000000000000
+      internalID: 1074396066975686281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeployDeckCard #10746_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 88
+        width: 133
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f2ac44b0089e58e0800000000000000
+      internalID: -1702756480307125516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeployDeckCard #10746_48
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 88
+        width: 130
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee1f50746973ba1e0800000000000000
+      internalID: -2185592075582049810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeployDeckCard #10746_49
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 167
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90ec049d9cfddcba0800000000000000
+      internalID: -6066947064971866615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeployDeckCard #10746_50
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 167
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e223a909d78e3a950800000000000000
+      internalID: 6459261916574003758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeployDeckCard #10746_51
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 170
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1df247ce7a08c880800000000000000
+      internalID: -8590604749584007907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeployDeckCard #10746_52
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 170
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8fff9d1bc1499820800000000000000
+      internalID: 2925441773585039247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeployDeckCard #10746_53
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 89
+        width: 121
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0479645761e83430800000000000000
+      internalID: 3763005322582127631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeployDeckCard #10746_54
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 93
+        width: 127
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4c77ed7b91156a00800000000000000
+      internalID: 749024272556981324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

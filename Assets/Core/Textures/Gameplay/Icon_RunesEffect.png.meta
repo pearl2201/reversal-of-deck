@@ -1,0 +1,868 @@
+fileFormatVersion: 2
+guid: e01ea87c6a268e84795334e90b2b5dc5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6338944377614508435
+    second: Icon_RunesEffect_0
+  - first:
+      213: -7333027268775954068
+    second: Icon_RunesEffect_1
+  - first:
+      213: -5298042451260910647
+    second: Icon_RunesEffect_2
+  - first:
+      213: 4185457170739327679
+    second: Icon_RunesEffect_3
+  - first:
+      213: -944836475318441769
+    second: Icon_RunesEffect_4
+  - first:
+      213: 6287144770417757117
+    second: Icon_RunesEffect_5
+  - first:
+      213: -8454137346175395663
+    second: Icon_RunesEffect_6
+  - first:
+      213: 94473942577495083
+    second: Icon_RunesEffect_7
+  - first:
+      213: 6996588509122761863
+    second: Icon_RunesEffect_8
+  - first:
+      213: 4067089113151484111
+    second: Icon_RunesEffect_9
+  - first:
+      213: 6538236436644108260
+    second: Icon_RunesEffect_10
+  - first:
+      213: 4546832702230663266
+    second: Icon_RunesEffect_11
+  - first:
+      213: -1346693373093001037
+    second: Icon_RunesEffect_12
+  - first:
+      213: -4062991773615067917
+    second: Icon_RunesEffect_13
+  - first:
+      213: 4462946348686692419
+    second: Icon_RunesEffect_14
+  - first:
+      213: 3127255391551318074
+    second: Icon_RunesEffect_15
+  - first:
+      213: 2791723827797793341
+    second: Icon_RunesEffect_16
+  - first:
+      213: 3683011052902666055
+    second: Icon_RunesEffect_17
+  - first:
+      213: -8591260703177616056
+    second: Icon_RunesEffect_18
+  - first:
+      213: 8137260073672281851
+    second: Icon_RunesEffect_19
+  - first:
+      213: -505292921429131422
+    second: Icon_RunesEffect_20
+  - first:
+      213: 7306851029795635076
+    second: Icon_RunesEffect_21
+  - first:
+      213: -6700675102721699334
+    second: Icon_RunesEffect_22
+  - first:
+      213: -7361945170324972699
+    second: Icon_RunesEffect_23
+  - first:
+      213: 4479988205149318133
+    second: Icon_RunesEffect_24
+  - first:
+      213: 3380877174610734684
+    second: Icon_RunesEffect_25
+  - first:
+      213: 6193844255617311062
+    second: Icon_RunesEffect_26
+  - first:
+      213: -1562349732673962602
+    second: Icon_RunesEffect_27
+  - first:
+      213: 3636602942507433749
+    second: Icon_RunesEffect_28
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Win64
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Icon_RunesEffect_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 906
+        width: 83
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6ed3597cab8708a0800000000000000
+      internalID: -6338944377614508435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_RunesEffect_1
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 920
+        width: 92
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c693b541d8adb3a90800000000000000
+      internalID: -7333027268775954068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_RunesEffect_2
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 913
+        width: 93
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c357a7f5729976b0800000000000000
+      internalID: -5298042451260910647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_RunesEffect_3
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 907
+        width: 105
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb2778c0f1bb51a30800000000000000
+      internalID: 4185457170739327679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_RunesEffect_4
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 913
+        width: 93
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d8efcd4b3443e2f0800000000000000
+      internalID: -944836475318441769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_RunesEffect_5
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 911
+        width: 93
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbb8434abdc604750800000000000000
+      internalID: 6287144770417757117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_RunesEffect_6
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 897
+        width: 101
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b81ad620eedcaa80800000000000000
+      internalID: -8454137346175395663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_RunesEffect_7
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 904
+        width: 120
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2cbcdbdc83af4100800000000000000
+      internalID: 94473942577495083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_RunesEffect_8
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 777
+        width: 120
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78497d5fd20e81160800000000000000
+      internalID: 6996588509122761863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_RunesEffect_9
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 777
+        width: 120
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc0b0430004317830800000000000000
+      internalID: 4067089113151484111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_RunesEffect_10
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 777
+        width: 120
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e710b7e56b7cba50800000000000000
+      internalID: 6538236436644108260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_RunesEffect_11
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 776
+        width: 113
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2609695a048991f30800000000000000
+      internalID: 4546832702230663266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_RunesEffect_12
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 776
+        width: 113
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b84b6323859f4de0800000000000000
+      internalID: -1346693373093001037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_RunesEffect_13
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 775
+        width: 113
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fce650328a5d97c0800000000000000
+      internalID: -4062991773615067917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_RunesEffect_14
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 776
+        width: 113
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 340d815fe029fed30800000000000000
+      internalID: 4462946348686692419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_RunesEffect_15
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 787
+        width: 91
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a38675fa53e366b20800000000000000
+      internalID: 3127255391551318074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_RunesEffect_16
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 648
+        width: 113
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3a91eab7023eb620800000000000000
+      internalID: 2791723827797793341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_RunesEffect_17
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 648
+        width: 113
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74fc9180a0fac1330800000000000000
+      internalID: 3683011052902666055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_RunesEffect_18
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 648
+        width: 113
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 845535ea8e5b5c880800000000000000
+      internalID: -8591260703177616056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_RunesEffect_19
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 648
+        width: 113
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfe84388cea5de070800000000000000
+      internalID: 8137260073672281851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_RunesEffect_20
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 647
+        width: 113
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26f72bed3c6dcf8f0800000000000000
+      internalID: -505292921429131422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_RunesEffect_21
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 661
+        width: 100
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48f7aa95c46276560800000000000000
+      internalID: 7306851029795635076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_RunesEffect_22
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 648
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af118faee7b6203a0800000000000000
+      internalID: -6700675102721699334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_RunesEffect_23
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 687
+        width: 60
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56b90e27fdd15d990800000000000000
+      internalID: -7361945170324972699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_RunesEffect_24
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 661
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fb6ddd598d1c2e30800000000000000
+      internalID: 4479988205149318133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_RunesEffect_25
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 599
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5e26eda0e94bee20800000000000000
+      internalID: 3380877174610734684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_RunesEffect_26
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 520
+        width: 113
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 651e92ab884f4f550800000000000000
+      internalID: 6193844255617311062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_RunesEffect_27
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 520
+        width: 113
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69dba01223b615ae0800000000000000
+      internalID: -1562349732673962602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_RunesEffect_28
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 534
+        width: 60
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51fbb41db1fc77230800000000000000
+      internalID: 3636602942507433749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

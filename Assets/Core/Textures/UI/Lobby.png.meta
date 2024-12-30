@@ -1,0 +1,1018 @@
+fileFormatVersion: 2
+guid: 221124c062ec6fa4b8c255f5f56360d0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2570111198774267966
+    second: Lobby_0
+  - first:
+      213: -1394444690116117294
+    second: Lobby_1
+  - first:
+      213: 345280746160549197
+    second: Lobby_2
+  - first:
+      213: 3266169381190365106
+    second: Lobby_3
+  - first:
+      213: -6314673907146390679
+    second: Lobby_4
+  - first:
+      213: -1663305240363228061
+    second: Lobby_5
+  - first:
+      213: 924162970186226094
+    second: Lobby_6
+  - first:
+      213: 2382659086583758084
+    second: Lobby_7
+  - first:
+      213: -1475053914417911405
+    second: Lobby_8
+  - first:
+      213: 6308137594606908514
+    second: Lobby_9
+  - first:
+      213: -3502011712387989096
+    second: Lobby_10
+  - first:
+      213: -6242031767713976608
+    second: Lobby_11
+  - first:
+      213: -3991290773641279129
+    second: Lobby_12
+  - first:
+      213: -2052887295787308684
+    second: Lobby_13
+  - first:
+      213: 6993782539965719987
+    second: Lobby_14
+  - first:
+      213: 6463773611638900988
+    second: Lobby_15
+  - first:
+      213: -4616749643620091456
+    second: Lobby_16
+  - first:
+      213: -2964286985127516326
+    second: Lobby_17
+  - first:
+      213: 7959981282698458040
+    second: Lobby_18
+  - first:
+      213: -1245273864081419347
+    second: Lobby_19
+  - first:
+      213: -7137786874778309076
+    second: Lobby_20
+  - first:
+      213: -772301555744291336
+    second: Lobby_21
+  - first:
+      213: 1143292156362523947
+    second: Lobby_22
+  - first:
+      213: -4877617422853109870
+    second: Lobby_23
+  - first:
+      213: 1669227553038478762
+    second: Lobby_24
+  - first:
+      213: 6077646038809073646
+    second: Lobby_25
+  - first:
+      213: 7769416249265085586
+    second: Lobby_26
+  - first:
+      213: -7583402287799820454
+    second: Lobby_27
+  - first:
+      213: -1551029290787790944
+    second: Lobby_28
+  - first:
+      213: -1228700564113735546
+    second: Lobby_29
+  - first:
+      213: -2647313609021358918
+    second: Lobby_30
+  - first:
+      213: 901042416933999215
+    second: Lobby_31
+  - first:
+      213: 8805975003398913547
+    second: Lobby_32
+  - first:
+      213: 5382551967712668353
+    second: Lobby_33
+  - first:
+      213: 5637560710864334304
+    second: Lobby_34
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Win64
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lobby_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 919
+        width: 718
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cf6ec35b71255cd0800000000000000
+      internalID: -2570111198774267966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lobby_1
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 949
+        width: 174
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dcf2b241ffe5ace0800000000000000
+      internalID: -1394444690116117294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lobby_2
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 959
+        width: 109
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4d6eae520faac400800000000000000
+      internalID: 345280746160549197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lobby_3
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 922
+        width: 115
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bfeb1e4fb3c35d20800000000000000
+      internalID: 3266169381190365106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lobby_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 886
+        width: 580
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9638c1cb985cd58a0800000000000000
+      internalID: -6314673907146390679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lobby_5
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 716
+        width: 150
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 364aa1b42b0cae8e0800000000000000
+      internalID: -1663305240363228061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lobby_6
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 715
+        width: 150
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea91580335943dc00800000000000000
+      internalID: 924162970186226094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lobby_7
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 857
+        width: 578
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40d7eacb0d7e01120800000000000000
+      internalID: 2382659086583758084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lobby_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 738
+        width: 223
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 399229ea74e878be0800000000000000
+      internalID: -1475053914417911405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lobby_9
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 714
+        width: 164
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 264f4d868b10b8750800000000000000
+      internalID: 6308137594606908514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lobby_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 617
+        width: 710
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8914bdbe6ea566fc0800000000000000
+      internalID: -3502011712387989096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lobby_11
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 675
+        width: 162
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ee64b0dd29df59a0800000000000000
+      internalID: -6242031767713976608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lobby_12
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 643
+        width: 158
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76941d920361c98c0800000000000000
+      internalID: -3991290773641279129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lobby_13
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 541
+        width: 328
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4796fa291eda283e0800000000000000
+      internalID: -2052887295787308684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lobby_14
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 539
+        width: 327
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b56cfa5a28ee0160800000000000000
+      internalID: 6993782539965719987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lobby_15
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 584
+        width: 158
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf8c74e6adfe3b950800000000000000
+      internalID: 6463773611638900988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lobby_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 489
+        width: 53
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c9fc13e8a20eefb0800000000000000
+      internalID: -4616749643620091456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lobby_17
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 496
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a57292741bcbcd6d0800000000000000
+      internalID: -2964286985127516326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lobby_18
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 496
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b3fff58dc8877e60800000000000000
+      internalID: 7959981282698458040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lobby_19
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 496
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da35953b406e7bee0800000000000000
+      internalID: -1245273864081419347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lobby_20
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 496
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2ea46ea7ac71fc90800000000000000
+      internalID: -7137786874778309076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lobby_21
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 493
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f5416ea3db3845f0800000000000000
+      internalID: -772301555744291336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lobby_22
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 282
+        width: 150
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b258a76a82acddf00800000000000000
+      internalID: 1143292156362523947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lobby_23
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 363
+        width: 266
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2978590fbc83f4cb0800000000000000
+      internalID: -4877617422853109870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lobby_24
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 359
+        width: 256
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aad27249d994a2710800000000000000
+      internalID: 1669227553038478762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lobby_25
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 385
+        width: 91
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee756cd1fd2285450800000000000000
+      internalID: 6077646038809073646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lobby_26
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 427
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29cd7912ae282db60800000000000000
+      internalID: 7769416249265085586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lobby_27
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 163
+        width: 306
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5f9ece3cc752c690800000000000000
+      internalID: -7583402287799820454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lobby_28
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 179
+        width: 236
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0af1e56e313a97ae0800000000000000
+      internalID: -1551029290787790944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lobby_29
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 179
+        width: 59
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 680cdacc857c2fee0800000000000000
+      internalID: -1228700564113735546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lobby_30
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 179
+        width: 235
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abc79357c4ad24bd0800000000000000
+      internalID: -2647313609021358918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lobby_31
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 179
+        width: 59
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6219e4ed45218c00800000000000000
+      internalID: 901042416933999215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lobby_32
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 41
+        width: 252
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0ebf8a0c9b153a70800000000000000
+      internalID: 8805975003398913547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lobby_33
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 59
+        width: 297
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cae7942f7aa2ba40800000000000000
+      internalID: 5382551967712668353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lobby_34
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 0
+        width: 7
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ed64c2f893ac3e40800000000000000
+      internalID: 5637560710864334304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

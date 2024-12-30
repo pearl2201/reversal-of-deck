@@ -1,0 +1,768 @@
+fileFormatVersion: 2
+guid: f90452ace80bf844a9d615fe53125e90
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4214869433815727704
+    second: SkillBoardSkin_015_A_0
+  - first:
+      213: -7663197399129468007
+    second: SkillBoardSkin_015_A_1
+  - first:
+      213: -389826983001205814
+    second: SkillBoardSkin_015_A_2
+  - first:
+      213: -6147899500277799935
+    second: SkillBoardSkin_015_A_3
+  - first:
+      213: -6779357910242093393
+    second: SkillBoardSkin_015_A_4
+  - first:
+      213: -6190401960756819632
+    second: SkillBoardSkin_015_A_5
+  - first:
+      213: -2139882251819396248
+    second: SkillBoardSkin_015_A_6
+  - first:
+      213: 3255833033020481407
+    second: SkillBoardSkin_015_A_7
+  - first:
+      213: 4985788135859836529
+    second: SkillBoardSkin_015_A_8
+  - first:
+      213: 3008283831411813685
+    second: SkillBoardSkin_015_A_9
+  - first:
+      213: -527410160065646683
+    second: SkillBoardSkin_015_A_10
+  - first:
+      213: 5009769071403164967
+    second: SkillBoardSkin_015_A_11
+  - first:
+      213: 7224476112042605079
+    second: SkillBoardSkin_015_A_12
+  - first:
+      213: 5029802450136052485
+    second: SkillBoardSkin_015_A_13
+  - first:
+      213: 6392419790997435534
+    second: SkillBoardSkin_015_A_14
+  - first:
+      213: -5640302974977565050
+    second: SkillBoardSkin_015_A_15
+  - first:
+      213: -1972794008866555941
+    second: SkillBoardSkin_015_A_16
+  - first:
+      213: -7029381347407571208
+    second: SkillBoardSkin_015_A_17
+  - first:
+      213: 5183989346487318095
+    second: SkillBoardSkin_015_A_18
+  - first:
+      213: -2827947663172316629
+    second: SkillBoardSkin_015_A_19
+  - first:
+      213: -2472302346858167324
+    second: SkillBoardSkin_015_A_20
+  - first:
+      213: -3306223405680628877
+    second: SkillBoardSkin_015_A_21
+  - first:
+      213: 469206868807295447
+    second: SkillBoardSkin_015_A_22
+  - first:
+      213: 9073351130170609489
+    second: SkillBoardSkin_015_A_23
+  - first:
+      213: 5797419943621204577
+    second: SkillBoardSkin_015_A_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Win64
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SkillBoardSkin_015_A_0
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 554
+        width: 897
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85efc313b693e7a30800000000000000
+      internalID: 4214869433815727704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillBoardSkin_015_A_1
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 358
+        width: 44
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 993d03d119ad6a590800000000000000
+      internalID: -7663197399129468007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillBoardSkin_015_A_2
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 351
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac3d952ac6e079af0800000000000000
+      internalID: -389826983001205814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillBoardSkin_015_A_3
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 353
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 104e32b3af54eaaa0800000000000000
+      internalID: -6147899500277799935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillBoardSkin_015_A_4
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 342
+        width: 39
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa619c236e1eae1a0800000000000000
+      internalID: -6779357910242093393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillBoardSkin_015_A_5
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 341
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05945300736471aa0800000000000000
+      internalID: -6190401960756819632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillBoardSkin_015_A_6
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 350
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8635427fd6c9d42e0800000000000000
+      internalID: -2139882251819396248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillBoardSkin_015_A_7
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 350
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7f1b25b4ea0f2d20800000000000000
+      internalID: 3255833033020481407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillBoardSkin_015_A_8
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 351
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 176584bc4e3113540800000000000000
+      internalID: 4985788135859836529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillBoardSkin_015_A_9
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 111
+        width: 960
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53d2ad2c4329fb920800000000000000
+      internalID: 3008283831411813685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillBoardSkin_015_A_10
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 339
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5afea56f0434ea8f0800000000000000
+      internalID: -527410160065646683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillBoardSkin_015_A_11
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 334
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72569b37d66468540800000000000000
+      internalID: 5009769071403164967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillBoardSkin_015_A_12
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 333
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71a389a3fbe724460800000000000000
+      internalID: 7224476112042605079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillBoardSkin_015_A_13
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 342
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 503bfbaeda27dc540800000000000000
+      internalID: 5029802450136052485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillBoardSkin_015_A_14
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 340
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8434917eef66b850800000000000000
+      internalID: 6392419790997435534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillBoardSkin_015_A_15
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 126
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68e12eee35e99b1b0800000000000000
+      internalID: -5640302974977565050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillBoardSkin_015_A_16
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 131
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd77d7e1d4a3f94e0800000000000000
+      internalID: -1972794008866555941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillBoardSkin_015_A_17
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 126
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f6d30568ee927e90800000000000000
+      internalID: -7029381347407571208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillBoardSkin_015_A_18
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 128
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4639cc38da31f740800000000000000
+      internalID: 5183989346487318095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillBoardSkin_015_A_19
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 123
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b22d73d559c11c8d0800000000000000
+      internalID: -2827947663172316629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillBoardSkin_015_A_20
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 119
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e387264d1e90bdd0800000000000000
+      internalID: -2472302346858167324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillBoardSkin_015_A_21
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 119
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37be254645fed12d0800000000000000
+      internalID: -3306223405680628877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillBoardSkin_015_A_22
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 122
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d1ae654925f28600800000000000000
+      internalID: 469206868807295447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillBoardSkin_015_A_23
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 123
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15f453cb7c40bed70800000000000000
+      internalID: 9073351130170609489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillBoardSkin_015_A_24
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 113
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16a9e4109b2947050800000000000000
+      internalID: 5797419943621204577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

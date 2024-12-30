@@ -1,0 +1,1518 @@
+fileFormatVersion: 2
+guid: 6becd9a9acde4874e959af43c58551b4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8123735297830187243
+    second: Poker_066_0
+  - first:
+      213: 4082972212987312205
+    second: Poker_066_1
+  - first:
+      213: -4578622427842785117
+    second: Poker_066_2
+  - first:
+      213: -9041367606566861666
+    second: Poker_066_3
+  - first:
+      213: -4739603470761605393
+    second: Poker_066_4
+  - first:
+      213: -6736663249045579082
+    second: Poker_066_5
+  - first:
+      213: -6855760131793804375
+    second: Poker_066_6
+  - first:
+      213: 3388993646705010544
+    second: Poker_066_7
+  - first:
+      213: 8799616405679410560
+    second: Poker_066_8
+  - first:
+      213: 8859156518813989994
+    second: Poker_066_9
+  - first:
+      213: 1859582432033202097
+    second: Poker_066_10
+  - first:
+      213: 4798897360842031987
+    second: Poker_066_11
+  - first:
+      213: 3167043062427029630
+    second: Poker_066_12
+  - first:
+      213: -4052909937671890067
+    second: Poker_066_13
+  - first:
+      213: -3012754612100935073
+    second: Poker_066_14
+  - first:
+      213: -1209124031522597115
+    second: Poker_066_15
+  - first:
+      213: 7515110832566816532
+    second: Poker_066_16
+  - first:
+      213: -2242339928091700430
+    second: Poker_066_17
+  - first:
+      213: 4565595610642929999
+    second: Poker_066_18
+  - first:
+      213: -1939479012242598536
+    second: Poker_066_19
+  - first:
+      213: -2622603337433577830
+    second: Poker_066_20
+  - first:
+      213: -1798308613218163820
+    second: Poker_066_21
+  - first:
+      213: -2990709555803492203
+    second: Poker_066_22
+  - first:
+      213: 8553520870345066756
+    second: Poker_066_23
+  - first:
+      213: 6416502390908979894
+    second: Poker_066_24
+  - first:
+      213: -3049008753136968105
+    second: Poker_066_25
+  - first:
+      213: 552743538542054495
+    second: Poker_066_26
+  - first:
+      213: 8939441140345060831
+    second: Poker_066_27
+  - first:
+      213: 5741455512259750812
+    second: Poker_066_28
+  - first:
+      213: 8135249350152386010
+    second: Poker_066_29
+  - first:
+      213: -7701890315734548651
+    second: Poker_066_30
+  - first:
+      213: 2003590124934978865
+    second: Poker_066_31
+  - first:
+      213: 6649209241207872892
+    second: Poker_066_32
+  - first:
+      213: -1134857302870869651
+    second: Poker_066_33
+  - first:
+      213: 185590855948915202
+    second: Poker_066_34
+  - first:
+      213: -7596742582338089251
+    second: Poker_066_35
+  - first:
+      213: 3700910190693741903
+    second: Poker_066_36
+  - first:
+      213: 103340454573719990
+    second: Poker_066_37
+  - first:
+      213: -4500059396576946261
+    second: Poker_066_38
+  - first:
+      213: 1549404010241158032
+    second: Poker_066_39
+  - first:
+      213: -8585354397154204803
+    second: Poker_066_40
+  - first:
+      213: -3725417833713698292
+    second: Poker_066_41
+  - first:
+      213: 2218720151220342965
+    second: Poker_066_42
+  - first:
+      213: -5371714835684363091
+    second: Poker_066_43
+  - first:
+      213: 3208948368661080554
+    second: Poker_066_44
+  - first:
+      213: -7263223699160888705
+    second: Poker_066_45
+  - first:
+      213: 1386962062967484524
+    second: Poker_066_46
+  - first:
+      213: -6810127624993955949
+    second: Poker_066_47
+  - first:
+      213: -84358061189053440
+    second: Poker_066_48
+  - first:
+      213: -2101908315671944560
+    second: Poker_066_49
+  - first:
+      213: 1793189074534769578
+    second: Poker_066_50
+  - first:
+      213: -24351900173719340
+    second: Poker_066_51
+  - first:
+      213: -1868495122263188268
+    second: Poker_066_52
+  - first:
+      213: 1937680238855465521
+    second: Poker_066_53
+  - first:
+      213: 6834646390656811873
+    second: Poker_066_54
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Win64
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Poker_066_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 886
+        width: 81
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be07874463e4db070800000000000000
+      internalID: 8123735297830187243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poker_066_1
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 886
+        width: 78
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4836ee5891a9a830800000000000000
+      internalID: 4082972212987312205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poker_066_2
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 886
+        width: 81
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a05bc319277570c0800000000000000
+      internalID: -4578622427842785117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poker_066_3
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 886
+        width: 78
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e94cbd6a01c968280800000000000000
+      internalID: -9041367606566861666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poker_066_4
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 886
+        width: 81
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe6cb0d31cb893eb0800000000000000
+      internalID: -4739603470761605393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poker_066_5
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 886
+        width: 78
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ba9535a7709282a0800000000000000
+      internalID: -6736663249045579082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poker_066_6
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 886
+        width: 81
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a32527cb727bd0a0800000000000000
+      internalID: -6855760131793804375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poker_066_7
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 886
+        width: 78
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07768e914cf180f20800000000000000
+      internalID: 3388993646705010544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poker_066_8
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 886
+        width: 81
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08d8834af748e1a70800000000000000
+      internalID: 8799616405679410560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poker_066_9
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 740
+        width: 78
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6c7e718aeb02fa70800000000000000
+      internalID: 8859156518813989994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poker_066_10
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 740
+        width: 79
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bf55e39e509ec910800000000000000
+      internalID: 1859582432033202097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poker_066_11
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 740
+        width: 78
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3738c8a59bb199240800000000000000
+      internalID: 4798897360842031987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poker_066_12
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 740
+        width: 79
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e701454b2e893fb20800000000000000
+      internalID: 3167043062427029630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poker_066_13
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 740
+        width: 78
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6b9a6a82eb21c7c0800000000000000
+      internalID: -4052909937671890067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poker_066_14
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 740
+        width: 79
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f52dd4e74ab8036d0800000000000000
+      internalID: -3012754612100935073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poker_066_15
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 740
+        width: 78
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50715bb7914583fe0800000000000000
+      internalID: -1209124031522597115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poker_066_16
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 740
+        width: 79
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41fc5d64c790b4860800000000000000
+      internalID: 7515110832566816532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poker_066_17
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 740
+        width: 78
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2335b6047bb91e0e0800000000000000
+      internalID: -2242339928091700430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poker_066_18
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 594
+        width: 81
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f495470b4014c5f30800000000000000
+      internalID: 4565595610642929999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poker_066_19
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 594
+        width: 78
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87554f93d169515e0800000000000000
+      internalID: -1939479012242598536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poker_066_20
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 594
+        width: 81
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a968485e824aa9bd0800000000000000
+      internalID: -2622603337433577830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poker_066_21
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 594
+        width: 78
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4932b9818df1b07e0800000000000000
+      internalID: -1798308613218163820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poker_066_22
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 594
+        width: 81
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59077f3218dde76d0800000000000000
+      internalID: -2990709555803492203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poker_066_23
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 594
+        width: 78
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 409cecfb9e534b670800000000000000
+      internalID: 8553520870345066756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poker_066_24
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 594
+        width: 81
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ba039eadeefb0950800000000000000
+      internalID: 6416502390908979894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poker_066_25
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 594
+        width: 78
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75ed63081bebfa5d0800000000000000
+      internalID: -3049008753136968105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poker_066_26
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 594
+        width: 81
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5c01bad15dbba700800000000000000
+      internalID: 552743538542054495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poker_066_27
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 448
+        width: 78
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fddb7cc9a564f0c70800000000000000
+      internalID: 8939441140345060831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poker_066_28
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 448
+        width: 79
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9b63fd6e5fbdaf40800000000000000
+      internalID: 5741455512259750812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poker_066_29
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 448
+        width: 78
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad57f0b7e2636e070800000000000000
+      internalID: 8135249350152386010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poker_066_30
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 448
+        width: 79
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55ffe9f60936d1590800000000000000
+      internalID: -7701890315734548651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poker_066_31
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 448
+        width: 78
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13dda386a9e2ecb10800000000000000
+      internalID: 2003590124934978865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poker_066_32
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 448
+        width: 79
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7d907b639cb64c50800000000000000
+      internalID: 6649209241207872892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poker_066_33
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 448
+        width: 78
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d69bf97bb4d2040f0800000000000000
+      internalID: -1134857302870869651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poker_066_34
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 448
+        width: 79
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 202556276e9539200800000000000000
+      internalID: 185590855948915202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poker_066_35
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 448
+        width: 78
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dde87a1eed2f29690800000000000000
+      internalID: -7596742582338089251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poker_066_36
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 302
+        width: 81
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f457cedc5364c5330800000000000000
+      internalID: 3700910190693741903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poker_066_37
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 302
+        width: 78
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b14bcd88932f6100800000000000000
+      internalID: 103340454573719990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poker_066_38
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 302
+        width: 81
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba75fd632d39c81c0800000000000000
+      internalID: -4500059396576946261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poker_066_39
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 302
+        width: 78
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09b6dfbfcb6908510800000000000000
+      internalID: 1549404010241158032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poker_066_40
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 302
+        width: 81
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7329c6b9a1bad880800000000000000
+      internalID: -8585354397154204803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poker_066_41
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 302
+        width: 78
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0af695e738ac4cc0800000000000000
+      internalID: -3725417833713698292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poker_066_42
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 302
+        width: 81
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b05d75e83a7ace10800000000000000
+      internalID: 2218720151220342965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poker_066_43
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 302
+        width: 78
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da4765841d5d375b0800000000000000
+      internalID: -5371714835684363091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poker_066_44
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 302
+        width: 81
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae9ec902a89788c20800000000000000
+      internalID: 3208948368661080554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poker_066_45
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 156
+        width: 78
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7a015f1788d33b90800000000000000
+      internalID: -7263223699160888705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poker_066_46
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 156
+        width: 79
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c60be18d5aa7f3310800000000000000
+      internalID: 1386962062967484524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poker_066_47
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 156
+        width: 78
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39f1925b1019d71a0800000000000000
+      internalID: -6810127624993955949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poker_066_48
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 156
+        width: 79
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 004c2e05acc44def0800000000000000
+      internalID: -84358061189053440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poker_066_49
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 156
+        width: 78
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0922fe5f58584d2e0800000000000000
+      internalID: -2101908315671944560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poker_066_50
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 156
+        width: 79
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa3a1ca66ffa2e810800000000000000
+      internalID: 1793189074534769578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poker_066_51
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 156
+        width: 78
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d82a88631c79aff0800000000000000
+      internalID: -24351900173719340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poker_066_52
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 156
+        width: 78
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dcd3f40695c116e0800000000000000
+      internalID: -1868495122263188268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poker_066_53
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 148
+        width: 86
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13a264539e504ea10800000000000000
+      internalID: 1937680238855465521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poker_066_54
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 11
+        width: 76
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16341884eaa89de50800000000000000
+      internalID: 6834646390656811873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

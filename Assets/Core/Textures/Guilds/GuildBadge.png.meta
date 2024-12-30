@@ -1,0 +1,1493 @@
+fileFormatVersion: 2
+guid: bff44f9fb9ad02c40ada7654217e0017
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6627500506393580379
+    second: GuildBadge_0
+  - first:
+      213: -4258243031151808422
+    second: GuildBadge_1
+  - first:
+      213: -7640486567831441102
+    second: GuildBadge_2
+  - first:
+      213: -5602242863977695412
+    second: GuildBadge_3
+  - first:
+      213: -3215960785510160473
+    second: GuildBadge_4
+  - first:
+      213: -892085514833690054
+    second: GuildBadge_5
+  - first:
+      213: 2505803728916184281
+    second: GuildBadge_6
+  - first:
+      213: -1699117428498960543
+    second: GuildBadge_7
+  - first:
+      213: -2048158511920974407
+    second: GuildBadge_8
+  - first:
+      213: -4985489347937359377
+    second: GuildBadge_9
+  - first:
+      213: 1568763644095286337
+    second: GuildBadge_10
+  - first:
+      213: 1927957970235554876
+    second: GuildBadge_11
+  - first:
+      213: 8473698123488997576
+    second: GuildBadge_12
+  - first:
+      213: 6312658051650961030
+    second: GuildBadge_13
+  - first:
+      213: -6496076134859846006
+    second: GuildBadge_14
+  - first:
+      213: -3059229512850145452
+    second: GuildBadge_15
+  - first:
+      213: 491400676752960953
+    second: GuildBadge_16
+  - first:
+      213: 1498471276334720988
+    second: GuildBadge_17
+  - first:
+      213: -2477357628751304345
+    second: GuildBadge_18
+  - first:
+      213: 2841828317559928202
+    second: GuildBadge_19
+  - first:
+      213: -2788895059609086076
+    second: GuildBadge_20
+  - first:
+      213: 6415627353669672649
+    second: GuildBadge_21
+  - first:
+      213: 7288440703646710574
+    second: GuildBadge_22
+  - first:
+      213: -1590464524639075238
+    second: GuildBadge_23
+  - first:
+      213: 3128809663171980753
+    second: GuildBadge_24
+  - first:
+      213: 6498530378816348738
+    second: GuildBadge_25
+  - first:
+      213: 6468089272182690037
+    second: GuildBadge_26
+  - first:
+      213: -5518677236800384056
+    second: GuildBadge_27
+  - first:
+      213: -1084964922623462966
+    second: GuildBadge_28
+  - first:
+      213: 7914373667099961954
+    second: GuildBadge_29
+  - first:
+      213: 5342567359897851560
+    second: GuildBadge_30
+  - first:
+      213: -2248215377224340004
+    second: GuildBadge_31
+  - first:
+      213: -4314418569508840967
+    second: GuildBadge_32
+  - first:
+      213: -4964324489117006255
+    second: GuildBadge_33
+  - first:
+      213: 2834465329766039074
+    second: GuildBadge_34
+  - first:
+      213: -1169173189422026221
+    second: GuildBadge_35
+  - first:
+      213: -5394040824533363042
+    second: GuildBadge_36
+  - first:
+      213: -5918609172549006225
+    second: GuildBadge_37
+  - first:
+      213: -3139716125688776479
+    second: GuildBadge_38
+  - first:
+      213: -5092766184747571288
+    second: GuildBadge_39
+  - first:
+      213: 2587834132082175333
+    second: GuildBadge_40
+  - first:
+      213: 7876229778557070134
+    second: GuildBadge_41
+  - first:
+      213: 869497716891433735
+    second: GuildBadge_42
+  - first:
+      213: 4755348324878093652
+    second: GuildBadge_43
+  - first:
+      213: 2181338070533947226
+    second: GuildBadge_44
+  - first:
+      213: 7775935293834236331
+    second: GuildBadge_45
+  - first:
+      213: 3337157747165655540
+    second: GuildBadge_46
+  - first:
+      213: 440474659872307612
+    second: GuildBadge_47
+  - first:
+      213: 4410936104712203723
+    second: GuildBadge_48
+  - first:
+      213: -1163010635459407212
+    second: GuildBadge_49
+  - first:
+      213: 147599615482585007
+    second: GuildBadge_50
+  - first:
+      213: -2361177624328662255
+    second: GuildBadge_51
+  - first:
+      213: -9045416465745842084
+    second: GuildBadge_52
+  - first:
+      213: 8908529707090354246
+    second: GuildBadge_53
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Win64
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GuildBadge_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 898
+        width: 112
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ac60b747636604a0800000000000000
+      internalID: -6627500506393580379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuildBadge_1
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 898
+        width: 112
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a50f9e8368ea7e4c0800000000000000
+      internalID: -4258243031151808422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuildBadge_2
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 898
+        width: 112
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 231734592f987f590800000000000000
+      internalID: -7640486567831441102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuildBadge_3
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 898
+        width: 112
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4774231cc5d042b0800000000000000
+      internalID: -5602242863977695412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuildBadge_4
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 898
+        width: 112
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a7a41854bc9e53d0800000000000000
+      internalID: -3215960785510160473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuildBadge_5
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 898
+        width: 112
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a32011363fcae93f0800000000000000
+      internalID: -892085514833690054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuildBadge_6
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 898
+        width: 112
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dcf5e2173766c220800000000000000
+      internalID: 2505803728916184281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuildBadge_7
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 898
+        width: 112
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16fe4aa73b58b68e0800000000000000
+      internalID: -1699117428498960543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuildBadge_8
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 770
+        width: 112
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b5f14d5faa7393e0800000000000000
+      internalID: -2048158511920974407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuildBadge_9
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 770
+        width: 112
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe923b03adbffcab0800000000000000
+      internalID: -4985489347937359377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuildBadge_10
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 770
+        width: 112
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14cc8def83e55c510800000000000000
+      internalID: 1568763644095286337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuildBadge_11
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 770
+        width: 112
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3cf5c52f8b71ca10800000000000000
+      internalID: 1927957970235554876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuildBadge_12
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 770
+        width: 112
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c0b4783c8f989570800000000000000
+      internalID: 8473698123488997576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuildBadge_13
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 770
+        width: 112
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68e3a255d011b9750800000000000000
+      internalID: 6312658051650961030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuildBadge_14
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 770
+        width: 112
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8e49cb4c2d49d5a0800000000000000
+      internalID: -6496076134859846006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuildBadge_15
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 770
+        width: 112
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45ffc2077fe6b85d0800000000000000
+      internalID: -3059229512850145452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuildBadge_16
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 642
+        width: 112
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bd2f3cdf4ec1d600800000000000000
+      internalID: 491400676752960953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuildBadge_17
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 642
+        width: 112
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd7ae04cfa3abc410800000000000000
+      internalID: 1498471276334720988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuildBadge_18
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 642
+        width: 112
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 769acacbc58ae9dd0800000000000000
+      internalID: -2477357628751304345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuildBadge_19
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 642
+        width: 112
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a853ec45cc3307720800000000000000
+      internalID: 2841828317559928202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuildBadge_20
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 642
+        width: 112
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 487982038badb49d0800000000000000
+      internalID: -2788895059609086076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuildBadge_21
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 642
+        width: 112
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ce92c23613e80950800000000000000
+      internalID: 6415627353669672649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuildBadge_22
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 642
+        width: 112
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2b3c53443eb52560800000000000000
+      internalID: 7288440703646710574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuildBadge_23
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 642
+        width: 112
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a54070501f88de9e0800000000000000
+      internalID: -1590464524639075238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuildBadge_24
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 514
+        width: 112
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ddec2fbfc3cb6b20800000000000000
+      internalID: 3128809663171980753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuildBadge_25
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 514
+        width: 112
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 242ee67e2fa6f2a50800000000000000
+      internalID: 6498530378816348738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuildBadge_26
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 514
+        width: 112
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f0d6f37ce443c950800000000000000
+      internalID: 6468089272182690037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuildBadge_27
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 514
+        width: 112
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c39a76da48b963b0800000000000000
+      internalID: -5518677236800384056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuildBadge_28
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 514
+        width: 112
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac1f449b62e61f0f0800000000000000
+      internalID: -1084964922623462966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuildBadge_29
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 514
+        width: 112
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26ae2370be085dd60800000000000000
+      internalID: 7914373667099961954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuildBadge_30
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 514
+        width: 112
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a6de4b25bc942a40800000000000000
+      internalID: 5342567359897851560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuildBadge_31
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 514
+        width: 112
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdde8f5a60cbcc0e0800000000000000
+      internalID: -2248215377224340004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuildBadge_32
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 386
+        width: 112
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f993187b2b1024c0800000000000000
+      internalID: -4314418569508840967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuildBadge_33
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 386
+        width: 112
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1568864ed2d2b1bb0800000000000000
+      internalID: -4964324489117006255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuildBadge_34
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 386
+        width: 112
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22e7dd4233b065720800000000000000
+      internalID: 2834465329766039074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuildBadge_35
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 386
+        width: 112
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 312f693cd2346cfe0800000000000000
+      internalID: -1169173189422026221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuildBadge_36
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 386
+        width: 112
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e96dbbde2748425b0800000000000000
+      internalID: -5394040824533363042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuildBadge_37
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 386
+        width: 112
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6c09d1d050ecdda0800000000000000
+      internalID: -5918609172549006225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuildBadge_38
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 386
+        width: 112
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e831c091dc7d64d0800000000000000
+      internalID: -3139716125688776479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuildBadge_39
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 386
+        width: 112
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a7eff9332cd259b0800000000000000
+      internalID: -5092766184747571288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuildBadge_40
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 258
+        width: 112
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56da364ae65d9e320800000000000000
+      internalID: 2587834132082175333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuildBadge_41
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 258
+        width: 112
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63b6f38e04dfd4d60800000000000000
+      internalID: 7876229778557070134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuildBadge_42
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 258
+        width: 112
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70bb3541193111c00800000000000000
+      internalID: 869497716891433735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuildBadge_43
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 258
+        width: 112
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45d8b974b146ef140800000000000000
+      internalID: 4755348324878093652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuildBadge_44
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 258
+        width: 112
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5f363dfa6ba54e10800000000000000
+      internalID: 2181338070533947226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuildBadge_45
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 258
+        width: 112
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba1996973fba9eb60800000000000000
+      internalID: 7775935293834236331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuildBadge_46
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 258
+        width: 112
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f1704f3a47ff4e20800000000000000
+      internalID: 3337157747165655540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuildBadge_47
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 258
+        width: 112
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c99ff329e51ec1600800000000000000
+      internalID: 440474659872307612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuildBadge_48
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 130
+        width: 112
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcde050640bc63d30800000000000000
+      internalID: 4410936104712203723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuildBadge_49
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 130
+        width: 112
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 492d07b2df72cdfe0800000000000000
+      internalID: -1163010635459407212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuildBadge_50
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 130
+        width: 112
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fafd2d971116c0200800000000000000
+      internalID: 147599615482585007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuildBadge_51
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 130
+        width: 112
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1131a42f5796b3fd0800000000000000
+      internalID: -2361177624328662255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuildBadge_52
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 130
+        width: 112
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c50ffb926a9387280800000000000000
+      internalID: -9045416465745842084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuildBadge_53
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 130
+        width: 112
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 640a226b19471ab70800000000000000
+      internalID: 8908529707090354246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

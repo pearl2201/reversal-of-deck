@@ -1,0 +1,2593 @@
+fileFormatVersion: 2
+guid: 92345197966df4949bcd804048e17423
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2751470133494213782
+    second: xilie_glow008_5x5_0
+  - first:
+      213: 3772505850941154008
+    second: xilie_glow008_5x5_1
+  - first:
+      213: 2879086954261507386
+    second: xilie_glow008_5x5_2
+  - first:
+      213: 7246588608644386007
+    second: xilie_glow008_5x5_3
+  - first:
+      213: 1322919166329229983
+    second: xilie_glow008_5x5_4
+  - first:
+      213: 7951080503236447287
+    second: xilie_glow008_5x5_5
+  - first:
+      213: 6778852964003957196
+    second: xilie_glow008_5x5_6
+  - first:
+      213: -2073207275422876763
+    second: xilie_glow008_5x5_7
+  - first:
+      213: -4509405473328790850
+    second: xilie_glow008_5x5_8
+  - first:
+      213: 2543425485790761736
+    second: xilie_glow008_5x5_9
+  - first:
+      213: 1952583107141453358
+    second: xilie_glow008_5x5_10
+  - first:
+      213: -5216947717696260340
+    second: xilie_glow008_5x5_11
+  - first:
+      213: 8402515370362231802
+    second: xilie_glow008_5x5_12
+  - first:
+      213: -1865552074175502635
+    second: xilie_glow008_5x5_13
+  - first:
+      213: 6593789823229564410
+    second: xilie_glow008_5x5_14
+  - first:
+      213: -5895925093973841605
+    second: xilie_glow008_5x5_15
+  - first:
+      213: 7839450981670110753
+    second: xilie_glow008_5x5_16
+  - first:
+      213: 2349288707126378347
+    second: xilie_glow008_5x5_17
+  - first:
+      213: 3405407290938364482
+    second: xilie_glow008_5x5_18
+  - first:
+      213: -3824323445223276935
+    second: xilie_glow008_5x5_19
+  - first:
+      213: 7904421435679439055
+    second: xilie_glow008_5x5_20
+  - first:
+      213: -8478563085754017572
+    second: xilie_glow008_5x5_21
+  - first:
+      213: -7435211281400885340
+    second: xilie_glow008_5x5_22
+  - first:
+      213: 6450837547346552078
+    second: xilie_glow008_5x5_23
+  - first:
+      213: 2469450367109229557
+    second: xilie_glow008_5x5_24
+  - first:
+      213: 4888265285313545907
+    second: xilie_glow008_5x5_25
+  - first:
+      213: -1519456302219851344
+    second: xilie_glow008_5x5_26
+  - first:
+      213: 7676781189387788043
+    second: xilie_glow008_5x5_27
+  - first:
+      213: 3888444698208868514
+    second: xilie_glow008_5x5_28
+  - first:
+      213: 1942367395956559935
+    second: xilie_glow008_5x5_29
+  - first:
+      213: -3811108152592352454
+    second: xilie_glow008_5x5_30
+  - first:
+      213: 1523670200889767091
+    second: xilie_glow008_5x5_31
+  - first:
+      213: -4324058575455324415
+    second: xilie_glow008_5x5_32
+  - first:
+      213: 2682731705559516254
+    second: xilie_glow008_5x5_33
+  - first:
+      213: -495894874435024912
+    second: xilie_glow008_5x5_34
+  - first:
+      213: 5380147969724156702
+    second: xilie_glow008_5x5_35
+  - first:
+      213: 5355656438767246310
+    second: xilie_glow008_5x5_36
+  - first:
+      213: -1052317972969961140
+    second: xilie_glow008_5x5_37
+  - first:
+      213: -2294592195163979315
+    second: xilie_glow008_5x5_38
+  - first:
+      213: -7801542982751026487
+    second: xilie_glow008_5x5_39
+  - first:
+      213: -5302917722877108859
+    second: xilie_glow008_5x5_40
+  - first:
+      213: -2242429777390158239
+    second: xilie_glow008_5x5_41
+  - first:
+      213: 1144269099943211832
+    second: xilie_glow008_5x5_42
+  - first:
+      213: -3943108890889934883
+    second: xilie_glow008_5x5_43
+  - first:
+      213: -8440239996248675257
+    second: xilie_glow008_5x5_44
+  - first:
+      213: -6762694317325601889
+    second: xilie_glow008_5x5_45
+  - first:
+      213: -7983119073466994818
+    second: xilie_glow008_5x5_46
+  - first:
+      213: -2886913122509361146
+    second: xilie_glow008_5x5_47
+  - first:
+      213: 5417805015629404731
+    second: xilie_glow008_5x5_48
+  - first:
+      213: -6428434914867474042
+    second: xilie_glow008_5x5_49
+  - first:
+      213: -8850866883169912831
+    second: xilie_glow008_5x5_50
+  - first:
+      213: -8090949299566384529
+    second: xilie_glow008_5x5_51
+  - first:
+      213: -5984293783907968502
+    second: xilie_glow008_5x5_52
+  - first:
+      213: -8289018632477527270
+    second: xilie_glow008_5x5_53
+  - first:
+      213: -2559145016455721714
+    second: xilie_glow008_5x5_54
+  - first:
+      213: 4349759719909988149
+    second: xilie_glow008_5x5_55
+  - first:
+      213: 7951786283295628030
+    second: xilie_glow008_5x5_56
+  - first:
+      213: -1260216413291749074
+    second: xilie_glow008_5x5_57
+  - first:
+      213: 5487071945481448578
+    second: xilie_glow008_5x5_58
+  - first:
+      213: 8784217815831607201
+    second: xilie_glow008_5x5_59
+  - first:
+      213: -1177144343952815061
+    second: xilie_glow008_5x5_60
+  - first:
+      213: -6175863493472598895
+    second: xilie_glow008_5x5_61
+  - first:
+      213: -3033741013984613910
+    second: xilie_glow008_5x5_62
+  - first:
+      213: -2416253988115326719
+    second: xilie_glow008_5x5_63
+  - first:
+      213: 8580829836010581328
+    second: xilie_glow008_5x5_64
+  - first:
+      213: -1154779606363636890
+    second: xilie_glow008_5x5_65
+  - first:
+      213: 3684652118200126874
+    second: xilie_glow008_5x5_66
+  - first:
+      213: -7485949052180048770
+    second: xilie_glow008_5x5_67
+  - first:
+      213: -4449776974605754459
+    second: xilie_glow008_5x5_68
+  - first:
+      213: 6856627125824498774
+    second: xilie_glow008_5x5_69
+  - first:
+      213: 5290644793375894419
+    second: xilie_glow008_5x5_70
+  - first:
+      213: -5253579904091942925
+    second: xilie_glow008_5x5_71
+  - first:
+      213: -8767752819151786045
+    second: xilie_glow008_5x5_72
+  - first:
+      213: -7505678620453438860
+    second: xilie_glow008_5x5_73
+  - first:
+      213: -6328075571198863595
+    second: xilie_glow008_5x5_74
+  - first:
+      213: -7748701523431620675
+    second: xilie_glow008_5x5_75
+  - first:
+      213: 7662945668510487058
+    second: xilie_glow008_5x5_76
+  - first:
+      213: 321642737384816793
+    second: xilie_glow008_5x5_77
+  - first:
+      213: 3392078771382526827
+    second: xilie_glow008_5x5_78
+  - first:
+      213: -1580419553702474374
+    second: xilie_glow008_5x5_79
+  - first:
+      213: -5270055408302590290
+    second: xilie_glow008_5x5_80
+  - first:
+      213: -5983830614713255068
+    second: xilie_glow008_5x5_81
+  - first:
+      213: 3338300416964807821
+    second: xilie_glow008_5x5_82
+  - first:
+      213: -2273375505088576221
+    second: xilie_glow008_5x5_83
+  - first:
+      213: -364127714451279060
+    second: xilie_glow008_5x5_84
+  - first:
+      213: 6350196424515444028
+    second: xilie_glow008_5x5_85
+  - first:
+      213: 8346258358079497206
+    second: xilie_glow008_5x5_86
+  - first:
+      213: 1329916558815331893
+    second: xilie_glow008_5x5_87
+  - first:
+      213: 6943377180106846465
+    second: xilie_glow008_5x5_88
+  - first:
+      213: -185748932281140644
+    second: xilie_glow008_5x5_89
+  - first:
+      213: 3010594190631029582
+    second: xilie_glow008_5x5_90
+  - first:
+      213: 7052338841043808526
+    second: xilie_glow008_5x5_91
+  - first:
+      213: 5632556361929191720
+    second: xilie_glow008_5x5_92
+  - first:
+      213: 2010753766311151496
+    second: xilie_glow008_5x5_93
+  - first:
+      213: -6281730042738720816
+    second: xilie_glow008_5x5_94
+  - first:
+      213: -4205560345503251516
+    second: xilie_glow008_5x5_95
+  - first:
+      213: 2830113717493482335
+    second: xilie_glow008_5x5_96
+  - first:
+      213: 87880231916933622
+    second: xilie_glow008_5x5_97
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Win64
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: xilie_glow008_5x5_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 416
+        width: 90
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69ce40d228f2f2620800000000000000
+      internalID: 2751470133494213782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xilie_glow008_5x5_1
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 489
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d22e667512aa5430800000000000000
+      internalID: 3772505850941154008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xilie_glow008_5x5_2
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 450
+        width: 88
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3de732b45294f720800000000000000
+      internalID: 2879086954261507386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xilie_glow008_5x5_3
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 470
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dc04ab02fd019460800000000000000
+      internalID: 7246588608644386007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xilie_glow008_5x5_4
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 470
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f921c9ff8f3fb5210800000000000000
+      internalID: 1322919166329229983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xilie_glow008_5x5_5
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 473
+        width: 68
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73c41ff4799e75e60800000000000000
+      internalID: 7951080503236447287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xilie_glow008_5x5_6
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 497
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc94f08dad2531e50800000000000000
+      internalID: 6778852964003957196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xilie_glow008_5x5_7
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 440
+        width: 29
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5abf9a2a7fc7a33e0800000000000000
+      internalID: -2073207275422876763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xilie_glow008_5x5_8
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 471
+        width: 59
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb209062d9f5b61c0800000000000000
+      internalID: -4509405473328790850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xilie_glow008_5x5_9
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 440
+        width: 26
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 803db31f0001c4320800000000000000
+      internalID: 2543425485790761736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xilie_glow008_5x5_10
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 486
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e26489f9df7f81b10800000000000000
+      internalID: 1952583107141453358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xilie_glow008_5x5_11
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 415
+        width: 81
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c07fdeaf0bda997b0800000000000000
+      internalID: -5216947717696260340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xilie_glow008_5x5_12
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 430
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afb533ef53bbb9470800000000000000
+      internalID: 8402515370362231802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xilie_glow008_5x5_13
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 416
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d6a6ccc54a3c16e0800000000000000
+      internalID: -1865552074175502635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xilie_glow008_5x5_14
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 448
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af51f29a8e8d18b50800000000000000
+      internalID: 6593789823229564410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xilie_glow008_5x5_15
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 452
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b39a06f6d577d2ea0800000000000000
+      internalID: -5895925093973841605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xilie_glow008_5x5_16
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 416
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 126c884f1235bcc60800000000000000
+      internalID: 7839450981670110753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xilie_glow008_5x5_17
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 415
+        width: 51
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6fba1fc1a95a9020800000000000000
+      internalID: 2349288707126378347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xilie_glow008_5x5_18
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 438
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24218e373ef624f20800000000000000
+      internalID: 3405407290938364482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xilie_glow008_5x5_19
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 429
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97eb445b6164deac0800000000000000
+      internalID: -3824323445223276935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xilie_glow008_5x5_20
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 419
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc8f7a49a6522bd60800000000000000
+      internalID: 7904421435679439055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xilie_glow008_5x5_21
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 416
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd854eb7bc7165a80800000000000000
+      internalID: -8478563085754017572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xilie_glow008_5x5_22
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 417
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4af8f16abb2d0d890800000000000000
+      internalID: -7435211281400885340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xilie_glow008_5x5_23
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 414
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e05e751429af58950800000000000000
+      internalID: 6450837547346552078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xilie_glow008_5x5_24
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 420
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fbe0027600454220800000000000000
+      internalID: 2469450367109229557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xilie_glow008_5x5_25
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 314
+        width: 94
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b6ccfab06b96d340800000000000000
+      internalID: 4888265285313545907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xilie_glow008_5x5_26
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 320
+        width: 58
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b905762b8ec9eae0800000000000000
+      internalID: -1519456302219851344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xilie_glow008_5x5_27
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 318
+        width: 59
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0f1cd381d7698a60800000000000000
+      internalID: 7676781189387788043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xilie_glow008_5x5_28
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 311
+        width: 94
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a89d75e9d786f530800000000000000
+      internalID: 3888444698208868514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xilie_glow008_5x5_29
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 382
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f309a430bdca4fa10800000000000000
+      internalID: 1942367395956559935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xilie_glow008_5x5_30
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 350
+        width: 68
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3b332cc3593c1bc0800000000000000
+      internalID: -3811108152592352454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xilie_glow008_5x5_31
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 319
+        width: 40
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b4f1e699f9252510800000000000000
+      internalID: 1523670200889767091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xilie_glow008_5x5_32
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 352
+        width: 68
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 107f00ea2abddf3c0800000000000000
+      internalID: -4324058575455324415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xilie_glow008_5x5_33
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 362
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e548d81c54afa3520800000000000000
+      internalID: 2682731705559516254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xilie_glow008_5x5_34
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 311
+        width: 69
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f70d533d3a3e19f0800000000000000
+      internalID: -495894874435024912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xilie_glow008_5x5_35
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 311
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1b827eb2102aaa40800000000000000
+      internalID: 5380147969724156702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xilie_glow008_5x5_36
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 312
+        width: 30
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eb51c3d72d135a40800000000000000
+      internalID: 5355656438767246310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xilie_glow008_5x5_37
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 311
+        width: 65
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c49cd56016a6561f0800000000000000
+      internalID: -1052317972969961140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xilie_glow008_5x5_38
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 318
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc10ed64e88f720e0800000000000000
+      internalID: -2294592195163979315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xilie_glow008_5x5_39
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 283
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c20f25ddf95bb390800000000000000
+      internalID: -7801542982751026487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xilie_glow008_5x5_40
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 274
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58d59c65d604866b0800000000000000
+      internalID: -5302917722877108859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xilie_glow008_5x5_41
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 272
+        width: 48
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16eb6e49ff941e0e0800000000000000
+      internalID: -2242429777390158239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xilie_glow008_5x5_42
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 278
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 833329d0fa241ef00800000000000000
+      internalID: 1144269099943211832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xilie_glow008_5x5_43
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 210
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd722dfea534749c0800000000000000
+      internalID: -3943108890889934883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xilie_glow008_5x5_44
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 271
+        width: 54
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74cad84117e3eda80800000000000000
+      internalID: -8440239996248675257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xilie_glow008_5x5_45
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 268
+        width: 47
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f93314349551622a0800000000000000
+      internalID: -6762694317325601889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xilie_glow008_5x5_46
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 221
+        width: 45
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7faa52cf73463190800000000000000
+      internalID: -7983119073466994818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xilie_glow008_5x5_47
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 210
+        width: 95
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6007a638fcf9fe7d0800000000000000
+      internalID: -2886913122509361146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xilie_glow008_5x5_48
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 297
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3a9beaf4f8ef2b40800000000000000
+      internalID: 5417805015629404731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xilie_glow008_5x5_49
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 216
+        width: 30
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6811b95118c99c6a0800000000000000
+      internalID: -6428434914867474042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xilie_glow008_5x5_50
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 278
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1087362b6776b2580800000000000000
+      internalID: -8850866883169912831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xilie_glow008_5x5_51
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 207
+        width: 63
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6a66afca7c27bf80800000000000000
+      internalID: -8090949299566384529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xilie_glow008_5x5_52
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 228
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0a569a728483fca0800000000000000
+      internalID: -5984293783907968502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xilie_glow008_5x5_53
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 259
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a13359a887d77fc80800000000000000
+      internalID: -8289018632477527270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xilie_glow008_5x5_54
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 254
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0d027d9a271c7cd0800000000000000
+      internalID: -2559145016455721714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xilie_glow008_5x5_55
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 247
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53799835b637d5c30800000000000000
+      internalID: 4349759719909988149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xilie_glow008_5x5_56
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 243
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efad8a98e7b6a5e60800000000000000
+      internalID: 7951786283295628030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xilie_glow008_5x5_57
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 209
+        width: 63
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e21e0a959dfc28ee0800000000000000
+      internalID: -1260216413291749074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xilie_glow008_5x5_58
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 251
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28cee67dcdef52c40800000000000000
+      internalID: 5487071945481448578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xilie_glow008_5x5_59
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 237
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a7fc4e009fc7e970800000000000000
+      internalID: 8784217815831607201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xilie_glow008_5x5_60
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 211
+        width: 63
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2c0559b471f9afe0800000000000000
+      internalID: -1177144343952815061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xilie_glow008_5x5_61
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 107
+        width: 93
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1944342bfdcea4aa0800000000000000
+      internalID: -6175863493472598895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xilie_glow008_5x5_62
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 107
+        width: 90
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae9e9e80f9cf5e5d0800000000000000
+      internalID: -3033741013984613910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xilie_glow008_5x5_63
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 170
+        width: 59
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 109d347bccdb77ed0800000000000000
+      internalID: -2416253988115326719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xilie_glow008_5x5_64
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 107
+        width: 90
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05deb7dc54b351770800000000000000
+      internalID: 8580829836010581328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xilie_glow008_5x5_65
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 179
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66b74d8f01669ffe0800000000000000
+      internalID: -1154779606363636890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xilie_glow008_5x5_66
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 107
+        width: 95
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9d85325493822330800000000000000
+      internalID: 3684652118200126874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xilie_glow008_5x5_67
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 161
+        width: 70
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e74d222dff09c1890800000000000000
+      internalID: -7485949052180048770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xilie_glow008_5x5_68
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 159
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5af59e2ea673f32c0800000000000000
+      internalID: -4449776974605754459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xilie_glow008_5x5_69
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 107
+        width: 58
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65ca3100b02a72f50800000000000000
+      internalID: 6856627125824498774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xilie_glow008_5x5_70
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 122
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39ba0f598652c6940800000000000000
+      internalID: 5290644793375894419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xilie_glow008_5x5_71
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 126
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ff087179e88717b0800000000000000
+      internalID: -5253579904091942925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xilie_glow008_5x5_72
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 109
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cf2708b34fa25680800000000000000
+      internalID: -8767752819151786045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xilie_glow008_5x5_73
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 62
+        width: 79
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47af0adbf0976d790800000000000000
+      internalID: -7505678620453438860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xilie_glow008_5x5_74
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 87
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5175ddaabc82e28a0800000000000000
+      internalID: -6328075571198863595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xilie_glow008_5x5_75
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 33
+        width: 79
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbf7451d405177490800000000000000
+      internalID: -7748701523431620675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xilie_glow008_5x5_76
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 90
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2129fa84c70485a60800000000000000
+      internalID: 7662945668510487058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xilie_glow008_5x5_77
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 7
+        width: 94
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99008629d54b67400800000000000000
+      internalID: 321642737384816793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xilie_glow008_5x5_78
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 5
+        width: 64
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b63266aaba5131f20800000000000000
+      internalID: 3392078771382526827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xilie_glow008_5x5_79
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 75
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7d8b711ac8311ae0800000000000000
+      internalID: -1580419553702474374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xilie_glow008_5x5_80
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 41
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea67f7137800dd6b0800000000000000
+      internalID: -5270055408302590290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xilie_glow008_5x5_81
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 43
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46bb8e572c925fca0800000000000000
+      internalID: -5983830614713255068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xilie_glow008_5x5_82
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 54
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8cc9baca86045e20800000000000000
+      internalID: 3338300416964807821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xilie_glow008_5x5_83
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 35
+        width: 14
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3250f12e5095370e0800000000000000
+      internalID: -2273375505088576221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xilie_glow008_5x5_84
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 6
+        width: 53
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c23b14fd5cb52faf0800000000000000
+      internalID: -364127714451279060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xilie_glow008_5x5_85
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 11
+        width: 37
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3dd239d00e602850800000000000000
+      internalID: 6350196424515444028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xilie_glow008_5x5_86
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 3
+        width: 92
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f3a6fc91cdd3d370800000000000000
+      internalID: 8346258358079497206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xilie_glow008_5x5_87
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 28
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53609156010d47210800000000000000
+      internalID: 1329916558815331893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xilie_glow008_5x5_88
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 25
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10172d9f1c4db5060800000000000000
+      internalID: 6943377180106846465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xilie_glow008_5x5_89
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 8
+        width: 43
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5a79f984561c6df0800000000000000
+      internalID: -185748932281140644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xilie_glow008_5x5_90
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 35
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4bca6f2777c7c920800000000000000
+      internalID: 3010594190631029582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xilie_glow008_5x5_91
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 29
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e013b10afc0fed160800000000000000
+      internalID: 7052338841043808526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xilie_glow008_5x5_92
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 10
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 821f72a2b2cda2e40800000000000000
+      internalID: 5632556361929191720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xilie_glow008_5x5_93
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 20
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88741c3a5e1a7eb10800000000000000
+      internalID: 2010753766311151496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xilie_glow008_5x5_94
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 6
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dfb8a3eecfc2d8a0800000000000000
+      internalID: -6281730042738720816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xilie_glow008_5x5_95
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 9
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c34fc4d529d2a5c0800000000000000
+      internalID: -4205560345503251516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xilie_glow008_5x5_96
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 20
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f53c8257e65964720800000000000000
+      internalID: 2830113717493482335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xilie_glow008_5x5_97
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 5
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f11036fa96383100800000000000000
+      internalID: 87880231916933622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
