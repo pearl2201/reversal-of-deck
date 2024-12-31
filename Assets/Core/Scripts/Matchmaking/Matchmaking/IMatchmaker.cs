@@ -34,8 +34,8 @@ namespace DarkRift.Server.Plugins.Matchmaking
         /// <param name="callback">The callback to make when the matchmnaking state changes for this entity, null to omit.</param>
         /// <remarks>
         ///     Groups of entities enqueued using this method will be guaranteed to be placed in a room together 
-        ///     (provided there are not more in the group than <see cref="RankingMatchmaker{T}.EntitiesPerGroup"/>) even if they would 
-        ///     normally rank each other under the <see cref="RankingMatchmaker{T}.DiscardThreshold"/>).
+        ///     (provided there are not more in the group than <see cref="RankingMatchmaker{T}.entitiesPerGroup"/>) even if they would 
+        ///     normally rank each other under the <see cref="RankingMatchmaker{T}.discardThreshold"/>).
         /// </remarks>
         IMatchmakerQueueTask<T> EnqueueGroup(EntityGroup<T> entities, EventHandler<MatchmakingStateChangedEventArgs<T>> callback = null);
 
@@ -46,8 +46,8 @@ namespace DarkRift.Server.Plugins.Matchmaking
         /// <param name="callback">The callback to make when the matchmnaking state changes for this entity, null to omit.</param>
         /// <remarks>
         ///     Groups of entities enqueued using this method will be guaranteed to be placed in a room together 
-        ///     (provided there are not more in the group than <see cref="RankingMatchmaker{T}.EntitiesPerGroup"/>) even if they would 
-        ///     normally rank each other under the <see cref="RankingMatchmaker{T}.DiscardThreshold"/>).
+        ///     (provided there are not more in the group than <see cref="RankingMatchmaker{T}.entitiesPerGroup"/>) even if they would 
+        ///     normally rank each other under the <see cref="RankingMatchmaker{T}.discardThreshold"/>).
         /// </remarks>
         IMatchmakerQueueTask<T> EnqueueGroup(IEnumerable<T> entities, EventHandler<MatchmakingStateChangedEventArgs<T>> callback = null);
         

@@ -1,6 +1,7 @@
+using Ros;
 using UnityEngine;
 
-public class BotPlayer : MonoBehaviour
+public class BotPlayer : BasePlayer
 {
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()

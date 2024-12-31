@@ -118,7 +118,7 @@ namespace DarkRift.Server.Plugins.Matchmaking
         ///     Increasing this value will improve performance and memory usage but may return 
         ///     worse results and cause longer wait times.
         /// </remarks>
-        public float DiscardThreshold { get; set; } = 1;
+        public float discardThreshold  = 1;
 
         /// <summary>
         ///     The threshold at which a match will be immediately discarded.
@@ -132,17 +132,17 @@ namespace DarkRift.Server.Plugins.Matchmaking
         ///     Increasing this value will improve performance and memory usage but may return 
         ///     worse results and cause longer wait times.
         /// </remarks>
-        public float GroupDiscardThreshold { get; set; } = 1;
+        public float groupDiscardThreshold = 1;
 
         /// <summary>
         ///     The number of entities to collate to form a room.
         /// </summary>
-        public int EntitiesPerGroup { get; set; } = 1;
+        public int entitiesPerGroup  = 1;
 
         /// <summary>
         ///     The time in milliseconds between full searches are carried out.
         /// </summary>
-        public int TickPeriod { get; set; } = 500;
+        public int tickPeriod  = 500;
 
         /// <inheritdoc />
         public event EventHandler<GroupFormedEventArgs<T>> GroupFormed;
@@ -159,7 +159,7 @@ namespace DarkRift.Server.Plugins.Matchmaking
         void Start()
         {
             //Create recurring tick
-            timer = new System.Timers.Timer(TickPeriod);
+            timer = new System.Timers.Timer(tickPeriod);
             timer.Elapsed += Tick;
             timer.Start();
         }
@@ -192,7 +192,7 @@ namespace DarkRift.Server.Plugins.Matchmaking
             RankingMatchmakerQueueTask<T> task = new RankingMatchmakerQueueTask<T>(this, entities, callback);
             QueueGroup queueGroup = new QueueGroup { task = task };
 
-            MatchRankingContext<T> context = new MatchRankingContext<T>(DiscardThreshold);
+            MatchRankingContext<T> context = new MatchRankingContext<T>(discardThreshold);
 
             //Look at all other entities in queue and rate them
             lock (queueSnapshot)
@@ -230,7 +230,7 @@ namespace DarkRift.Server.Plugins.Matchmaking
                         float value = GetSuitabilityMetric(entity, otherEntity, context);
 
                         //Check individual discard threshold, if not enough ignore the group
-                        if (value < DiscardThreshold)
+                        if (value < discardThreshold)
                         {
                             failed = true;
                             break;
@@ -253,7 +253,7 @@ namespace DarkRift.Server.Plugins.Matchmaking
                 outerAcc /= group.task.Entities.Count;
 
                 //If a good enough match then add to our list of posible matches
-                if (outerAcc >= GroupDiscardThreshold)
+                if (outerAcc >= groupDiscardThreshold)
                     group.matches.AddLast(new Match { other = other, value = outerAcc });
             }
         }
@@ -486,13 +486,13 @@ namespace DarkRift.Server.Plugins.Matchmaking
                 int currentCount = group.Sum(g => g.task.Entities.Count);
 
                 //If we have a complete group return it
-                if (currentCount == EntitiesPerGroup)
+                if (currentCount == entitiesPerGroup)
                     return group;
 
                 //Calculate the matches available for this group
                 IEnumerable<Match> matches = group                  //TODO 2 Possibly able to use previous frame's match list here
                     .SelectMany(m => m.matches)                     //Get all group-group matches available
-                    .Where(m => currentCount + m.other.task.Entities.Count <= EntitiesPerGroup)    //Ensure this match doesn't take us over the room capacity
+                    .Where(m => currentCount + m.other.task.Entities.Count <= entitiesPerGroup)    //Ensure this match doesn't take us over the room capacity
                     .Where(m => !group.Contains(m.other))           //Remove matches to entity groups already in the group
                     .GroupBy(m => m.other)                          //Put matches into groups about the same entity group
                     .Where(g => g.Count() == group.Count())         //Remove any matches that have been discarded by any member (i.e. score was less than one of the discard thresholds)

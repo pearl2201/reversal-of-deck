@@ -1,3 +1,4 @@
+using Mirror;
 using Mirror.Examples.MultipleMatch;
 using Nakama;
 using UnityEngine;
@@ -5,7 +6,7 @@ using UnityEngine;
 public class NakamaService : MonoBehaviour
 {
     public static NakamaService Instance { get; private set; }
-    [SerializeField] MatchNetworkManager networkManager;
+    [SerializeField] NetworkManager networkManager;
     [SerializeField] NakamaAuthenticator nakamaAuthenticator;
     [SerializeField] string protocol;
     [SerializeField] string host;

@@ -1,6 +1,11 @@
-﻿using System;
+﻿using Mirror;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
-namespace Mirror.Examples.MultipleMatch
+namespace Ros
 {
     /// <summary>
     /// Match message to be sent to the server
@@ -16,7 +21,7 @@ namespace Mirror.Examples.MultipleMatch
         public ServerMatchOperation serverMatchOperation;
         public Guid matchId;
         public int campaignId;
-    } 
+    }
     /// <summary>
     /// Match message to be sent to the client
     /// </summary>
@@ -64,12 +69,9 @@ namespace Mirror.Examples.MultipleMatch
     public enum ServerMatchOperation : byte
     {
         None,
-        Create,
+        CreateOrJoin,
         Cancel,
-        Start,
-        Join,
-        Leave,
-        Ready
+        Bot
     }
 
     /// <summary>
