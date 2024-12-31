@@ -32,7 +32,7 @@ namespace ReversalOfSpirit.Gameplay.Ros.Cards.Actions
         public override void Execute(IRosGame game)
         {
             base.Execute(game);
-            game.C2S_SetSelectionCard(target.Id, new Packets.C2S_PlayerSelectionCard
+            game.SetSelectionCard(target.Id, new Packets.C2S_PlayerSelectionCard
             {
                 cardId = cardId,
                 slot = territory

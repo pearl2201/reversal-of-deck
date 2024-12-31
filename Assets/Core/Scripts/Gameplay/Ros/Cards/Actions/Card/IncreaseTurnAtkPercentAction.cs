@@ -1,7 +1,4 @@
-﻿
-using ReversalOfSpirit.Gameplay.Enums;
-
-namespace ReversalOfSpirit.Gameplay.Ros.Cards.Actions
+﻿namespace ReversalOfSpirit.Gameplay.Ros.Cards.Actions
 {
     public class IncreaseTurnAtkPercentAction : GameAction
     {

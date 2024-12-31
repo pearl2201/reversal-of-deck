@@ -28,9 +28,9 @@ namespace ReversalOfSpirit.Gameplay.Ros
 
         RosPlayerSlot GetOpponentSlot(IRosPlayer player, RosPlayerSlot playerSlot);
 
-        void C2S_SetSelectionCard(int peerId, C2S_PlayerSelectionCard payload);
-        void C2S_PlayerSelectionFinish(int peerId, C2S_PlayerSelectionFinish payload);
-        void C2S_PlayerPresentRoundDone(int peerId, C2S_PlayerPresentRoundDone payload);
+        void SetSelectionCard(int peerId, C2S_PlayerSelectionCard payload);
+        void PlayerSelectionFinish(int peerId, C2S_PlayerSelectionFinish payload);
+        void PlayerPresentRoundDone(int peerId, C2S_PlayerPresentRoundDone payload);
 
         void NotifyGameResult(NotifyGameResultAction act);
     }
@@ -155,14 +155,14 @@ namespace ReversalOfSpirit.Gameplay.Ros
         {
             Debug.Log("[*] Server execute round: " + roundIndex);
             isPrepare = false;
-            roundActIndex += DELTA_ROUND;
+            
             RosRoundState roundState = new RosRoundState();
             ExecuteRoundPhrase(RosRoundPhrase.Arguard);
-            roundActIndex += DELTA_ROUND;
+            
             ExecuteRoundPhrase(RosRoundPhrase.MidCenter);
-            roundActIndex += DELTA_ROUND;
+            
             ExecuteRoundPhrase(RosRoundPhrase.Rearguard);
-            roundActIndex += DELTA_ROUND;
+            
             foreach (var action in actionPresenters)
             {
                 Debug.Log("Execute action: " + action.GetType().Name);
@@ -235,7 +235,7 @@ namespace ReversalOfSpirit.Gameplay.Ros
             var turnActions = new List<GameAction>();
             Debug.Log($"turnLoser: {turnLoser == null}, turnWinner: {turnWinner == null}, winnerCard: {winnerCard == null}, loserCard: {loserCard == null}, winnerCardId: {winnerCard.CardDefinition.name}, loserCardId: {loserCard.CardDefinition.name}");
 
-            roundActIndex += DELTA_ROUND;
+            
             ExecuteSequential(new List<GameAction>() { new RevealCardAction(new List<BoardCardView>()
             {
                 new BoardCardView
@@ -256,77 +256,77 @@ namespace ReversalOfSpirit.Gameplay.Ros
             /*
              * PreAtkTurn
              */
-            roundActIndex += DELTA_ROUND;
+            
             turnWinner.OnStartPreAtkTurn(true, roundPhrase);
             turnLoser.OnStartPreAtkTurn(false, roundPhrase);
-            roundActIndex += DELTA_ROUND;
+            
             winnerCard.OnStartPreAtkTurn(this, roundPhrase);
             loserCard.OnStartPreAtkTurn(this, roundPhrase);
 
-            roundActIndex += DELTA_ROUND;
+            
             turnWinner.PreAtkTurn(true, roundPhrase);
             turnLoser.PreAtkTurn(false, roundPhrase);
-            roundActIndex += DELTA_ROUND;
+            
             winnerCard.PreAtkTurn(this, roundPhrase);
             loserCard.PreAtkTurn(this, roundPhrase);
 
-            roundActIndex += DELTA_ROUND;
+            
             turnWinner.OnEndPreAtkTurn(true, roundPhrase);
             turnLoser.OnEndPreAtkTurn(false, roundPhrase);
-            roundActIndex += DELTA_ROUND;
+            
             winnerCard.OnEndPreAtkTurn(this, roundPhrase);
             loserCard.OnEndPreAtkTurn(this, roundPhrase);
             /*
              * PhysicalTurn
              */
-            roundActIndex += DELTA_ROUND;
+            
             turnWinner.OnStartPhyAtkTurn(true, roundPhrase);
             turnLoser.OnStartPhyAtkTurn(false, roundPhrase);
-            roundActIndex += DELTA_ROUND;
+            
             winnerCard.OnStartPhyAtkTurn(this, roundPhrase);
             loserCard.OnStartPhyAtkTurn(this, roundPhrase);
 
-            roundActIndex += DELTA_ROUND;
+            
             turnWinner.OnPhyAtkTurn(true, roundPhrase);
             turnLoser.OnPhyAtkTurn(false, roundPhrase);
-            roundActIndex += DELTA_ROUND;
+            
             if (roundResult != RoundResult.Draw)
             {
                 winnerCard.OnPhyAtkTurn(this, roundPhrase);
             }
 
-            roundActIndex += DELTA_ROUND;
+            
             turnWinner.OnEndPhyAtkTurn(true, roundPhrase);
             turnLoser.OnEndPhyAtkTurn(false, roundPhrase);
-            roundActIndex += DELTA_ROUND;
+            
             winnerCard.OnEndPhyAtkTurn(this, roundPhrase);
             loserCard.OnEndPhyAtkTurn(this, roundPhrase);
 
             /*
              * Magical turn
              */
-            roundActIndex += DELTA_ROUND;
+            
             turnWinner.OnStartMagicalAtkTurn(true, roundPhrase);
             turnLoser.OnStartMagicalAtkTurn(false, roundPhrase);
-            roundActIndex += DELTA_ROUND;
+            
             winnerCard.OnStartMagicalAtkTurn(this, roundPhrase);
             loserCard.OnStartMagicalAtkTurn(this, roundPhrase);
 
-            roundActIndex += DELTA_ROUND;
+            
             turnWinner.OnMagicalTurn(true, roundPhrase);
             turnLoser.OnMagicalTurn(false, roundPhrase);
 
-            roundActIndex += DELTA_ROUND;
+            
 
             if (roundResult != RoundResult.Draw)
             {
                 winnerCard.OnMagicalTurn(this, roundPhrase);
             }
 
-            roundActIndex += DELTA_ROUND;
+            
             turnWinner.OnEndMagicalAtkTurn(true, roundPhrase);
             turnLoser.OnEndMagicalAtkTurn(false, roundPhrase);
-            roundActIndex += DELTA_ROUND;
+            
             winnerCard.OnEndMagicalAtkTurn(this, roundPhrase);
             loserCard.OnEndMagicalAtkTurn(this, roundPhrase);
 
@@ -403,13 +403,13 @@ namespace ReversalOfSpirit.Gameplay.Ros
 
         }
 
-        public void C2S_SetSelectionCard(int peerId, C2S_PlayerSelectionCard payload)
+        public void SetSelectionCard(int peerId, C2S_PlayerSelectionCard payload)
         {
             var player = GetPlayer(peerId);
             player.OnSelectCard(payload.slot, payload.cardId);
         }
 
-        public void C2S_PlayerSelectionFinish(int peerId, C2S_PlayerSelectionFinish payload)
+        public void PlayerSelectionFinish(int peerId, C2S_PlayerSelectionFinish payload)
         {
             var player = GetPlayer(peerId);
             player.finishRoundSelection = true;
@@ -425,7 +425,7 @@ namespace ReversalOfSpirit.Gameplay.Ros
 
         }
 
-        public void C2S_PlayerPresentRoundDone(int peerId, C2S_PlayerPresentRoundDone payload)
+        public void PlayerPresentRoundDone(int peerId, C2S_PlayerPresentRoundDone payload)
         {
             var player = GetPlayer(peerId);
             player.finishRoundPresent = true;

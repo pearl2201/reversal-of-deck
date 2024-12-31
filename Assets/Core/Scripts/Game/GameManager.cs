@@ -212,7 +212,13 @@ namespace Ros
         [ServerCallback]
         public void OnServerCreateBotMatch(NetworkConnectionToClient client)
         {
+            if (matchmakingDict.TryGetValue(client, out var match))
+            {
+                match.Cancel();
+                matchmakingDict.Remove(client);
+            }
 
+            BotService.Instance.FindBotProfile(200);
         } 
 
 

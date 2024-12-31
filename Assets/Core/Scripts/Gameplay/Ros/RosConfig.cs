@@ -1,5 +1,4 @@
 ﻿using ReversalOfSpirit.Gameplay.Ros.Arcanes;
-using ReversalOfSpirit.Gameplay.Ros.Cards;
 using ReversalOfSpirit.Gameplay.Ros.Talent;
 using System.Collections.Generic;
 
