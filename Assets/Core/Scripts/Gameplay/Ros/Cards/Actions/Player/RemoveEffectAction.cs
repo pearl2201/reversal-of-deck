@@ -1,4 +1,4 @@
-﻿using LiteNetLib.Utils;
+﻿
 using ReversalOfSpirit.Gameplay.Ros.Cards.Effects;
 using System;
 using System.Collections.Generic;
@@ -31,7 +31,7 @@ namespace ReversalOfSpirit.Gameplay.Ros.Cards.Actions
             target.OnRemoveEffectFromPlayerAction(this);
         }
 
-        public override void Serialize(IRosGame game, NetDataWriter writer)
+        /*public override void Serialize(IRosGame game, NetDataWriter writer)
         {
             base.Serialize(game, writer);
             writer.Put(target.Id);
@@ -43,5 +43,6 @@ namespace ReversalOfSpirit.Gameplay.Ros.Cards.Actions
             base.Deserialize(game, reader);
             effect = GameEffect.DeserializeGameEffect(game, reader);
         }
+        */
     }
 }

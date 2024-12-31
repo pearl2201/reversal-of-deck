@@ -1,4 +1,4 @@
-﻿using LiteNetLib.Utils;
+﻿
 using ReversalOfSpirit.Gameplay.Ros;
 using ReversalOfSpirit.Gameplay.Ros.Cards;
 using System;
@@ -33,7 +33,7 @@ namespace ReversalOfSpirit.Gameplay.Ros.Cards.Actions
 
         }
 
-        public override void Serialize(IRosGame game, NetDataWriter writer)
+        /*public override void Serialize(IRosGame game, NetDataWriter writer)
         {
             base.Serialize(game, writer);
             writer.Put(target.Id);
@@ -51,7 +51,7 @@ namespace ReversalOfSpirit.Gameplay.Ros.Cards.Actions
             finalValue = reader.GetInt();
         }
 
-        public override string ToString()
+       */ public override string ToString()
         {
             return $"player {target.Id}  gain {value} shield, result is {finalValue} ";
         }

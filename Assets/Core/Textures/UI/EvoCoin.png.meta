@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      EvoCoin_0: 6449792418404462090
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

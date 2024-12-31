@@ -285,7 +285,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      GuildWarButton_0: 5180714269614042536
+      GuildWarButton_1: -6598176532790709355
+      GuildWarButton_2: 4092143108616055926
+      GuildWarButton_3: 6340587937513940681
+      GuildWarButton_4: 4558461879449693241
+      GuildWarButton_5: -3171494041892913324
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

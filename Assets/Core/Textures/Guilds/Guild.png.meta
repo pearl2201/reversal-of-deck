@@ -460,7 +460,20 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Guild_0: -2482858281873382306
+      Guild_1: -2828338513207717986
+      Guild_10: -8921444054010059915
+      Guild_11: 8589229427909987977
+      Guild_12: 7390036458111092488
+      Guild_2: 8449120770981078057
+      Guild_3: 8497693506792509113
+      Guild_4: 7183719838809350297
+      Guild_5: 126873318894379928
+      Guild_6: -9192320151607749130
+      Guild_7: 2671636805643513383
+      Guild_8: -8850791437407619329
+      Guild_9: 5526068918834521230
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

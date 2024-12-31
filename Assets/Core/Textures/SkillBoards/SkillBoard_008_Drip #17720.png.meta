@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      SkillBoard_008_Drip #17720_0: 4231772976939002089
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

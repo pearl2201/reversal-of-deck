@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      PokerEdge_0: 5117649877294229502
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

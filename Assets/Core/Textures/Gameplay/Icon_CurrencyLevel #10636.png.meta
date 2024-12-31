@@ -435,7 +435,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Icon_CurrencyLevel #10636_0: 6472565071161560097
+      Icon_CurrencyLevel #10636_1: -2062056448348549812
+      Icon_CurrencyLevel #10636_10: 2779749355822317560
+      Icon_CurrencyLevel #10636_11: 5518354726771381507
+      Icon_CurrencyLevel #10636_2: 5774515682494994590
+      Icon_CurrencyLevel #10636_3: 81036691686681141
+      Icon_CurrencyLevel #10636_4: -56916360944955960
+      Icon_CurrencyLevel #10636_5: 1678246902181982251
+      Icon_CurrencyLevel #10636_6: 852031910987192224
+      Icon_CurrencyLevel #10636_7: 1991303273655589955
+      Icon_CurrencyLevel #10636_8: 1629550893075391771
+      Icon_CurrencyLevel #10636_9: 171211351363040904
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

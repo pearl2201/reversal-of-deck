@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      MonsterArmyHead_004_0: -2736787095176234879
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

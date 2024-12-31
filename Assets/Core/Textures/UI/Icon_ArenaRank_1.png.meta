@@ -360,7 +360,16 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Icon_ArenaRank_1_0: -5424488354843578316
+      Icon_ArenaRank_1_1: -5871099573190185026
+      Icon_ArenaRank_1_2: 7484959716307576842
+      Icon_ArenaRank_1_3: -8063529155924378678
+      Icon_ArenaRank_1_4: -1684107572739798222
+      Icon_ArenaRank_1_5: -8827806927489576832
+      Icon_ArenaRank_1_6: 8707075313197501372
+      Icon_ArenaRank_1_7: 4437967012301114867
+      Icon_ArenaRank_1_8: -5598049087443552653
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -685,7 +685,29 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      CommonButton_2_0: 288322478633131499
+      CommonButton_2_1: 2401719178359338290
+      CommonButton_2_10: 6832471448944121930
+      CommonButton_2_11: 866828014249126809
+      CommonButton_2_12: 8248460881724696047
+      CommonButton_2_13: -2511462137447001061
+      CommonButton_2_14: -5385289401781048135
+      CommonButton_2_15: 3823574083515150191
+      CommonButton_2_16: -2326366224512983563
+      CommonButton_2_17: 6459346331725391672
+      CommonButton_2_18: -7023714618659096810
+      CommonButton_2_19: -8828730488379698927
+      CommonButton_2_2: -2378062768099311675
+      CommonButton_2_20: 1140179473124572341
+      CommonButton_2_21: -1985309840521389653
+      CommonButton_2_3: 2974856427636259992
+      CommonButton_2_4: 6732055580530204500
+      CommonButton_2_5: 2451237881463324926
+      CommonButton_2_6: 8689711943195068593
+      CommonButton_2_7: 6041701835477847202
+      CommonButton_2_8: -4934915087419280525
+      CommonButton_2_9: 1372417823887514255
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

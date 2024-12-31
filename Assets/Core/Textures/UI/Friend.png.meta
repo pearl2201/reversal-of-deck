@@ -335,7 +335,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Friend_0: 435429667062075967
+      Friend_1: 1858837324337748716
+      Friend_2: 6507964426018686383
+      Friend_3: 6086987264008047526
+      Friend_4: 6644001207997118436
+      Friend_5: 7067115627397326658
+      Friend_6: 2893978461566543708
+      Friend_7: 4496382014978858440
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

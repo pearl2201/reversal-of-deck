@@ -260,7 +260,12 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ContestBattleRank_0: -3897919503798371242
+      ContestBattleRank_1: 1043850901892017341
+      ContestBattleRank_2: 4312216560326505880
+      ContestBattleRank_3: -7727964044929277021
+      ContestBattleRank_4: -3315807531330370796
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

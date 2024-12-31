@@ -510,7 +510,22 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Icon_PokerPowerWithFrame_0: 9124530628882327433
+      Icon_PokerPowerWithFrame_1: 7498772424755809216
+      Icon_PokerPowerWithFrame_10: -4848962000100642555
+      Icon_PokerPowerWithFrame_11: -5024593788219580727
+      Icon_PokerPowerWithFrame_12: -8164658789174268426
+      Icon_PokerPowerWithFrame_13: -2637945128766082453
+      Icon_PokerPowerWithFrame_14: -4525476836003252439
+      Icon_PokerPowerWithFrame_2: 184621856152522502
+      Icon_PokerPowerWithFrame_3: 5418971164014174
+      Icon_PokerPowerWithFrame_4: -8534769936318185761
+      Icon_PokerPowerWithFrame_5: 3730846304024539862
+      Icon_PokerPowerWithFrame_6: -2174650864858410110
+      Icon_PokerPowerWithFrame_7: -7038984236497946236
+      Icon_PokerPowerWithFrame_8: 7206857282812281321
+      Icon_PokerPowerWithFrame_9: 949957703841313586
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

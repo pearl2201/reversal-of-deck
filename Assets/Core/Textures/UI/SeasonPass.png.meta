@@ -510,7 +510,22 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      SeasonPass_0: -6446377222741145258
+      SeasonPass_1: -4493354334342718435
+      SeasonPass_10: -6214194016531101631
+      SeasonPass_11: 3817016692052278416
+      SeasonPass_12: 5238556054252819918
+      SeasonPass_13: 1701984058957588186
+      SeasonPass_14: -527186830449090404
+      SeasonPass_2: 7898753746824096993
+      SeasonPass_3: -3997862264178870528
+      SeasonPass_4: -3708524198722699808
+      SeasonPass_5: -1414025778425779416
+      SeasonPass_6: -461065058273816688
+      SeasonPass_7: 7526246925884169140
+      SeasonPass_8: -3870987251382367447
+      SeasonPass_9: -3153757657096985411
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

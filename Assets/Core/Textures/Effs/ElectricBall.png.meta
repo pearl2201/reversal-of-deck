@@ -535,7 +535,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ElectricBall_0: -7411300847944884930
+      ElectricBall_1: -113088442131459103
+      ElectricBall_10: 7966233109880904349
+      ElectricBall_11: 3907979478601301660
+      ElectricBall_12: 2367984576106973409
+      ElectricBall_13: -867303069210639883
+      ElectricBall_14: 8528112937366259288
+      ElectricBall_15: 7225938439683130269
+      ElectricBall_2: -662446302471090131
+      ElectricBall_3: -2349425087349736628
+      ElectricBall_4: -7896318722025832840
+      ElectricBall_5: -6894999711421846272
+      ElectricBall_6: 4863432429709404021
+      ElectricBall_7: -7682926222077973191
+      ElectricBall_8: -4586171958579264660
+      ElectricBall_9: 3934068205890954182
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

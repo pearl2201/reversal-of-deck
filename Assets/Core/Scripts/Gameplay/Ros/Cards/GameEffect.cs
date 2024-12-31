@@ -1,4 +1,4 @@
-﻿using LiteNetLib.Utils;
+﻿
 using ReversalOfSpirit.Gameplay.Enums;
 using ReversalOfSpirit.Gameplay.Ros.Cards.Actions;
 using ReversalOfSpirit.Gameplay.Ros.Cards.Effects;
@@ -118,51 +118,51 @@ namespace ReversalOfSpirit.Gameplay.Ros.Cards
             AssignedRoundIndex = game.roundIndex;
         }
 
-        public virtual void Serialize(IRosGame game, NetDataWriter writer)
-        {
+        //public virtual void Serialize(IRosGame game, NetDataWriter writer)
+        //{
 
-        }
+        //}
 
-        public virtual void Deserialize(IRosGame game, NetDataReader reader)
-        {
+        //public virtual void Deserialize(IRosGame game, NetDataReader reader)
+        //{
 
-        }
+        //}
 
-        public static GameEffect DeserializeGameEffect(IRosGame game, NetDataReader reader)
-        {
-            var effectType = reader.GetString();
-            GameEffect effect = null;
-            if (effectType == nameof(CurseEffect))
-            {
-                effect = new CurseEffect();
-                effect.Deserialize(game, reader);
-            }
-            else if (effectType == nameof(CharmLowestAtkEffect))
-            {
-                effect = new CharmLowestAtkEffect();
-                effect.Deserialize(game, reader);
-            }
-            else if (effectType == nameof(RaiseAtkOfNextTurnEffect))
-            {
-                effect = new RaiseAtkOfNextTurnEffect();
-                effect.Deserialize(game, reader);
-            }
-            else if (effectType == nameof(AbsortPhysicalForCounterAttackEffect))
-            {
-                effect = new AbsortPhysicalForCounterAttackEffect();
-                effect.Deserialize(game, reader);
-            }
-            else if (effectType == nameof(PhysicalAbsCounterAttackEffect))
-            {
-                effect = new PhysicalAbsCounterAttackEffect();
-                effect.Deserialize(game, reader);
-            }
-            else
-            {
-                UnityEngine.Debug.LogError("Unknow effect type: " + effectType);
-            }
-            return effect;
-        }
+        //public static GameEffect DeserializeGameEffect(IRosGame game, NetDataReader reader)
+        //{
+        //    var effectType = reader.GetString();
+        //    GameEffect effect = null;
+        //    if (effectType == nameof(CurseEffect))
+        //    {
+        //        effect = new CurseEffect();
+        //        effect.Deserialize(game, reader);
+        //    }
+        //    else if (effectType == nameof(CharmLowestAtkEffect))
+        //    {
+        //        effect = new CharmLowestAtkEffect();
+        //        effect.Deserialize(game, reader);
+        //    }
+        //    else if (effectType == nameof(RaiseAtkOfNextTurnEffect))
+        //    {
+        //        effect = new RaiseAtkOfNextTurnEffect();
+        //        effect.Deserialize(game, reader);
+        //    }
+        //    else if (effectType == nameof(AbsortPhysicalForCounterAttackEffect))
+        //    {
+        //        effect = new AbsortPhysicalForCounterAttackEffect();
+        //        effect.Deserialize(game, reader);
+        //    }
+        //    else if (effectType == nameof(PhysicalAbsCounterAttackEffect))
+        //    {
+        //        effect = new PhysicalAbsCounterAttackEffect();
+        //        effect.Deserialize(game, reader);
+        //    }
+        //    else
+        //    {
+        //        UnityEngine.Debug.LogError("Unknow effect type: " + effectType);
+        //    }
+        //    return effect;
+        //}
 
     }
 }

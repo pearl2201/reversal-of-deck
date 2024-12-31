@@ -310,7 +310,14 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Mastery_0: -2088501932002215743
+      Mastery_1: 1213265711178821643
+      Mastery_2: -1439222045355917292
+      Mastery_3: 4946533753517247540
+      Mastery_4: -5398388004266305593
+      Mastery_5: 1254554050468487710
+      Mastery_6: 8382718315484227601
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

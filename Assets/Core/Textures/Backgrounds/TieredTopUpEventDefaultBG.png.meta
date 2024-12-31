@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      TieredTopUpEventDefaultBG_0: -1796766864155569208
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

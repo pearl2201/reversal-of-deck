@@ -1,4 +1,4 @@
-﻿using LiteNetLib.Utils;
+﻿
 using ReversalOfSpirit.Gameplay.Enums;
 using ReversalOfSpirit.Gameplay.Ros;
 using ReversalOfSpirit.Gameplay.Ros.Cards;
@@ -27,7 +27,7 @@ namespace ReversalOfSpirit.Gameplay.Ros.Cards.Actions
             finalValue = slot.CalculateAtk();
         }
 
-        public override void Serialize(IRosGame game, NetDataWriter writer)
+        /*public override void Serialize(IRosGame game, NetDataWriter writer)
         {
             base.Serialize(game, writer);
             writer.Put(value);
@@ -45,7 +45,7 @@ namespace ReversalOfSpirit.Gameplay.Ros.Cards.Actions
             var terriotory = (GameTerritory)reader.GetInt();
             slot = game.GetSlot(playerId, terriotory);
         }
-
+*/
         public override string ToString()
         {
             return $"Increase {value} atk abs to player {slot.Player.Id} - {slot.Terriotory.ToString()}";

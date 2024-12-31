@@ -104,12 +104,12 @@ namespace ReversalOfSpirit.Gameplay.Ros
             isPrepare = true;
             PlayerA.BroadcastBoard();
             PlayerB.BroadcastBoard();
-            ChannelSender.Broadcast(nameof(S2C_SendExeImRoundActions), (writer) =>
-            {
-                var act = new S2C_SendExeImRoundActions() { actions = actionPresenters };
-                act.Serialize(this, writer);
-                actionPresenters.Clear();
-            });
+            //ChannelSender.Broadcast(nameof(S2C_SendExeImRoundActions), (writer) =>
+            //{
+            //    var act = new S2C_SendExeImRoundActions() { actions = actionPresenters };
+            //    act.Serialize(this, writer);
+            //    actionPresenters.Clear();
+            //});
 
         }
 
@@ -178,18 +178,18 @@ namespace ReversalOfSpirit.Gameplay.Ros
             {
                 var lst = new List<GameAction>(actionPresenters);
                 actionPresenters.Clear();
-                PlayerA.Send(nameof(S2C_SendRoundActions), (writer) =>
-                {
-                    var act = new S2C_SendRoundActions() { actions = lst };
-                    act.Serialize(this, writer);
-                    actionPresenters.Clear();
-                });
-                PlayerB.Send(nameof(S2C_SendRoundActions), (writer) =>
-                {
-                    var act = new S2C_SendRoundActions() { actions = lst };
-                    act.Serialize(this, writer);
-                    actionPresenters.Clear();
-                });
+                //PlayerA.Send(nameof(S2C_SendRoundActions), (writer) =>
+                //{
+                //    var act = new S2C_SendRoundActions() { actions = lst };
+                //    act.Serialize(this, writer);
+                //    actionPresenters.Clear();
+                //});
+                //PlayerB.Send(nameof(S2C_SendRoundActions), (writer) =>
+                //{
+                //    var act = new S2C_SendRoundActions() { actions = lst };
+                //    act.Serialize(this, writer);
+                //    actionPresenters.Clear();
+                //});
 
             }
 
@@ -359,42 +359,42 @@ namespace ReversalOfSpirit.Gameplay.Ros
             {
                 if (roundIndex == 0)
                 {
-                    ChannelSender.Broadcast(nameof(S2C_GameStart), new S2C_GameStart()
-                    {
-                        players = new List<PlayerShortInfo>()
-                        {
-                            PlayerA.ShortInfo,
-                            PlayerB.ShortInfo
-                        }
-                    });
+                    //ChannelSender.Broadcast(nameof(S2C_GameStart), new S2C_GameStart()
+                    //{
+                    //    players = new List<PlayerShortInfo>()
+                    //    {
+                    //        PlayerA.ShortInfo,
+                    //        PlayerB.ShortInfo
+                    //    }
+                    //});
                     PlayerA.OnStartGame();
                     PlayerB.OnStartGame();
-                    ChannelSender.Broadcast(nameof(S2C_GameSetup), new S2C_GameSetup()
-                    {
-                        players = new List<PlayerBaseStat>()
-                        {
-                            new PlayerBaseStat
-                            {
-                                id = PlayerA.Id,
-                                currentArmor = PlayerA.currentArmor,
-                                currentHp = PlayerA.currentHp,
-                                currentMana = PlayerA.currentMana,
-                                totalArmor = PlayerA.maxStartGameArmor,
-                                totalHp = PlayerA.maxStartGameHp,
-                                totalMana = PlayerA.maxStartGameMana
-                            },
-                            new PlayerBaseStat
-                            {
-                                id = PlayerB.Id,
-                                currentArmor = PlayerB.currentArmor,
-                                currentHp = PlayerB.currentHp,
-                                currentMana = PlayerB.currentMana,
-                                totalArmor = PlayerB.maxStartGameArmor,
-                                totalHp = PlayerB.maxStartGameHp,
-                                totalMana = PlayerB.maxStartGameMana
-                            }
-                        }
-                    });
+                    //ChannelSender.Broadcast(nameof(S2C_GameSetup), new S2C_GameSetup()
+                    //{
+                    //    players = new List<PlayerBaseStat>()
+                    //    {
+                    //        new PlayerBaseStat
+                    //        {
+                    //            id = PlayerA.Id,
+                    //            currentArmor = PlayerA.currentArmor,
+                    //            currentHp = PlayerA.currentHp,
+                    //            currentMana = PlayerA.currentMana,
+                    //            totalArmor = PlayerA.maxStartGameArmor,
+                    //            totalHp = PlayerA.maxStartGameHp,
+                    //            totalMana = PlayerA.maxStartGameMana
+                    //        },
+                    //        new PlayerBaseStat
+                    //        {
+                    //            id = PlayerB.Id,
+                    //            currentArmor = PlayerB.currentArmor,
+                    //            currentHp = PlayerB.currentHp,
+                    //            currentMana = PlayerB.currentMana,
+                    //            totalArmor = PlayerB.maxStartGameArmor,
+                    //            totalHp = PlayerB.maxStartGameHp,
+                    //            totalMana = PlayerB.maxStartGameMana
+                    //        }
+                    //    }
+                    //});
                 }
 
                 StartRound();

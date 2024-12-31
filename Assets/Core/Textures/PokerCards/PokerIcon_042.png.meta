@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      PokerIcon_042_0: -5073410316834191502
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -285,7 +285,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      SkillBoardSkin_016_A_0: -4714019140981833509
+      SkillBoardSkin_016_A_1: 7690557051451721960
+      SkillBoardSkin_016_A_2: 1497463629479543079
+      SkillBoardSkin_016_A_3: -4156856762581312989
+      SkillBoardSkin_016_A_4: 4802154468269070377
+      SkillBoardSkin_016_A_5: -6261398334181060283
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

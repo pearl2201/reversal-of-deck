@@ -285,7 +285,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      GuildButton_0: -55657553302870185
+      GuildButton_1: 5488000330387123561
+      GuildButton_2: -4126989204702820604
+      GuildButton_3: 6675494094179635285
+      GuildButton_4: -5195291043023639711
+      GuildButton_5: 8077168079082330355
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

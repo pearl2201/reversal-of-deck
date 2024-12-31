@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      EventQuestIcon_0: 4981196991787138376
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

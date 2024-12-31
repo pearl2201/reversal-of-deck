@@ -235,7 +235,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      HalfRing_0: 3534770789528397411
+      HalfRing_1: 2243452307361464704
+      HalfRing_2: -728333547786323669
+      HalfRing_3: -6395207130812044274
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

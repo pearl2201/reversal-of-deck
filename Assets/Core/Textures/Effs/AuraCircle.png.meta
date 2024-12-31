@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      AuraCircle_0: -5400735807438782737
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

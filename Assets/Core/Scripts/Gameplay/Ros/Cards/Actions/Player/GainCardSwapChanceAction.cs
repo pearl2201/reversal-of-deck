@@ -1,5 +1,4 @@
-﻿using LiteNetLib.Utils;
-using ReversalOfSpirit.Models;
+﻿
 
 namespace ReversalOfSpirit.Gameplay.Ros.Cards.Actions
 {
@@ -29,7 +28,7 @@ namespace ReversalOfSpirit.Gameplay.Ros.Cards.Actions
             target.OnGainCardSwapChanceAction(this);
         }
 
-        public override void Serialize(IRosGame game, NetDataWriter writer)
+        /*public override void Serialize(IRosGame game, NetDataWriter writer)
         {
             base.Serialize(game, writer);
             writer.Put(value);
@@ -47,7 +46,7 @@ namespace ReversalOfSpirit.Gameplay.Ros.Cards.Actions
             finalValue = reader.GetInt();
         }
 
-        public override string ToString()
+       */ public override string ToString()
         {
             return $"player {target.Id}  gain {value} swap card chances, result is {finalValue} ";
         }

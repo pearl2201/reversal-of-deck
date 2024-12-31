@@ -535,7 +535,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Icon_PosBuff_0: 8815073173819655339
+      Icon_PosBuff_1: 6748513040478141209
+      Icon_PosBuff_10: 5642784538527423504
+      Icon_PosBuff_11: -4614875646503233271
+      Icon_PosBuff_12: 8050563924375328568
+      Icon_PosBuff_13: -2270871381559345690
+      Icon_PosBuff_14: -7962071812380118299
+      Icon_PosBuff_15: 6608167889686257795
+      Icon_PosBuff_2: -3577877715505976017
+      Icon_PosBuff_3: -8808526329861500647
+      Icon_PosBuff_4: 5166616578112678601
+      Icon_PosBuff_5: -6388473529699019322
+      Icon_PosBuff_6: -1522496999813498742
+      Icon_PosBuff_7: 2202143337758371618
+      Icon_PosBuff_8: -9000436874095126734
+      Icon_PosBuff_9: 1213798267046353322
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

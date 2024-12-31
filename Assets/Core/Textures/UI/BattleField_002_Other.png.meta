@@ -310,7 +310,14 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      BattleField_002_Other_0: 6666545426974171104
+      BattleField_002_Other_1: -8494337586001573098
+      BattleField_002_Other_2: -9158925132394344900
+      BattleField_002_Other_3: -8212749650139027984
+      BattleField_002_Other_4: -6113371384093784765
+      BattleField_002_Other_5: -7504869995447941260
+      BattleField_002_Other_6: -452116785493905091
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

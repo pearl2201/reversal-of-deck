@@ -210,7 +210,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      RougeliteFrame_0: 3568757534752100850
+      RougeliteFrame_1: 8344628178505629888
+      RougeliteFrame_2: -7750252537810579575
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

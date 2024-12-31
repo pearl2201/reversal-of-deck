@@ -360,7 +360,16 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Mark_Connect_0: -4026151403815957607
+      Mark_Connect_1: 8560192746169996875
+      Mark_Connect_2: -5850588530098473123
+      Mark_Connect_3: -1307247281673725246
+      Mark_Connect_4: 8641348050127535420
+      Mark_Connect_5: -470882790252937355
+      Mark_Connect_6: 1732009878720042599
+      Mark_Connect_7: -5742993214963091405
+      Mark_Connect_8: -358949452369966490
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

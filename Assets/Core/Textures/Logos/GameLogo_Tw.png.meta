@@ -310,7 +310,14 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      GameLogo_Tw_0: 8664303683213591797
+      GameLogo_Tw_1: -3278267525420735744
+      GameLogo_Tw_2: -2753410992953393186
+      GameLogo_Tw_3: -8933224235266325670
+      GameLogo_Tw_4: -8042187118366763325
+      GameLogo_Tw_5: 3677266229695975760
+      GameLogo_Tw_6: 2296486099143124472
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

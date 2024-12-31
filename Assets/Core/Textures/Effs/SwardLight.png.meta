@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      SwardLight_0: 3357448368404200625
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

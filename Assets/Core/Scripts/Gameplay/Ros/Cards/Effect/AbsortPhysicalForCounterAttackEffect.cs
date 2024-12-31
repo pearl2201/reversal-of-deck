@@ -1,4 +1,4 @@
-﻿using LiteNetLib.Utils;
+﻿
 using ReversalOfSpirit.Gameplay.Enums;
 using ReversalOfSpirit.Gameplay.Ros.Cards.Actions;
 using System.Collections.Generic;
@@ -46,7 +46,7 @@ namespace ReversalOfSpirit.Gameplay.Ros.Cards.Effects
 
         public override EffectEndType EndType => EffectEndType.OnTrigger;
 
-        public override void Serialize(IRosGame game, NetDataWriter writer)
+        /*public override void Serialize(IRosGame game, NetDataWriter writer)
         {
             writer.Put(percent);
             writer.Put(absortValue);
@@ -57,5 +57,6 @@ namespace ReversalOfSpirit.Gameplay.Ros.Cards.Effects
             percent = reader.GetFloat();
             absortValue = reader.GetInt();
         }
+        */
     }
 }

@@ -185,7 +185,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      LobbyBG_Fire_01_0: -7149997041636175100
+      LobbyBG_Fire_01_1: -7182654550063201481
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

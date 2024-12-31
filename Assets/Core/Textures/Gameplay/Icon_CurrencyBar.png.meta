@@ -260,7 +260,12 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Icon_CurrencyBar_0: 6072148474399725212
+      Icon_CurrencyBar_1: 5724566744826537418
+      Icon_CurrencyBar_2: 730952199869439874
+      Icon_CurrencyBar_3: -4063088061842140472
+      Icon_CurrencyBar_4: -6609430354425363854
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

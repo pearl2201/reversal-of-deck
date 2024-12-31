@@ -1,4 +1,4 @@
-﻿using LiteNetLib.Utils;
+﻿
 using ReversalOfSpirit.Gameplay.Ros.Arcanes;
 
 namespace ReversalOfSpirit.Gameplay.Ros.Cards.Actions.Player
@@ -22,7 +22,7 @@ namespace ReversalOfSpirit.Gameplay.Ros.Cards.Actions.Player
             target.arcane.Arcane.Execute(new ArcaneRuntimeStat { Owner = target }, game);
         }
 
-        public override void Serialize(IRosGame game, NetDataWriter writer)
+        /*public override void Serialize(IRosGame game, NetDataWriter writer)
         {
             base.Serialize(game, writer);
             writer.Put(target.Id);
@@ -32,6 +32,6 @@ namespace ReversalOfSpirit.Gameplay.Ros.Cards.Actions.Player
         {
             base.Deserialize(game, reader);
             target = game.GetPlayer(reader.GetInt());
-        }
+        }*/
     }
 }

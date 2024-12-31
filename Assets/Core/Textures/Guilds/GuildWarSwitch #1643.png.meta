@@ -185,7 +185,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      GuildWarSwitch #1643_0: -8869524274356866752
+      GuildWarSwitch #1643_1: -2221493478442371842
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

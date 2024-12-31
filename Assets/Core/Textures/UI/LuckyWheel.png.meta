@@ -260,7 +260,12 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      LuckyWheel_0: -6890579420687779528
+      LuckyWheel_1: -8073404966131386234
+      LuckyWheel_2: -2661690196173310013
+      LuckyWheel_3: -256470454844286231
+      LuckyWheel_4: 6595005048573266701
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -460,7 +460,20 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Icon_Common #6228_0: -618623124992039494
+      Icon_Common #6228_1: 4879901690089716101
+      Icon_Common #6228_10: 2918316394908810893
+      Icon_Common #6228_11: 1627066979310338135
+      Icon_Common #6228_12: -2001093562706050799
+      Icon_Common #6228_2: 1544851351982983536
+      Icon_Common #6228_3: -3960450086525670766
+      Icon_Common #6228_4: -5371078310301449901
+      Icon_Common #6228_5: -3817170032184092952
+      Icon_Common #6228_6: -917114497281545550
+      Icon_Common #6228_7: -5565030876899850500
+      Icon_Common #6228_8: 4856698249794600577
+      Icon_Common #6228_9: 8109772008064960534
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

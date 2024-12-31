@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      GuildLobbyBackground_0: 9017242876500277587
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

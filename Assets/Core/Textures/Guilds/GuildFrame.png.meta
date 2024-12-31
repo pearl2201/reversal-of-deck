@@ -485,7 +485,21 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      GuildFrame_0: -7718480033588545302
+      GuildFrame_1: 6330991886315869998
+      GuildFrame_10: 9207344439068102506
+      GuildFrame_11: -1044960426740908620
+      GuildFrame_12: -463288793602064198
+      GuildFrame_13: 6213758085054311692
+      GuildFrame_2: -2070953378216266414
+      GuildFrame_3: 3310038019568570557
+      GuildFrame_4: 6358630117084581161
+      GuildFrame_5: -58568916724337779
+      GuildFrame_6: 3005042460195420590
+      GuildFrame_7: -586885816117612663
+      GuildFrame_8: -7080165943506766685
+      GuildFrame_9: -6987048705174132994
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -260,7 +260,12 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      LobbyBG_Other02_0: -6410345935892746497
+      LobbyBG_Other02_1: -124676257312783475
+      LobbyBG_Other02_2: -2349703542098061922
+      LobbyBG_Other02_3: 4381100838640338396
+      LobbyBG_Other02_4: 3133418806529817936
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

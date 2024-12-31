@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      SkillBoard_013_Snow #6861_0: 962720214992159848
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

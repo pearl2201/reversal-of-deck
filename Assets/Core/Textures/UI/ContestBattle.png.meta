@@ -335,7 +335,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ContestBattle_0: 4193883328538311481
+      ContestBattle_1: 5509231870394511346
+      ContestBattle_2: -4397022825495230964
+      ContestBattle_3: -1630382164568137975
+      ContestBattle_4: 4834934448334813166
+      ContestBattle_5: -5566217197051887339
+      ContestBattle_6: -6711883535795169556
+      ContestBattle_7: 3938299731417002158
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -460,7 +460,20 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Orb_fire_0: -2119896657087238999
+      Orb_fire_1: -8775907431156632878
+      Orb_fire_10: 4327326441166777748
+      Orb_fire_11: -265085759498202152
+      Orb_fire_12: -4339009538105209069
+      Orb_fire_2: -9156773597332079240
+      Orb_fire_3: 5567614226349557936
+      Orb_fire_4: -8619470202410903175
+      Orb_fire_5: -1417829303648859435
+      Orb_fire_6: 3284556304318520452
+      Orb_fire_7: 2958732865793900720
+      Orb_fire_8: 1256450664546991545
+      Orb_fire_9: -5416626099423334711
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

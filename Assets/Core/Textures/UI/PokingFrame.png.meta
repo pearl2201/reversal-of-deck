@@ -210,7 +210,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      PokingFrame_0: -3954820322048624874
+      PokingFrame_1: 4478074411469090875
+      PokingFrame_2: 354241588502569337
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

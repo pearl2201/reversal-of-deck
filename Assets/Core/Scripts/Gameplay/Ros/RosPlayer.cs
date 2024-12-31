@@ -1,4 +1,4 @@
-﻿using LiteNetLib.Utils;
+﻿
 using ReversalOfSpirit.Gameplay.Enums;
 using ReversalOfSpirit.Gameplay.Packets;
 using ReversalOfSpirit.Gameplay.Ros.Cards;
@@ -190,22 +190,22 @@ namespace ReversalOfSpirit.Gameplay.Ros
             currentMana = 0;
         }
 
-        public void Send<T>(T packet) where T : INetSerializable
-        {
-            Send(typeof(T).Name, packet);
-        }
+        //public void Send<T>(T packet) where T : INetSerializable
+        //{
+        //    Send(typeof(T).Name, packet);
+        //}
 
-        public abstract void Send(string packetId, Action<NetDataWriter> writerFunc);
+        //public abstract void Send(string packetId, Action<NetDataWriter> writerFunc);
 
-        public void Broadcast<T>(T packet) where T : INetSerializable
-        {
-            Send(typeof(T).Name, packet);
-        }
+        //public void Broadcast<T>(T packet) where T : INetSerializable
+        //{
+        //    Send(typeof(T).Name, packet);
+        //}
 
 
-        public abstract void Send<T>(string packetId, T packet) where T : INetSerializable;
+        //public abstract void Send<T>(string packetId, T packet) where T : INetSerializable;
 
-        public abstract void Broadcast<T>(string packetId, T packet) where T : INetSerializable;
+        //public abstract void Broadcast<T>(string packetId, T packet) where T : INetSerializable;
 
         public RosRuntimeCard GetRuntimeCard(int cardId)
         {
@@ -270,7 +270,7 @@ namespace ReversalOfSpirit.Gameplay.Ros
             {
                 handItems = handItems
             };
-            Send(packet);
+            //Send(packet);
         }
 
         public void OnSelectCard(GameTerritory slot, int cardId)
@@ -295,7 +295,7 @@ namespace ReversalOfSpirit.Gameplay.Ros
                 }
             }
             cardSlots[slot] = new CardSlotSelection() { CardId = cardId, Star = star };
-            Send(packet);
+            //Send(packet);
         }
 
         public void OnUseSkill(C2S_PlayerUseSkill useSkill)

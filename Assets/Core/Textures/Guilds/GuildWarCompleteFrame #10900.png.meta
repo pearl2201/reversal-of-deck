@@ -285,7 +285,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      GuildWarCompleteFrame #10900_0: 1767604742047566019
+      GuildWarCompleteFrame #10900_1: 8334507298662267008
+      GuildWarCompleteFrame #10900_2: -1259551431182715139
+      GuildWarCompleteFrame #10900_3: -6359177642184671919
+      GuildWarCompleteFrame #10900_4: -3222958734886922637
+      GuildWarCompleteFrame #10900_5: -1396718230274969017
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

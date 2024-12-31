@@ -360,7 +360,16 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      PokerTypeRank_0: -2683758894790213313
+      PokerTypeRank_1: 323432803798033505
+      PokerTypeRank_2: 4624618624280142845
+      PokerTypeRank_3: -450664422337597371
+      PokerTypeRank_4: -1932939438634972499
+      PokerTypeRank_5: 1365007555516989143
+      PokerTypeRank_6: -4494985108677264052
+      PokerTypeRank_7: -9181579382712704919
+      PokerTypeRank_8: 9113482424351010389
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

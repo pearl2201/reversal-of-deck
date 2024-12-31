@@ -310,7 +310,14 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      SeasonPassFrame_0: 6325766180705580181
+      SeasonPassFrame_1: 8535965630461976955
+      SeasonPassFrame_2: -8454422507268292762
+      SeasonPassFrame_3: -1501054304477326032
+      SeasonPassFrame_4: 7944563926991946393
+      SeasonPassFrame_5: -7897766777255339192
+      SeasonPassFrame_6: 4453924041607212390
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

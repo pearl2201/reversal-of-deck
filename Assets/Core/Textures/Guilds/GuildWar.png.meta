@@ -560,7 +560,24 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      GuildWar_0: 8341687194725075590
+      GuildWar_1: 8440017061449792187
+      GuildWar_10: 3276655868545353787
+      GuildWar_11: 4381469117193113022
+      GuildWar_12: 1844796939330592665
+      GuildWar_13: -3186522067650932251
+      GuildWar_14: 6490734882340939816
+      GuildWar_15: 7523525255349229984
+      GuildWar_16: -7421582670827795071
+      GuildWar_2: -1841491423284718241
+      GuildWar_3: 6248493704681220749
+      GuildWar_4: -5681478005388004720
+      GuildWar_5: -5420298450426377026
+      GuildWar_6: 7614481491600363136
+      GuildWar_7: -5422939981356192987
+      GuildWar_8: 6722512939452790243
+      GuildWar_9: 6311544165823897330
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

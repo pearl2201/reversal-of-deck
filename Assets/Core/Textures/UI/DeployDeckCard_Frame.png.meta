@@ -285,7 +285,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      DeployDeckCard_Frame_0: 4205726196452099080
+      DeployDeckCard_Frame_1: -6712465379532508345
+      DeployDeckCard_Frame_2: 7691939554753094243
+      DeployDeckCard_Frame_3: 6791407677528886883
+      DeployDeckCard_Frame_4: -1352790859563439511
+      DeployDeckCard_Frame_5: 7819256153527930828
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

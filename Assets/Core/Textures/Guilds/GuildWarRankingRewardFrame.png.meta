@@ -260,7 +260,12 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      GuildWarRankingRewardFrame_0: 2916563074664644297
+      GuildWarRankingRewardFrame_1: 4794892442282050872
+      GuildWarRankingRewardFrame_2: 8032981578075983707
+      GuildWarRankingRewardFrame_3: -7304451131357712519
+      GuildWarRankingRewardFrame_4: 8831954265366735981
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

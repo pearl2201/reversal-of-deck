@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Poker_032_EFX #11972_0: 6751322722813116027
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

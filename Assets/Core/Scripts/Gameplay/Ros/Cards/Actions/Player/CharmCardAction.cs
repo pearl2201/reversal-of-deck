@@ -1,4 +1,4 @@
-﻿using LiteNetLib.Utils;
+﻿
 using ReversalOfSpirit.Gameplay.Enums;
 using ReversalOfSpirit.Gameplay.Ros;
 using ReversalOfSpirit.Gameplay.Ros.Cards;
@@ -39,7 +39,7 @@ namespace ReversalOfSpirit.Gameplay.Ros.Cards.Actions
             });
         }
 
-        public override void Serialize(IRosGame game, NetDataWriter writer)
+        /*public override void Serialize(IRosGame game, NetDataWriter writer)
         {
             base.Serialize(game, writer);
             writer.Put(cardId);
@@ -55,7 +55,7 @@ namespace ReversalOfSpirit.Gameplay.Ros.Cards.Actions
             target = game.GetPlayer(reader.GetInt());
         }
 
-        public override string ToString()
+       */ public override string ToString()
         {
             return $"charm {cardId} to player {target.Id} - {territory}";
         }

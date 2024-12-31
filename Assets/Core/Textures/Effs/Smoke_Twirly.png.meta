@@ -235,7 +235,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Smoke_Twirly_0: -4772320816628900174
+      Smoke_Twirly_1: -2432682092753266492
+      Smoke_Twirly_2: -8639596007703330834
+      Smoke_Twirly_3: 3479975763004956420
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

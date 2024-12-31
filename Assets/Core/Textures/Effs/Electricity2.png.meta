@@ -410,7 +410,18 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Electricity2_0: -3557147504356548986
+      Electricity2_1: -8229883504905164421
+      Electricity2_10: -3455755269487070559
+      Electricity2_2: -7474235477419389326
+      Electricity2_3: -5814664015588563302
+      Electricity2_4: -7615623559923360723
+      Electricity2_5: 3285927709617580103
+      Electricity2_6: -5141750993267461744
+      Electricity2_7: -7675335812418273942
+      Electricity2_8: 2692168735027471780
+      Electricity2_9: 8687175891725867061
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

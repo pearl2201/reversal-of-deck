@@ -860,7 +860,36 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Icon_RunesEffect_0: -6338944377614508435
+      Icon_RunesEffect_1: -7333027268775954068
+      Icon_RunesEffect_10: 6538236436644108260
+      Icon_RunesEffect_11: 4546832702230663266
+      Icon_RunesEffect_12: -1346693373093001037
+      Icon_RunesEffect_13: -4062991773615067917
+      Icon_RunesEffect_14: 4462946348686692419
+      Icon_RunesEffect_15: 3127255391551318074
+      Icon_RunesEffect_16: 2791723827797793341
+      Icon_RunesEffect_17: 3683011052902666055
+      Icon_RunesEffect_18: -8591260703177616056
+      Icon_RunesEffect_19: 8137260073672281851
+      Icon_RunesEffect_2: -5298042451260910647
+      Icon_RunesEffect_20: -505292921429131422
+      Icon_RunesEffect_21: 7306851029795635076
+      Icon_RunesEffect_22: -6700675102721699334
+      Icon_RunesEffect_23: -7361945170324972699
+      Icon_RunesEffect_24: 4479988205149318133
+      Icon_RunesEffect_25: 3380877174610734684
+      Icon_RunesEffect_26: 6193844255617311062
+      Icon_RunesEffect_27: -1562349732673962602
+      Icon_RunesEffect_28: 3636602942507433749
+      Icon_RunesEffect_3: 4185457170739327679
+      Icon_RunesEffect_4: -944836475318441769
+      Icon_RunesEffect_5: 6287144770417757117
+      Icon_RunesEffect_6: -8454137346175395663
+      Icon_RunesEffect_7: 94473942577495083
+      Icon_RunesEffect_8: 6996588509122761863
+      Icon_RunesEffect_9: 4067089113151484111
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

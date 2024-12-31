@@ -285,7 +285,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      NewSeasonFrame_0: -4876705490985233641
+      NewSeasonFrame_1: -713772601144537675
+      NewSeasonFrame_2: -7135892377116587541
+      NewSeasonFrame_3: 9053348494749484636
+      NewSeasonFrame_4: -2967525882511509141
+      NewSeasonFrame_5: 2704934226218319327
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -1,4 +1,4 @@
-﻿using LiteNetLib.Utils;
+﻿
 using ReversalOfSpirit.Gameplay.Packets;
 using System.Collections.Generic;
 using System.Text;
@@ -25,7 +25,7 @@ namespace ReversalOfSpirit.Gameplay.Ros.Cards.Actions
         }
 
 
-        public override void Serialize(IRosGame game, NetDataWriter writer)
+        /*public override void Serialize(IRosGame game, NetDataWriter writer)
         {
             base.Serialize(game, writer);
             writer.Serialize<BoardCardView>(boardCards);
@@ -38,7 +38,7 @@ namespace ReversalOfSpirit.Gameplay.Ros.Cards.Actions
             boardCards = reader.Deserialize<BoardCardView>();
         }
 
-        public override string ToString()
+       */ public override string ToString()
         {
             StringBuilder builder = new StringBuilder();
             builder.AppendLine("RevealCard: ");
@@ -52,13 +52,13 @@ namespace ReversalOfSpirit.Gameplay.Ros.Cards.Actions
 
     }
 
-    public class BoardCardView : INetSerializable
+    public class BoardCardView //: INetSerializable
     {
         public int ownerid;
         public int star;
         public int cardId;
         public int atk;
-
+/*
         public void Serialize(NetDataWriter writer)
         {
             writer.Put(ownerid);
@@ -75,7 +75,7 @@ namespace ReversalOfSpirit.Gameplay.Ros.Cards.Actions
             atk = reader.GetInt();
         }
 
-        public override string ToString()
+       */ public override string ToString()
         {
             return $"Player {ownerid} use {cardId} - {atk} atk, {star} star";
         }

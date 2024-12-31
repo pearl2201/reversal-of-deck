@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      HeroSkinCoin_0: 5428029603889386251
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

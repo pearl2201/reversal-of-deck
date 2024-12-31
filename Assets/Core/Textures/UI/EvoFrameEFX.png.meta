@@ -210,7 +210,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      EvoFrameEFX_0: 8688113737572325142
+      EvoFrameEFX_1: -4919827194218937908
+      EvoFrameEFX_2: 5296787836213855682
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

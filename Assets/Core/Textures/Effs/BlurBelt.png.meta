@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      BlurBelt_0: 8122068859264856491
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

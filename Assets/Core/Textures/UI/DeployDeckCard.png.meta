@@ -1510,7 +1510,62 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      DeployDeckCard_0: -942460363990084761
+      DeployDeckCard_1: -6703059652708626157
+      DeployDeckCard_10: 5594931885228187753
+      DeployDeckCard_11: -203913190811361334
+      DeployDeckCard_12: 2832942180435829781
+      DeployDeckCard_13: 1605291656982901579
+      DeployDeckCard_14: 8045579246468561359
+      DeployDeckCard_15: -7398407831112297867
+      DeployDeckCard_16: 4661768061511064508
+      DeployDeckCard_17: 1611278153015432418
+      DeployDeckCard_18: 7490813993158434694
+      DeployDeckCard_19: -5007713342083519499
+      DeployDeckCard_2: -7855323233303031169
+      DeployDeckCard_20: -7903229139019595358
+      DeployDeckCard_21: 7566699943621902698
+      DeployDeckCard_22: -4300565305096363574
+      DeployDeckCard_23: -5091628145674597127
+      DeployDeckCard_24: -3931213195069038639
+      DeployDeckCard_25: -245605451381847887
+      DeployDeckCard_26: -1350750765621187906
+      DeployDeckCard_27: -7284932117436288280
+      DeployDeckCard_28: -862413334857277021
+      DeployDeckCard_29: -8104837445610802139
+      DeployDeckCard_3: 7871505440720224955
+      DeployDeckCard_30: -4709336063295211212
+      DeployDeckCard_31: 6230824346371831903
+      DeployDeckCard_32: 8824451592271591966
+      DeployDeckCard_33: -356452373166101534
+      DeployDeckCard_34: -2630903030264879811
+      DeployDeckCard_35: -3864291415016951779
+      DeployDeckCard_36: -4068136610196460598
+      DeployDeckCard_37: 281538169807518412
+      DeployDeckCard_38: 6604385340258136843
+      DeployDeckCard_39: -1894278573615322637
+      DeployDeckCard_4: -503595736625923465
+      DeployDeckCard_40: 5123315888606831507
+      DeployDeckCard_41: -6476502759653106063
+      DeployDeckCard_42: -481353429333549313
+      DeployDeckCard_43: 2017831357639440179
+      DeployDeckCard_44: 118971946935756305
+      DeployDeckCard_45: -682559194128652412
+      DeployDeckCard_46: 1128820106217409823
+      DeployDeckCard_47: -7799696198808499946
+      DeployDeckCard_48: 9138785629337146554
+      DeployDeckCard_49: -8357927443308461069
+      DeployDeckCard_5: 3221572313835908517
+      DeployDeckCard_50: 6072918621145088576
+      DeployDeckCard_51: -6286307570602376774
+      DeployDeckCard_52: -4232612182161971266
+      DeployDeckCard_53: 2076428706533961332
+      DeployDeckCard_54: -5170321778318040315
+      DeployDeckCard_6: -7670162904957585170
+      DeployDeckCard_7: -4931990236201255891
+      DeployDeckCard_8: -8520703120234949362
+      DeployDeckCard_9: -8630242619613360385
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -660,7 +660,28 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      SkillBoardSkin_011_A #6741_0: -2267625092561553253
+      SkillBoardSkin_011_A #6741_1: 3943535095104599846
+      SkillBoardSkin_011_A #6741_10: -292387595180304462
+      SkillBoardSkin_011_A #6741_11: -4968526788757939092
+      SkillBoardSkin_011_A #6741_12: 2259486089959022842
+      SkillBoardSkin_011_A #6741_13: 2214026338016861966
+      SkillBoardSkin_011_A #6741_14: -4630873700264836939
+      SkillBoardSkin_011_A #6741_15: -905823566053878975
+      SkillBoardSkin_011_A #6741_16: -5707920925614830319
+      SkillBoardSkin_011_A #6741_17: -1967641795660401477
+      SkillBoardSkin_011_A #6741_18: 6106403824668178622
+      SkillBoardSkin_011_A #6741_19: -6470620837560320297
+      SkillBoardSkin_011_A #6741_2: -480850402086670812
+      SkillBoardSkin_011_A #6741_20: -7027486724273354717
+      SkillBoardSkin_011_A #6741_3: 2360625270389719769
+      SkillBoardSkin_011_A #6741_4: -4894298059399855574
+      SkillBoardSkin_011_A #6741_5: 6822144787436822542
+      SkillBoardSkin_011_A #6741_6: 5770212496877348856
+      SkillBoardSkin_011_A #6741_7: -1294225009374299358
+      SkillBoardSkin_011_A #6741_8: -5776488629728981620
+      SkillBoardSkin_011_A #6741_9: 6233284304782462711
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

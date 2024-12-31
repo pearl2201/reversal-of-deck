@@ -1,5 +1,4 @@
-﻿using LiteNetLib.Utils;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 
 namespace ReversalOfSpirit.Gameplay.Packets
 {
@@ -7,16 +6,16 @@ namespace ReversalOfSpirit.Gameplay.Packets
     {
         public List<HandItem> handItems;
 
-        public override void Serialize(NetDataWriter writer)
-        {
-            base.Serialize(writer);
-            writer.Serialize(handItems);
-        }
+        //public override void Serialize(NetDataWriter writer)
+        //{
+        //    base.Serialize(writer);
+        //    writer.Serialize(handItems);
+        //}
 
-        public override void Deserialize(NetDataReader reader)
-        {
-            base.Deserialize(reader);
-            handItems = reader.DeserializeHandItems();
-        }
+        //public override void Deserialize(NetDataReader reader)
+        //{
+        //    base.Deserialize(reader);
+        //    handItems = reader.DeserializeHandItems();
+        //}
     }
 }

@@ -535,7 +535,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      RoundBattle_0: -1686344904498950607
+      RoundBattle_1: 8040912675869355616
+      RoundBattle_10: 8123074959014045279
+      RoundBattle_11: -7039627245631287383
+      RoundBattle_12: 8489016943341282588
+      RoundBattle_13: -7564131906043091021
+      RoundBattle_14: -3070119397660471575
+      RoundBattle_15: -5654163881502017114
+      RoundBattle_2: -6452579581382665996
+      RoundBattle_3: -7991319687666357905
+      RoundBattle_4: -7080284657335129620
+      RoundBattle_5: 7231660084992323792
+      RoundBattle_6: 8476955679771064970
+      RoundBattle_7: 5271025179651072837
+      RoundBattle_8: -592080535909502539
+      RoundBattle_9: -2371705348375740871
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

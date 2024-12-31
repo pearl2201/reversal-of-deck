@@ -1,4 +1,4 @@
-﻿using LiteNetLib.Utils;
+﻿
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -28,7 +28,7 @@ namespace ReversalOfSpirit.Gameplay.Ros.Cards.Actions
             game.ExecuteSequential(new List<GameAction> { new SubHpAction(value, target, this.Slot, Enums.DamageType.MagicalDamage, 2) });
         }
 
-        public override void Serialize(IRosGame game, NetDataWriter writer)
+        /*public override void Serialize(IRosGame game, NetDataWriter writer)
         {
             base.Serialize(game, writer);
             writer.Put(value);
@@ -43,7 +43,7 @@ namespace ReversalOfSpirit.Gameplay.Ros.Cards.Actions
         }
 
 
-        public override string ToString()
+       */ public override string ToString()
         {
             return $"magical attack damage {value} to player {target.Id}";
         }

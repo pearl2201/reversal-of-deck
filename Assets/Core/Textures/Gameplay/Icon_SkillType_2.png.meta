@@ -710,7 +710,30 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Icon_SkillType_2_0: 4581692742063872687
+      Icon_SkillType_2_1: 5056983965931075177
+      Icon_SkillType_2_10: 7795239372681353375
+      Icon_SkillType_2_11: 6991244782524029696
+      Icon_SkillType_2_12: -4648108192594777832
+      Icon_SkillType_2_13: -4689869619283790723
+      Icon_SkillType_2_14: 8143309393331116854
+      Icon_SkillType_2_15: 6239469264396423972
+      Icon_SkillType_2_16: 5790715182754369602
+      Icon_SkillType_2_17: 6229731413458121334
+      Icon_SkillType_2_18: 8942650142889211777
+      Icon_SkillType_2_19: -3646516147521654841
+      Icon_SkillType_2_2: 3052013830205155537
+      Icon_SkillType_2_20: 2418629355749932261
+      Icon_SkillType_2_21: -2334782872466335226
+      Icon_SkillType_2_22: -2803655657881894095
+      Icon_SkillType_2_3: -4537247715129367732
+      Icon_SkillType_2_4: 1884474213146202649
+      Icon_SkillType_2_5: 458817476349395532
+      Icon_SkillType_2_6: 8272537933126930938
+      Icon_SkillType_2_7: 3765126768519384741
+      Icon_SkillType_2_8: -1009992429422372766
+      Icon_SkillType_2_9: 9154547416248449735
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

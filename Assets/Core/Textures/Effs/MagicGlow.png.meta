@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      MagicGlow_0: -5078441220552024085
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

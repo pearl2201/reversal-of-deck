@@ -1,5 +1,4 @@
-﻿using LiteNetLib.Utils;
-using ReversalOfSpirit.Gameplay.Enums;
+﻿using ReversalOfSpirit.Gameplay.Enums;
 
 namespace ReversalOfSpirit.Gameplay.Packets
 {
@@ -7,16 +6,16 @@ namespace ReversalOfSpirit.Gameplay.Packets
     {
         public GameTerritory fromSlot;
         public GameTerritory toSlot;
-        public void Serialize(NetDataWriter writer)
-        {
-            writer.Put((int)fromSlot);
-            writer.Put((int)toSlot);
-        }
+        //public void Serialize(NetDataWriter writer)
+        //{
+        //    writer.Put((int)fromSlot);
+        //    writer.Put((int)toSlot);
+        //}
 
-        public void Deserialize(NetDataReader reader)
-        {
-            fromSlot = (GameTerritory)reader.GetInt();
-            toSlot = (GameTerritory)reader.GetInt();
-        }
+        //public void Deserialize(NetDataReader reader)
+        //{
+        //    fromSlot = (GameTerritory)reader.GetInt();
+        //    toSlot = (GameTerritory)reader.GetInt();
+        //}
     }
 }

@@ -360,7 +360,16 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      GuildWarResult_0: -5926271394452652576
+      GuildWarResult_1: -7409804001109038811
+      GuildWarResult_2: 6643014527669136864
+      GuildWarResult_3: -3754514800168874759
+      GuildWarResult_4: 5464362497764310565
+      GuildWarResult_5: -5032683228191958713
+      GuildWarResult_6: -6385341162351590107
+      GuildWarResult_7: 7350045110480778752
+      GuildWarResult_8: -6623438427262716614
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

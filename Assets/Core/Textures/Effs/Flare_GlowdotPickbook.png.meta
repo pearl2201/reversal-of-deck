@@ -360,7 +360,16 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Flare_GlowdotPickbook_0: 5997181961847901222
+      Flare_GlowdotPickbook_1: -7821685392512677621
+      Flare_GlowdotPickbook_2: 3619874307871826786
+      Flare_GlowdotPickbook_3: -6055054647432621480
+      Flare_GlowdotPickbook_4: 4362451608755907748
+      Flare_GlowdotPickbook_5: -4081870806300893314
+      Flare_GlowdotPickbook_6: 157490491386000433
+      Flare_GlowdotPickbook_7: -5986063891516447888
+      Flare_GlowdotPickbook_8: 3604127933739523919
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

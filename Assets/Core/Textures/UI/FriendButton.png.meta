@@ -235,7 +235,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      FriendButton_0: -4591627607732204753
+      FriendButton_1: -8640677922786030051
+      FriendButton_2: -3777455639706182863
+      FriendButton_3: 2832897719485551812
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

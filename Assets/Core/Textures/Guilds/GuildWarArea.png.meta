@@ -735,7 +735,31 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      GuildWarArea_0: -7289449300585476727
+      GuildWarArea_1: 7433149005755133872
+      GuildWarArea_10: 8578337584960616383
+      GuildWarArea_11: 7735509109724729776
+      GuildWarArea_12: -3886148400101726749
+      GuildWarArea_13: 1055309405015027666
+      GuildWarArea_14: 6779288882716551915
+      GuildWarArea_15: -8012860195611854538
+      GuildWarArea_16: -5498348262183065614
+      GuildWarArea_17: 2056196422456827018
+      GuildWarArea_18: 4333555678192599123
+      GuildWarArea_19: -3582270215360719068
+      GuildWarArea_2: -4335187583191636501
+      GuildWarArea_20: 1338590383764754149
+      GuildWarArea_21: -5957569870842988297
+      GuildWarArea_22: -201148335590968763
+      GuildWarArea_23: 5703396544965456537
+      GuildWarArea_3: -3697753785332650416
+      GuildWarArea_4: -8100863481168383576
+      GuildWarArea_5: -5503512544878734589
+      GuildWarArea_6: -6016836893909278335
+      GuildWarArea_7: -6917714865375040155
+      GuildWarArea_8: -4832195419064348057
+      GuildWarArea_9: 8505422618608745511
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

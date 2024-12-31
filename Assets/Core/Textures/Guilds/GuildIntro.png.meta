@@ -210,7 +210,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      GuildIntro_0: 4475168515729416940
+      GuildIntro_1: 9127552165728093521
+      GuildIntro_2: 6871653602521026777
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -735,7 +735,31 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Icon_Mastery_1_0: 5034855646706631844
+      Icon_Mastery_1_1: 8896329828219022848
+      Icon_Mastery_1_10: 7136237311610345899
+      Icon_Mastery_1_11: 8555600284781742233
+      Icon_Mastery_1_12: -6387397533238447204
+      Icon_Mastery_1_13: 430820175417817074
+      Icon_Mastery_1_14: -6350919291361857042
+      Icon_Mastery_1_15: -6408695129594298541
+      Icon_Mastery_1_16: -2703921575231504259
+      Icon_Mastery_1_17: 2630045460406353042
+      Icon_Mastery_1_18: -7046053972039672906
+      Icon_Mastery_1_19: -7373838500832156151
+      Icon_Mastery_1_2: -1871227825436124014
+      Icon_Mastery_1_20: -4277648906720806424
+      Icon_Mastery_1_21: -4199006698375662118
+      Icon_Mastery_1_22: 5437754303085722329
+      Icon_Mastery_1_23: -1272521051067799826
+      Icon_Mastery_1_3: -1266821796523044597
+      Icon_Mastery_1_4: 7217087485016489549
+      Icon_Mastery_1_5: -2206053293472369633
+      Icon_Mastery_1_6: -8241691503505965252
+      Icon_Mastery_1_7: -4245201263514056583
+      Icon_Mastery_1_8: 4111609064085821704
+      Icon_Mastery_1_9: 6663347999243376996
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

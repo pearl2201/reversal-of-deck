@@ -1760,7 +1760,72 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Icon_SkillType_0: -3392226326839259985
+      Icon_SkillType_1: 5981686294524253291
+      Icon_SkillType_10: 7345045618918453368
+      Icon_SkillType_11: 1740655566184793066
+      Icon_SkillType_12: -6318387725093262729
+      Icon_SkillType_13: -2896950964367035397
+      Icon_SkillType_14: 1601807067001455626
+      Icon_SkillType_15: -1533233082740409675
+      Icon_SkillType_16: -7499302759247797716
+      Icon_SkillType_17: -4561647553560192731
+      Icon_SkillType_18: 1847857915680751417
+      Icon_SkillType_19: 3738074137475313125
+      Icon_SkillType_2: -7906008525954954017
+      Icon_SkillType_20: 4795948909081836114
+      Icon_SkillType_21: -8148289952979314683
+      Icon_SkillType_22: -1016925083460132841
+      Icon_SkillType_23: 8550526523970003087
+      Icon_SkillType_24: -1660854065207912651
+      Icon_SkillType_25: -9217580953053887847
+      Icon_SkillType_26: -6075194281225068230
+      Icon_SkillType_27: 7397822290479712129
+      Icon_SkillType_28: -4042362844816910365
+      Icon_SkillType_29: -5057611398343129227
+      Icon_SkillType_3: -6014641536692993850
+      Icon_SkillType_30: -4111700646703137685
+      Icon_SkillType_31: 8210986491834629172
+      Icon_SkillType_32: 8199493975515020780
+      Icon_SkillType_33: 8876370831172738134
+      Icon_SkillType_34: 7203510654965253358
+      Icon_SkillType_35: -673894693227592932
+      Icon_SkillType_36: 3722614522516072020
+      Icon_SkillType_37: 4242356116937018886
+      Icon_SkillType_38: -8825354331768378369
+      Icon_SkillType_39: -8101578306579533623
+      Icon_SkillType_4: 7183497442347492555
+      Icon_SkillType_40: 6365671207493962124
+      Icon_SkillType_41: 7599546405379556777
+      Icon_SkillType_42: -6486000151741034399
+      Icon_SkillType_43: 5422627712209920747
+      Icon_SkillType_44: -7430181328287043887
+      Icon_SkillType_45: -2092248904046784337
+      Icon_SkillType_46: 5862768947351716242
+      Icon_SkillType_47: 509432983763267137
+      Icon_SkillType_48: 6470896760791737247
+      Icon_SkillType_49: 6831965147441272167
+      Icon_SkillType_5: 5395102565692418592
+      Icon_SkillType_50: -8479207678890392858
+      Icon_SkillType_51: -6028714703899780615
+      Icon_SkillType_52: 4669816617490818694
+      Icon_SkillType_53: -2748753991222515560
+      Icon_SkillType_54: 4395053654721428437
+      Icon_SkillType_55: -4333563801106054395
+      Icon_SkillType_56: -9107477859952820514
+      Icon_SkillType_57: 6874034428052216080
+      Icon_SkillType_58: 6916404748070524979
+      Icon_SkillType_59: 5119839179783471342
+      Icon_SkillType_6: 5148293445129195408
+      Icon_SkillType_60: -1237105603633664082
+      Icon_SkillType_61: -4933620875924795642
+      Icon_SkillType_62: -4209144260267519161
+      Icon_SkillType_63: -4484925284809581137
+      Icon_SkillType_64: 8043017955215958891
+      Icon_SkillType_7: 4328978998961651346
+      Icon_SkillType_8: 655705339428568080
+      Icon_SkillType_9: 2904179085972646171
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

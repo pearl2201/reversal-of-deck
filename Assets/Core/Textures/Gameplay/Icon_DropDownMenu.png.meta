@@ -410,7 +410,18 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Icon_DropDownMenu_0: -8557958745350571130
+      Icon_DropDownMenu_1: 7448593511953597322
+      Icon_DropDownMenu_10: 3836586172097691149
+      Icon_DropDownMenu_2: -7296440870004427996
+      Icon_DropDownMenu_3: 1848160636413480982
+      Icon_DropDownMenu_4: -2600148213860385568
+      Icon_DropDownMenu_5: 3421940123713122369
+      Icon_DropDownMenu_6: -6973824798676238871
+      Icon_DropDownMenu_7: 3991956283186777251
+      Icon_DropDownMenu_8: -7690306797052279530
+      Icon_DropDownMenu_9: 852216071451545300
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -1,5 +1,5 @@
-﻿using Cysharp.Threading.Tasks;
-using LiteNetLib.Utils;
+﻿
+
 using ReversalOfSpirit.Gameplay.Enums;
 using ReversalOfSpirit.Gameplay.Ros;
 
@@ -9,9 +9,9 @@ namespace ReversalOfSpirit.Gameplay.Ros.Cards
     {
 
 
-        void Serialize(IRosGame game, NetDataWriter writer);
+        //void Serialize(IRosGame game, NetDataWriter writer);
 
-        void Deserialize(IRosGame game, NetDataReader reader);
+        //void Deserialize(IRosGame game, NetDataReader reader);
     }
 
     public abstract class GameAction : IActionNetSerialize
@@ -48,31 +48,31 @@ namespace ReversalOfSpirit.Gameplay.Ros.Cards
                 RoundActIndex = game.roundActIndex;
             }    
         }
-        public virtual void Serialize(IRosGame game, NetDataWriter writer)
-        {
-            writer.Put(RoundActIndex);
-            writer.Put(ActionSequenceIndex);
-            writer.Put(ExecutionIndex);
-            writer.Put(Slot != null);
-            if (Slot != null)
-            {
-                writer.Put((int)Slot.Terriotory);
-                writer.Put(Slot.Player.Id);
-            }
+        //public virtual void Serialize(IRosGame game, NetDataWriter writer)
+        //{
+        //    writer.Put(RoundActIndex);
+        //    writer.Put(ActionSequenceIndex);
+        //    writer.Put(ExecutionIndex);
+        //    writer.Put(Slot != null);
+        //    if (Slot != null)
+        //    {
+        //        writer.Put((int)Slot.Terriotory);
+        //        writer.Put(Slot.Player.Id);
+        //    }
 
-        }
-        public virtual void Deserialize(IRosGame game, NetDataReader reader)
-        {
-            RoundActIndex = reader.GetInt();
-            ActionSequenceIndex = reader.GetInt();
-            ExecutionIndex = reader.GetInt();
-            var hasSlot = reader.GetBool();
-            if (hasSlot)
-            {
-                var terriority = (GameTerritory)reader.GetInt();
-                var playerId = reader.GetInt();
-                Slot = game.GetSlot(playerId, terriority);
-            }
-        }
+        //}
+        //public virtual void Deserialize(IRosGame game, NetDataReader reader)
+        //{
+        //    RoundActIndex = reader.GetInt();
+        //    ActionSequenceIndex = reader.GetInt();
+        //    ExecutionIndex = reader.GetInt();
+        //    var hasSlot = reader.GetBool();
+        //    if (hasSlot)
+        //    {
+        //        var terriority = (GameTerritory)reader.GetInt();
+        //        var playerId = reader.GetInt();
+        //        Slot = game.GetSlot(playerId, terriority);
+        //    }
+        //}
     }
 }

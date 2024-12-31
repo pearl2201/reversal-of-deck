@@ -235,7 +235,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      TreasureBox_4_0: 8135835671293058584
+      TreasureBox_4_1: 5588333983788060759
+      TreasureBox_4_2: 2489896380576483203
+      TreasureBox_4_3: 7980429937038921944
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

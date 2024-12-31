@@ -1,4 +1,4 @@
-﻿using LiteNetLib.Utils;
+﻿
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -27,7 +27,7 @@ namespace ReversalOfSpirit.Gameplay.Ros.Cards.Actions.Game
         }
 
 
-        public override void Serialize(IRosGame game, NetDataWriter writer)
+        /*public override void Serialize(IRosGame game, NetDataWriter writer)
         {
             base.Serialize(game, writer);
      
@@ -39,7 +39,7 @@ namespace ReversalOfSpirit.Gameplay.Ros.Cards.Actions.Game
       
         }
 
-        public override string ToString()
+       */ public override string ToString()
         {
             return $"Notify game result: {winnerId}";
         }

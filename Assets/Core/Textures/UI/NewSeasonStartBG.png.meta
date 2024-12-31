@@ -210,7 +210,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      NewSeasonStartBG_0: 4753205274233103073
+      NewSeasonStartBG_1: -5293854364259403353
+      NewSeasonStartBG_2: 8462392179353843919
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

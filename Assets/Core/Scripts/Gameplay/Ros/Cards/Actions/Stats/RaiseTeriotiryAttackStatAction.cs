@@ -1,4 +1,4 @@
-﻿using LiteNetLib.Utils;
+﻿
 using ReversalOfSpirit.Gameplay.Enums;
 using System;
 using System.Collections.Generic;
@@ -29,7 +29,7 @@ namespace ReversalOfSpirit.Gameplay.Ros.Cards.Actions
 
         }
 
-        public override void Serialize(IRosGame game, NetDataWriter writer)
+        /*public override void Serialize(IRosGame game, NetDataWriter writer)
         {
             base.Serialize(game, writer);
             writer.Put(value);
@@ -46,7 +46,7 @@ namespace ReversalOfSpirit.Gameplay.Ros.Cards.Actions
             target = game.GetSlot(playerId, terriotory);
         }
 
-        public override string ToString()
+       */ public override string ToString()
         {
             return $"Increase {value} atk abs to player {target.Player.Id} - {target.Terriotory.ToString()}";
         }

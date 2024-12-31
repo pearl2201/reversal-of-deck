@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ChestClaimDialogButton_0: 4110899582781040794
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

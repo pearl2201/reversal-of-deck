@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ShieldBreakingArrow_0: 3673803164253292254
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

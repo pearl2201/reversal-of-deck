@@ -285,7 +285,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Icon_RunesCondition_0: 1926498622729144588
+      Icon_RunesCondition_1: 369775721029111204
+      Icon_RunesCondition_2: 710225884185943837
+      Icon_RunesCondition_3: 7951395500820670093
+      Icon_RunesCondition_4: 8874258957265554543
+      Icon_RunesCondition_5: -145585819991753006
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

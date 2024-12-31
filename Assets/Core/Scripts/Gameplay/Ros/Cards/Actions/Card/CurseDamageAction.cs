@@ -1,4 +1,4 @@
-﻿using LiteNetLib.Utils;
+﻿
 using System.Collections.Generic;
 using static UnityEngine.GraphicsBuffer;
 
@@ -28,7 +28,7 @@ namespace ReversalOfSpirit.Gameplay.Ros.Cards.Actions
             game.ExecuteSequential(new List<GameAction> { new SubHpAction(value, target, this.Slot, Enums.DamageType.CurseDamage) });
         }
 
-        public override void Serialize(IRosGame game, NetDataWriter writer)
+        /*public override void Serialize(IRosGame game, NetDataWriter writer)
         {
             base.Serialize(game, writer);
             writer.Put(value);
@@ -42,7 +42,7 @@ namespace ReversalOfSpirit.Gameplay.Ros.Cards.Actions
             target = game.GetPlayer(reader.GetInt());
         }
 
-        public override string ToString()
+       */ public override string ToString()
         {
             return $"Curse damage {value} to player {target.Id}";
         }

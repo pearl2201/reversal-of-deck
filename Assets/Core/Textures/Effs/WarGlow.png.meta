@@ -210,7 +210,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      WarGlow_0: 2531386580405440308
+      WarGlow_1: -5627254825698082861
+      WarGlow_2: 7982564644286615191
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

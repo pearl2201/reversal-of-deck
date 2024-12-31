@@ -6,7 +6,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using LiteNetLib.Utils;
+
 using static UnityEngine.GraphicsBuffer;
 using System.Diagnostics;
 
@@ -34,7 +34,7 @@ namespace ReversalOfSpirit.Gameplay.Ros.Cards.Actions
             game.ExecuteSequential(new List<GameAction> { new SubHpAction(value, target, this.Slot, Enums.DamageType.MagicalDamage) });
         }
 
-        public override void Serialize(IRosGame game, NetDataWriter writer)
+        /*public override void Serialize(IRosGame game, NetDataWriter writer)
         {
             base.Serialize(game, writer);
             writer.Put(value);
@@ -47,7 +47,7 @@ namespace ReversalOfSpirit.Gameplay.Ros.Cards.Actions
             value = reader.GetInt();
             target = game.GetPlayer(reader.GetInt());
         }
-        public override string ToString()
+       */ public override string ToString()
         {
             return $"magical damage {value} to player {target.Id}";
         }

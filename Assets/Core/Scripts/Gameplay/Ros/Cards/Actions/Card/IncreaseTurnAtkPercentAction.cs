@@ -1,4 +1,4 @@
-﻿using LiteNetLib.Utils;
+﻿
 using ReversalOfSpirit.Gameplay.Enums;
 
 namespace ReversalOfSpirit.Gameplay.Ros.Cards.Actions
@@ -26,24 +26,24 @@ namespace ReversalOfSpirit.Gameplay.Ros.Cards.Actions
             finalValue = slot.CalculateAtk();
         }
 
-        public override void Serialize(IRosGame game, NetDataWriter writer)
-        {
-            base.Serialize(game, writer);
-            writer.Put(value);
-            writer.Put(finalValue);
-            writer.Put(slot.Player.Id);
-            writer.Put((int)slot.Terriotory);
-        }
+        ///*public override void Serialize(IRosGame game, NetDataWriter writer)
+        //{
+        //    base.Serialize(game, writer);
+        //    writer.Put(value);
+        //    writer.Put(finalValue);
+        //    writer.Put(slot.Player.Id);
+        //    writer.Put((int)slot.Terriotory);
+        //}
 
-        public override void Deserialize(IRosGame game, NetDataReader reader)
-        {
-            base.Deserialize(game, reader);
-            value = reader.GetFloat();
-            finalValue = reader.GetInt();
-            var playerId = reader.GetInt();
-            var terriotory = (GameTerritory)reader.GetInt();
-            slot = game.GetSlot(playerId, terriotory);
-        }
+        //public override void Deserialize(IRosGame game, NetDataReader reader)
+        //{
+        //    base.Deserialize(game, reader);
+        //    value = reader.GetFloat();
+        //    finalValue = reader.GetInt();
+        //    var playerId = reader.GetInt();
+        //    var terriotory = (GameTerritory)reader.GetInt();
+        //    slot = game.GetSlot(playerId, terriotory);
+        //}
 
         public override string ToString()
         {

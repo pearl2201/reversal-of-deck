@@ -285,7 +285,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Speckle_Cluster_0: -8486187945245343579
+      Speckle_Cluster_1: 207709749564839200
+      Speckle_Cluster_2: -7544127644313900448
+      Speckle_Cluster_3: 7679200429862923979
+      Speckle_Cluster_4: 5978734160983788509
+      Speckle_Cluster_5: 1406413607815499320
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
