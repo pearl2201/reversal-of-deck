@@ -1,4 +1,5 @@
-﻿using ReversalOfSpirit.Gameplay.Enums;
+﻿using Cysharp.Threading.Tasks;
+using ReversalOfSpirit.Gameplay.Enums;
 using ReversalOfSpirit.Gameplay.Ros.Cards.Actions;
 using System.Collections.Generic;
 
@@ -9,10 +10,10 @@ namespace ReversalOfSpirit.Gameplay.Ros.Cards.Effects
         public float Percent { get; set; }
         public override GameEffectRoleType RoleType => GameEffectRoleType.Negative;
 
-        public override void PreAtkTurn(IEffectContext context, IRosGame game, RosRoundPhrase roundPhrase)
+        public override async UniTask PreAtkTurn(IEffectContext context, IRosGame game, RosRoundPhrase roundPhrase)
         {
-            base.PreAtkTurn(context, game, roundPhrase);
-            game.ExecuteSequential(new List<GameAction>() { new IncreaseTurnAtkPercentAction(Stack, context.PlayerSlot, context.PlayerSlot) });
+            await base.PreAtkTurn(context, game, roundPhrase);
+            await game.ExecuteSequential(new List<GameAction>() { new IncreaseTurnAtkPercentAction(Stack, context.PlayerSlot, context.PlayerSlot) });
             IsExecuted = true;
         }
 

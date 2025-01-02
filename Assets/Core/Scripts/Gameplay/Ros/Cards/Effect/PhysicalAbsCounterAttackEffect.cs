@@ -1,4 +1,5 @@
 ﻿
+using Cysharp.Threading.Tasks;
 using ReversalOfSpirit.Gameplay.Enums;
 using ReversalOfSpirit.Gameplay.Ros.Cards.Actions;
 using System;
@@ -24,18 +25,18 @@ namespace ReversalOfSpirit.Gameplay.Ros.Cards.Effects
 
         public override GameEffectRoleType RoleType => GameEffectRoleType.Neutralize;
 
-        public override void OnEndMagicalAtkTurn(IEffectContext context, IRosGame game, RosRoundPhrase roundPhrase)
+        public override async UniTask OnEndMagicalAtkTurn(IEffectContext context, IRosGame game, RosRoundPhrase roundPhrase)
         {
-            base.OnEndMagicalAtkTurn(context, game, roundPhrase);
+            await base.OnEndMagicalAtkTurn(context, game, roundPhrase);
             if (beAttacked)
             {
-                context.Owner.Game.ExecuteSequential(new List<GameAction>() { new PhysicalCounterAttackAction(damage, game.GetOpponent(context.Owner), context.PlayerSlot) });
+                await context.Owner.Game.ExecuteSequential(new List<GameAction>() { new PhysicalCounterAttackAction(damage, game.GetOpponent(context.Owner), context.PlayerSlot) });
             }
         }
 
-        public override void OnPlayerGetDamage(IEffectContext context, SubHpAction subHpAction, IRosGame game)
+        public override async UniTask OnPlayerGetDamage(IEffectContext context, SubHpAction subHpAction, IRosGame game)
         {
-            base.OnPlayerGetDamage(context, subHpAction, game);
+            await base.OnPlayerGetDamage(context, subHpAction, game);
             if (subHpAction.damageType == DamageType.PhysicalDamage || subHpAction.damageType == DamageType.MagicalDamage || subHpAction.damageType == DamageType.CurseDamage)
                 this.beAttacked = true;
         }

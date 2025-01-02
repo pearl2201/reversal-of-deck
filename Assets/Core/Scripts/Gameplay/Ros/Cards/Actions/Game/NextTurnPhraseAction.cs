@@ -1,4 +1,5 @@
 ﻿
+using Cysharp.Threading.Tasks;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -19,9 +20,9 @@ namespace ReversalOfSpirit.Gameplay.Ros.Cards.Actions.Game
             this.winnerId = winnerId;
         }
 
-        public override void Execute(IRosGame game)
+        public override async UniTask Execute(IRosGame game)
         {
-            base.Execute(game);
+            await base.Execute(game);
    
 
         }

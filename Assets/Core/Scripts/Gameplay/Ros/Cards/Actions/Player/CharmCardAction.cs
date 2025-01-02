@@ -1,4 +1,5 @@
 ﻿
+using Cysharp.Threading.Tasks;
 using ReversalOfSpirit.Gameplay.Enums;
 using ReversalOfSpirit.Gameplay.Ros;
 using ReversalOfSpirit.Gameplay.Ros.Cards;
@@ -29,9 +30,9 @@ namespace ReversalOfSpirit.Gameplay.Ros.Cards.Actions
             this.target = target;
         }
 
-        public override void Execute(IRosGame game)
+        public override async UniTask Execute(IRosGame game)
         {
-            base.Execute(game);
+            await base.Execute(game);
             game.SetSelectionCard(target.Id, new Packets.C2S_PlayerSelectionCard
             {
                 cardId = cardId,

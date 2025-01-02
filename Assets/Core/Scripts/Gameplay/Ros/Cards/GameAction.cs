@@ -1,4 +1,6 @@
-﻿namespace ReversalOfSpirit.Gameplay.Ros.Cards
+﻿using Cysharp.Threading.Tasks;
+
+namespace ReversalOfSpirit.Gameplay.Ros.Cards
 {
     public interface IActionNetSerialize
     {
@@ -29,8 +31,9 @@
         public int ActionSequenceIndex { get; set; }
 
         public RosPlayerSlot Slot { get; set; }
-        public virtual void Execute(IRosGame game)
+        public virtual UniTask Execute(IRosGame game)
         {   
+            return UniTask.CompletedTask;
         }
        
     }

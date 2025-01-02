@@ -13,7 +13,7 @@ namespace ReversalOfSpirit.Gameplay.Ros.Talent
     {
         void OnStartGame(ITalentRuntimeStat runtimeStat, IRosGame game);
 
-        void OnStartRound(ITalentRuntimeStat runtimeStat, IRosGame game, RosRoundPhrase roundPhrase);
+        async UniTask OnStartRound(ITalentRuntimeStat runtimeStat, IRosGame game, RosRoundPhrase roundPhrase);
 
         void OnStartPreAtkTurn(ITalentRuntimeStat runtimeStat, IRosGame game, RosRoundPhrase roundPhrase);
 

@@ -1,4 +1,5 @@
-﻿using ReversalOfSpirit.Gameplay.Enums;
+﻿using Cysharp.Threading.Tasks;
+using ReversalOfSpirit.Gameplay.Enums;
 
 namespace ReversalOfSpirit.Gameplay.Ros.Cards.Actions
 {
@@ -24,9 +25,9 @@ namespace ReversalOfSpirit.Gameplay.Ros.Cards.Actions
             this.damageType = damageType;
         }
 
-        public override void Execute(IRosGame game)
+        public override async UniTask Execute(IRosGame game)
         {
-            base.Execute(game);
+            await base.Execute(game);
             target.OnSubHpAction(this);
 
         }

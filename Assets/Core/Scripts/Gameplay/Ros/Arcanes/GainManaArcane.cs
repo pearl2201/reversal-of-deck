@@ -15,7 +15,7 @@ namespace ReversalOfSpirit.Gameplay.Ros.Arcanes
         public override void Execute(IArcaneRuntimeStat runtimeStat, IRosGame game)
         {
             base.Execute(runtimeStat, game);
-            runtimeStat.Owner.currentMana += mana;
+            runtimeStat.Owner.CurrentMana += mana;
         }
     }
 }

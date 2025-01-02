@@ -1,5 +1,7 @@
 ﻿
 
+using Cysharp.Threading.Tasks;
+
 namespace ReversalOfSpirit.Gameplay.Ros.Cards.Actions
 {
     public class SubShieldAction : GameAction
@@ -19,9 +21,9 @@ namespace ReversalOfSpirit.Gameplay.Ros.Cards.Actions
             this.target = target;
         }
 
-        public override void Execute(IRosGame game)
+        public override async UniTask Execute(IRosGame game)
         {
-            base.Execute(game);
+            await base.Execute(game);
             target.OnSubShieldAction(this);
 
         }

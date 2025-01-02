@@ -1,4 +1,5 @@
 ﻿
+using Cysharp.Threading.Tasks;
 using ReversalOfSpirit.Gameplay.Packets;
 using System.Collections.Generic;
 using System.Text;
@@ -17,9 +18,9 @@ namespace ReversalOfSpirit.Gameplay.Ros.Cards.Actions
             this.boardCards = boardCards;
         }
 
-        public override void Execute(IRosGame game)
+        public override async UniTask Execute(IRosGame game)
         {
-            base.Execute(game);
+            await base.Execute(game);
             
 
         }

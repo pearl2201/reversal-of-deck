@@ -1,4 +1,5 @@
 ﻿
+using Cysharp.Threading.Tasks;
 using ReversalOfSpirit.Gameplay.Enums;
 using System;
 using System.Collections.Generic;
@@ -27,9 +28,9 @@ namespace ReversalOfSpirit.Gameplay.Ros.Cards.Actions
             this.lastValue = value;
         }
 
-        public override void Execute(IRosGame game)
+        public override async UniTask Execute(IRosGame game)
         {
-            base.Execute(game);
+            await base.Execute(game);
             target.OnRestoreHpStatAction(this);
 
         }

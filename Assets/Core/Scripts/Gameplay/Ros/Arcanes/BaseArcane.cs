@@ -1,4 +1,5 @@
-﻿using ReversalOfSpirit.Gameplay.Enums;
+﻿using Cysharp.Threading.Tasks;
+using ReversalOfSpirit.Gameplay.Enums;
 using ReversalOfSpirit.Gameplay.Ros.Cards;
 using ReversalOfSpirit.Gameplay.Ros.Cards.Actions;
 using System.Collections.Generic;
@@ -33,7 +34,7 @@ namespace ReversalOfSpirit.Gameplay.Ros.Arcanes
 
         }
 
-        public virtual void OnStartRound(IArcaneRuntimeStat runtimeStat, IRosGame game, RosRoundPhrase roundPhrase)
+        public virtual async UniTask OnStartRound(IArcaneRuntimeStat runtimeStat, IRosGame game, RosRoundPhrase roundPhrase)
         {
 
         }

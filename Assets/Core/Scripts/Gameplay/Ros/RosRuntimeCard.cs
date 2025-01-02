@@ -35,7 +35,7 @@ namespace ReversalOfSpirit.Gameplay.Ros
 
 
 
-        public void OnStartRound(IRosGame game, RosRoundPhrase roundPhrase)
+        public async UniTask OnStartRound(IRosGame game, RosRoundPhrase roundPhrase)
         {
             CardDefinition.OnStartRound(this, game, roundPhrase);
         }

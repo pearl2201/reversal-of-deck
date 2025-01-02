@@ -1,4 +1,5 @@
 ﻿
+using Cysharp.Threading.Tasks;
 using ReversalOfSpirit.Gameplay.Enums;
 using ReversalOfSpirit.Gameplay.Ros.Cards.Actions;
 using ReversalOfSpirit.Gameplay.Ros.Cards.Effects;
@@ -32,38 +33,38 @@ namespace ReversalOfSpirit.Gameplay.Ros.Cards
     }
     public interface IEffectBehaviour
     {
-        void OnStartGame(IEffectContext context, IRosGame game);
+        UniTask OnStartGame(IEffectContext context, IRosGame game);
 
-        void OnStartRound(IEffectContext context, IRosGame game, RosRoundPhrase roundPhrase);
+         UniTask OnStartRound(IEffectContext context, IRosGame game, RosRoundPhrase roundPhrase);
 
-        void OnStartPreAtkTurn(IEffectContext context, IRosGame game, RosRoundPhrase roundPhrase);
+         UniTask OnStartPreAtkTurn(IEffectContext context, IRosGame game, RosRoundPhrase roundPhrase);
 
-        void PreAtkTurn(IEffectContext context, IRosGame game, RosRoundPhrase roundPhrase);
+         UniTask PreAtkTurn(IEffectContext context, IRosGame game, RosRoundPhrase roundPhrase);
 
-        void OnEndPreAtkTurn(IEffectContext context, IRosGame game, RosRoundPhrase roundPhrase);
+         UniTask OnEndPreAtkTurn(IEffectContext context, IRosGame game, RosRoundPhrase roundPhrase);
 
-        void OnStartPhyAtkTurn(IEffectContext context, IRosGame game, RosRoundPhrase roundPhrase);
+         UniTask OnStartPhyAtkTurn(IEffectContext context, IRosGame game, RosRoundPhrase roundPhrase);
 
-        void OnPhyAtkTurn(IEffectContext context, IRosGame game, RosRoundPhrase roundPhrase);
+         UniTask OnPhyAtkTurn(IEffectContext context, IRosGame game, RosRoundPhrase roundPhrase);
 
-        void OnEndPhyAtkTurn(IEffectContext context, IRosGame game, RosRoundPhrase roundPhrase);
+         UniTask OnEndPhyAtkTurn(IEffectContext context, IRosGame game, RosRoundPhrase roundPhrase);
 
-        void OnStartMagicalAtkTurn(IEffectContext context, IRosGame game, RosRoundPhrase roundPhrase);
+         UniTask OnStartMagicalAtkTurn(IEffectContext context, IRosGame game, RosRoundPhrase roundPhrase);
 
-        void OnMagicalTurn(IEffectContext context, IRosGame game, RosRoundPhrase roundPhrase);
+         UniTask OnMagicalTurn(IEffectContext context, IRosGame game, RosRoundPhrase roundPhrase);
 
-        void OnEndMagicalAtkTurn(IEffectContext context, IRosGame game, RosRoundPhrase roundPhrase);
+         UniTask OnEndMagicalAtkTurn(IEffectContext context, IRosGame game, RosRoundPhrase roundPhrase);
 
-        void OnEndRound(IEffectContext context, IRosGame game, RosRoundPhrase roundPhrase);
+         UniTask OnEndRound(IEffectContext context, IRosGame game, RosRoundPhrase roundPhrase);
 
-        void OnPlayerGetDamage(IEffectContext context, SubHpAction subHpAction, IRosGame game);
+         UniTask OnPlayerGetDamage(IEffectContext context, SubHpAction subHpAction, IRosGame game);
 
-        void OnPlayerGetEffect(IEffectContext context, AddEffectToPlayerAction addEffectAction, IRosGame game);
+         UniTask OnPlayerGetEffect(IEffectContext context, AddEffectToPlayerAction addEffectAction, IRosGame game);
 
 
-        void AfterAllWin(IEffectContext context, IRosPlayer owner, IRosGame game, RosRoundPhrase roundPhrase);
+         UniTask AfterAllWin(IEffectContext context, IRosPlayer owner, IRosGame game, RosRoundPhrase roundPhrase);
 
-        void AfterOpponentAllWin(IEffectContext context, IRosPlayer owner, IRosGame game, RosRoundPhrase roundPhrase);
+         UniTask AfterOpponentAllWin(IEffectContext context, IRosPlayer owner, IRosGame game, RosRoundPhrase roundPhrase);
     }
     public abstract class GameEffect : IEffectBehaviour
     {
@@ -96,26 +97,26 @@ namespace ReversalOfSpirit.Gameplay.Ros.Cards
         }
 
 
-        public virtual void OnStartRound(IEffectContext context, IRosGame game, RosRoundPhrase roundPhrase) { AssignedRoundIndex = game.roundIndex; }
-        public virtual void OnStartPreAtkTurn(IEffectContext context, IRosGame game, RosRoundPhrase roundPhrase) { AssignedRoundIndex = game.roundIndex; }
-        public virtual void PreAtkTurn(IEffectContext context, IRosGame game, RosRoundPhrase roundPhrase) { AssignedRoundIndex = game.roundIndex; }
-        public virtual void OnEndPreAtkTurn(IEffectContext context, IRosGame game, RosRoundPhrase roundPhrase) { AssignedRoundIndex = game.roundIndex; }
-        public virtual void OnStartPhyAtkTurn(IEffectContext context, IRosGame game, RosRoundPhrase roundPhrase) { AssignedRoundIndex = game.roundIndex; }
-        public virtual void OnPhyAtkTurn(IEffectContext context, IRosGame game, RosRoundPhrase roundPhrase) { AssignedRoundIndex = game.roundIndex; }
-        public virtual void OnEndPhyAtkTurn(IEffectContext context, IRosGame game, RosRoundPhrase roundPhrase) { AssignedRoundIndex = game.roundIndex; }
-        public virtual void OnStartMagicalAtkTurn(IEffectContext context, IRosGame game, RosRoundPhrase roundPhrase) { AssignedRoundIndex = game.roundIndex; }
-        public virtual void OnMagicalTurn(IEffectContext context, IRosGame game, RosRoundPhrase roundPhrase) { AssignedRoundIndex = game.roundIndex; }
-        public virtual void OnEndMagicalAtkTurn(IEffectContext context, IRosGame game, RosRoundPhrase roundPhrase) { AssignedRoundIndex = game.roundIndex; }
-        public virtual void OnEndRound(IEffectContext context, IRosGame game, RosRoundPhrase roundPhrase) { AssignedRoundIndex = game.roundIndex; }
-        public virtual void OnPlayerGetDamage(IEffectContext context, SubHpAction subHpAction, IRosGame game) { AssignedRoundIndex = game.roundIndex; }
-        public virtual void OnPlayerGetEffect(IEffectContext context, AddEffectToPlayerAction addEffectAction, IRosGame game) { AssignedRoundIndex = game.roundIndex; }
-        public virtual void OnStartGame(IEffectContext context, IRosGame game) { AssignedRoundIndex = game.roundIndex; }
+        public virtual UniTask OnStartRound(IEffectContext context, IRosGame game, RosRoundPhrase roundPhrase) { AssignedRoundIndex = game.RoundIndex; return UniTask.CompletedTask; }
+        public virtual UniTask OnStartPreAtkTurn(IEffectContext context, IRosGame game, RosRoundPhrase roundPhrase) { AssignedRoundIndex = game.RoundIndex; return UniTask.CompletedTask;}
+        public virtual UniTask PreAtkTurn(IEffectContext context, IRosGame game, RosRoundPhrase roundPhrase) { AssignedRoundIndex = game.RoundIndex; return UniTask.CompletedTask;}
+        public virtual UniTask OnEndPreAtkTurn(IEffectContext context, IRosGame game, RosRoundPhrase roundPhrase) { AssignedRoundIndex = game.RoundIndex; return UniTask.CompletedTask;}
+        public virtual UniTask OnStartPhyAtkTurn(IEffectContext context, IRosGame game, RosRoundPhrase roundPhrase) { AssignedRoundIndex = game.RoundIndex; return UniTask.CompletedTask;}
+        public virtual UniTask OnPhyAtkTurn(IEffectContext context, IRosGame game, RosRoundPhrase roundPhrase) { AssignedRoundIndex = game.RoundIndex; return UniTask.CompletedTask;}
+        public virtual UniTask OnEndPhyAtkTurn(IEffectContext context, IRosGame game, RosRoundPhrase roundPhrase) { AssignedRoundIndex = game.RoundIndex; return UniTask.CompletedTask;}
+        public virtual UniTask OnStartMagicalAtkTurn(IEffectContext context, IRosGame game, RosRoundPhrase roundPhrase) { AssignedRoundIndex = game.RoundIndex; return UniTask.CompletedTask;}
+        public virtual UniTask OnMagicalTurn(IEffectContext context, IRosGame game, RosRoundPhrase roundPhrase) { AssignedRoundIndex = game.RoundIndex; return UniTask.CompletedTask;}
+        public virtual UniTask OnEndMagicalAtkTurn(IEffectContext context, IRosGame game, RosRoundPhrase roundPhrase) { AssignedRoundIndex = game.RoundIndex; return UniTask.CompletedTask;}
+        public virtual UniTask OnEndRound(IEffectContext context, IRosGame game, RosRoundPhrase roundPhrase) { AssignedRoundIndex = game.RoundIndex; return UniTask.CompletedTask;}
+        public virtual UniTask OnPlayerGetDamage(IEffectContext context, SubHpAction subHpAction, IRosGame game) { AssignedRoundIndex = game.RoundIndex; return UniTask.CompletedTask;}
+        public virtual UniTask OnPlayerGetEffect(IEffectContext context, AddEffectToPlayerAction addEffectAction, IRosGame game) { AssignedRoundIndex = game.RoundIndex; return UniTask.CompletedTask;}
+        public virtual UniTask OnStartGame(IEffectContext context, IRosGame game) { AssignedRoundIndex = game.RoundIndex; return UniTask.CompletedTask;}
+        public virtual UniTask AfterAllWin(IEffectContext context, IRosPlayer owner, IRosGame game, RosRoundPhrase roundPhrase) { AssignedRoundIndex = game.RoundIndex; return UniTask.CompletedTask;}
 
-        public virtual void AfterAllWin(IEffectContext context, IRosPlayer owner, IRosGame game, RosRoundPhrase roundPhrase) { AssignedRoundIndex = game.roundIndex; }
-
-        public void AfterOpponentAllWin(IEffectContext context, IRosPlayer owner, IRosGame game, RosRoundPhrase roundPhrase)
+        public UniTask AfterOpponentAllWin(IEffectContext context, IRosPlayer owner, IRosGame game, RosRoundPhrase roundPhrase)
         {
-            AssignedRoundIndex = game.roundIndex;
+            AssignedRoundIndex = game.RoundIndex;
+            return UniTask.CompletedTask;
         }
 
         //public virtual void Serialize(IRosGame game, NetDataWriter writer)

@@ -1,4 +1,5 @@
-﻿using ReversalOfSpirit.Gameplay.Enums;
+﻿using Cysharp.Threading.Tasks;
+using ReversalOfSpirit.Gameplay.Enums;
 using System;
 
 namespace ReversalOfSpirit.Gameplay.Ros.Cards
@@ -8,29 +9,26 @@ namespace ReversalOfSpirit.Gameplay.Ros.Cards
     {
         public string longDescription;
         public string shortDescription;
-        public virtual void OnStartRound(ICardRuntimeStat runtimeStat, IRosGame game, RosRoundPhrase roundPhrase) { }
-        public virtual void OnStartPreAtkTurn(ICardRuntimeStat runtimeStat, IRosGame game, RosRoundPhrase roundPhrase) { }
-        public virtual void PreAtkTurn(ICardRuntimeStat runtimeStat, IRosGame game, RosRoundPhrase roundPhrase) { }
-        public virtual void OnEndPreAtkTurn(ICardRuntimeStat runtimeStat, IRosGame game, RosRoundPhrase roundPhrase) { }
-        public virtual void OnStartPhyAtkTurn(ICardRuntimeStat runtimeStat, IRosGame game, RosRoundPhrase roundPhrase) { }
-        public virtual void OnPhyAtkTurn(ICardRuntimeStat runtimeStat, IRosGame game, RosRoundPhrase roundPhrase)
+        public virtual UniTask OnStartRound(ICardRuntimeStat runtimeStat, IRosGame game, RosRoundPhrase roundPhrase) { return UniTask.CompletedTask; }
+        public virtual UniTask OnStartPreAtkTurn(ICardRuntimeStat runtimeStat, IRosGame game, RosRoundPhrase roundPhrase) { return UniTask.CompletedTask; }
+        public virtual UniTask PreAtkTurn(ICardRuntimeStat runtimeStat, IRosGame game, RosRoundPhrase roundPhrase) { return UniTask.CompletedTask; }
+        public virtual UniTask OnEndPreAtkTurn(ICardRuntimeStat runtimeStat, IRosGame game, RosRoundPhrase roundPhrase) { return UniTask.CompletedTask; }
+        public virtual UniTask OnStartPhyAtkTurn(ICardRuntimeStat runtimeStat, IRosGame game, RosRoundPhrase roundPhrase) { return UniTask.CompletedTask; }
+        public virtual UniTask OnPhyAtkTurn(ICardRuntimeStat runtimeStat, IRosGame game, RosRoundPhrase roundPhrase) { return UniTask.CompletedTask; }
+        public virtual UniTask OnEndPhyAtkTurn(ICardRuntimeStat runtimeStat, IRosGame game, RosRoundPhrase roundPhrase) { return UniTask.CompletedTask; }
+        public virtual UniTask OnStartMagicalAtkTurn(ICardRuntimeStat runtimeStat, IRosGame game, RosRoundPhrase roundPhrase) { return UniTask.CompletedTask; }
+        public virtual UniTask OnMagicalTurn(ICardRuntimeStat runtimeStat, IRosGame game, RosRoundPhrase roundPhrase) { return UniTask.CompletedTask; }
+        public virtual UniTask OnEndMagicalAtkTurn(ICardRuntimeStat runtimeStat, IRosGame game, RosRoundPhrase roundPhrase) { return UniTask.CompletedTask; }
+        public virtual UniTask OnEndRound(ICardRuntimeStat runtimeStat, IRosGame game, RosRoundPhrase roundPhrase) { return UniTask.CompletedTask; }
+        public virtual UniTask OnPlayerGetDamage(int damage, DamageType damageType, ICardRuntimeStat runtimeStat, IRosGame game, RosRoundPhrase roundPhrase) { return UniTask.CompletedTask; }
+        public virtual UniTask OnPlayerGetEffect(GameEffect effect, ICardRuntimeStat runtimeStat, IRosGame game, RosRoundPhrase roundPhrase) { return UniTask.CompletedTask; }
+        public virtual UniTask OnStartGame(ICardRuntimeStat runtimeStat, IRosGame game) { return UniTask.CompletedTask; }
+
+        public virtual UniTask AfterAllWin(IRosPlayer owner, IRosGame game, RosRoundPhrase roundPhrase) { return UniTask.CompletedTask; }
+
+        public UniTask AfterOpponentAllWin(IRosPlayer owner, IRosGame game, RosRoundPhrase roundPhrase)
         {
-         
-        }
-        public virtual void OnEndPhyAtkTurn(ICardRuntimeStat runtimeStat, IRosGame game, RosRoundPhrase roundPhrase) { }
-        public virtual void OnStartMagicalAtkTurn(ICardRuntimeStat runtimeStat, IRosGame game, RosRoundPhrase roundPhrase) { }
-        public virtual void OnMagicalTurn(ICardRuntimeStat runtimeStat, IRosGame game, RosRoundPhrase roundPhrase) { }
-        public virtual void OnEndMagicalAtkTurn(ICardRuntimeStat runtimeStat, IRosGame game, RosRoundPhrase roundPhrase) { }
-        public virtual void OnEndRound(ICardRuntimeStat runtimeStat, IRosGame game, RosRoundPhrase roundPhrase) { }
-        public virtual void OnPlayerGetDamage(int damage, DamageType damageType, ICardRuntimeStat runtimeStat, IRosGame game, RosRoundPhrase roundPhrase) { }
-        public virtual void OnPlayerGetEffect(GameEffect effect, ICardRuntimeStat runtimeStat, IRosGame game, RosRoundPhrase roundPhrase) { }
-        public virtual void OnStartGame(ICardRuntimeStat runtimeStat, IRosGame game) { }
-
-        public virtual void AfterAllWin(IRosPlayer owner, IRosGame game, RosRoundPhrase roundPhrase) { }
-
-        public void AfterOpponentAllWin(IRosPlayer owner, IRosGame game, RosRoundPhrase roundPhrase)
-        {
-
+            return UniTask.CompletedTask;
         }
 
         public virtual string GetShortDescription()

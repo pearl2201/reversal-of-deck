@@ -1,4 +1,5 @@
-﻿using ReversalOfSpirit.Gameplay.Enums;
+﻿using Cysharp.Threading.Tasks;
+using ReversalOfSpirit.Gameplay.Enums;
 using ReversalOfSpirit.Gameplay.Ros.Cards.Actions;
 using System.Collections.Generic;
 
@@ -12,9 +13,9 @@ namespace ReversalOfSpirit.Gameplay.Ros.Cards.Effects
         }
         public override GameEffectRoleType RoleType => GameEffectRoleType.Negative;
 
-        public override void OnStartPreAtkTurn(IEffectContext context, IRosGame game, RosRoundPhrase roundPhrase)
+        public override async UniTask OnStartPreAtkTurn(IEffectContext context, IRosGame game, RosRoundPhrase roundPhrase)
         {
-            game.ExecuteSequential(new List<GameAction>() { new CurseDamageAction(Stack, context.Owner, context.PlayerSlot) });
+            await game.ExecuteSequential(new List<GameAction>() { new CurseDamageAction(Stack, context.Owner, context.PlayerSlot) });
             IsExecuted = true;
         }
 

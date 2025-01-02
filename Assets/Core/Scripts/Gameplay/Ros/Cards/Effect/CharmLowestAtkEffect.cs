@@ -1,4 +1,5 @@
-﻿using ReversalOfSpirit.Gameplay.Enums;
+﻿using Cysharp.Threading.Tasks;
+using ReversalOfSpirit.Gameplay.Enums;
 using ReversalOfSpirit.Gameplay.Ros.Cards.Actions;
 using System.Linq;
 
@@ -8,9 +9,9 @@ namespace ReversalOfSpirit.Gameplay.Ros.Cards.Effects
     {
         public override GameEffectRoleType RoleType => GameEffectRoleType.Negative;
 
-        public override void OnStartRound(IEffectContext context, IRosGame game, RosRoundPhrase roundPhrase)
+        public override async UniTask OnStartRound(IEffectContext context, IRosGame game, RosRoundPhrase roundPhrase)
         {
-            base.OnStartRound(context, game, roundPhrase);
+            await base.OnStartRound(context, game, roundPhrase);
             var charmCard = context.Owner.handItems.GroupBy(x => x.id).Select(x => new { id = x.Key, count = x.Count() }).OrderBy(x => x.count).Take(Stack).ToList();
             var actions = new System.Collections.Generic.List<GameAction>
             {
@@ -25,7 +26,7 @@ namespace ReversalOfSpirit.Gameplay.Ros.Cards.Effects
             {
                 actions.Add(new CharmCardAction(charmCard[2].id, GameTerritory.Rearguard, context.Owner, context.PlayerSlot));
             }
-            game.ExecuteSequential(actions);
+            await game.ExecuteSequential(actions);
            
         }
 

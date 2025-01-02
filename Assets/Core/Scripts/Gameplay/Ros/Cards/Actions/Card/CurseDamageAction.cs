@@ -1,4 +1,5 @@
 ﻿
+using Cysharp.Threading.Tasks;
 using System.Collections.Generic;
 
 namespace ReversalOfSpirit.Gameplay.Ros.Cards.Actions
@@ -21,10 +22,10 @@ namespace ReversalOfSpirit.Gameplay.Ros.Cards.Actions
 
         public CurseDamageAction() : base(1) { }
 
-        public override void Execute(IRosGame game)
+        public override async UniTask Execute(IRosGame game)
         {
-            base.Execute(game);
-            game.ExecuteSequential(new List<GameAction> { new SubHpAction(value, target, this.Slot, Enums.DamageType.CurseDamage) });
+            await base.Execute(game);
+            await game.ExecuteSequential(new List<GameAction> { new SubHpAction(value, target, this.Slot, Enums.DamageType.CurseDamage) });
         }
 
         /*public override void Serialize(IRosGame game, NetDataWriter writer)
@@ -41,7 +42,8 @@ namespace ReversalOfSpirit.Gameplay.Ros.Cards.Actions
             target = game.GetPlayer(reader.GetInt());
         }
 
-       */ public override string ToString()
+       */
+        public override string ToString()
         {
             return $"Curse damage {value} to player {target.Id}";
         }

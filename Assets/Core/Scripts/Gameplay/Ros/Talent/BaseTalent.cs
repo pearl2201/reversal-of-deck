@@ -40,7 +40,7 @@ namespace ReversalOfSpirit.Gameplay.Ros.Talent
 
         }
 
-        public virtual void OnStartRound(ITalentRuntimeStat runtimeStat, IRosGame game, RosRoundPhrase roundPhrase)
+        public virtual async UniTask OnStartRound(ITalentRuntimeStat runtimeStat, IRosGame game, RosRoundPhrase roundPhrase)
         {
 
         }
