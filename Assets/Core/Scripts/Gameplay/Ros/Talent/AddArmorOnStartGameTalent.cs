@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using Cysharp.Threading.Tasks;
 using UnityEngine;
 
 namespace ReversalOfSpirit.Gameplay.Ros.Talent
@@ -14,11 +10,11 @@ namespace ReversalOfSpirit.Gameplay.Ros.Talent
 
         public int armor;
 
-        public override void OnStartGame(ITalentRuntimeStat runtimeStat, IRosGame game)
+        public override async UniTask OnStartGame(ITalentRuntimeStat runtimeStat, IRosGame game)
         {
-            base.OnStartGame(runtimeStat, game);
+            await base.OnStartGame(runtimeStat, game);
 
-            runtimeStat.Owner.OnGainShieldAction(new Cards.Actions.GainShieldAction(armor, runtimeStat.Owner, null, 1));
+            await runtimeStat.Owner.OnGainShieldAction(new Cards.Actions.GainShieldAction(armor, runtimeStat.Owner, null, 1));
         }
     }
 }

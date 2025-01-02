@@ -1,5 +1,7 @@
 ﻿
 
+using Cysharp.Threading.Tasks;
+
 namespace ReversalOfSpirit.Gameplay.Ros.Cards.Actions
 {
     public class ShowRoundAction : GameAction
@@ -14,9 +16,9 @@ namespace ReversalOfSpirit.Gameplay.Ros.Cards.Actions
             this.roundIndex = roundIndex;
         }
 
-        public override void Execute(IRosGame game)
+        public override async UniTask Execute(IRosGame game)
         {
-            base.Execute(game);
+            await base.Execute(game);
             //game.C2S_PlayerPresentRoundDone(Slot.Player.Id, new Packets.C2S_PlayerSelectionFinish() { });
 
         }

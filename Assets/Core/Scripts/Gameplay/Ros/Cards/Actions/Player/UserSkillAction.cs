@@ -1,4 +1,5 @@
 ﻿
+using Cysharp.Threading.Tasks;
 using ReversalOfSpirit.Gameplay.Ros.Arcanes;
 
 namespace ReversalOfSpirit.Gameplay.Ros.Cards.Actions.Player
@@ -16,9 +17,9 @@ namespace ReversalOfSpirit.Gameplay.Ros.Cards.Actions.Player
             this.target = target;
         }
 
-        public override void Execute(IRosGame game)
+        public override async UniTask Execute(IRosGame game)
         {
-            base.Execute(game);
+            await base.Execute(game);
             target.arcane.Arcane.Execute(new ArcaneRuntimeStat { Owner = target }, game);
         }
 

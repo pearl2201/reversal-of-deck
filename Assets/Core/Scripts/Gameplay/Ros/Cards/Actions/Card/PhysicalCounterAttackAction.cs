@@ -1,4 +1,5 @@
 ﻿
+using Cysharp.Threading.Tasks;
 using System.Collections.Generic;
 using static UnityEngine.GraphicsBuffer;
 
@@ -20,10 +21,10 @@ namespace ReversalOfSpirit.Gameplay.Ros.Cards.Actions
             this.target = target;
         }
 
-        public override void Execute(IRosGame game)
+        public override async UniTask Execute(IRosGame game)
         {
-            base.Execute(game);
-            game.ExecuteSequential(new List<GameAction> { new SubHpAction(value, target, this.Slot, Enums.DamageType.CounterAttackPhysicalDamage) });
+            await base.Execute(game);
+            await game.ExecuteSequential(new List<GameAction> { new SubHpAction(value, target, this.Slot, Enums.DamageType.CounterAttackPhysicalDamage) });
         }
 
         /*public override void Serialize(IRosGame game, NetDataWriter writer)

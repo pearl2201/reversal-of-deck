@@ -1,4 +1,5 @@
 ﻿
+using Cysharp.Threading.Tasks;
 using ReversalOfSpirit.Gameplay.Enums;
 using ReversalOfSpirit.Gameplay.Ros.Cards.Actions;
 using ReversalOfSpirit.Gameplay.Ros.Cards.Effects;
@@ -15,10 +16,10 @@ namespace ReversalOfSpirit.Gameplay.Ros.Cards.Components
             shortDescription = "Charm";
         }
 
-        public override void PreAtkTurn(ICardRuntimeStat runtimeStat, IRosGame game, RosRoundPhrase roundPhrase)
+        public override async UniTask PreAtkTurn(ICardRuntimeStat runtimeStat, IRosGame game, RosRoundPhrase roundPhrase)
         {
-            base.PreAtkTurn(runtimeStat, game, roundPhrase);
-            game.ExecuteSequential(new System.Collections.Generic.List<GameAction>
+            await base.PreAtkTurn(runtimeStat, game, roundPhrase);
+            await game.ExecuteSequential(new System.Collections.Generic.List<GameAction>
             {
                 new AddEffectToPlayerAction(new CharmLowestAtkEffect()
                 {

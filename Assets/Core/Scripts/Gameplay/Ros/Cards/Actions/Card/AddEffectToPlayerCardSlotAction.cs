@@ -8,6 +8,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using ReversalOfSpirit.Gameplay.Enums;
+using Cysharp.Threading.Tasks;
 
 namespace ReversalOfSpirit.Gameplay.Ros.Cards.Actions
 {
@@ -32,9 +33,9 @@ namespace ReversalOfSpirit.Gameplay.Ros.Cards.Actions
             this.terriority = terriority;
         }
 
-        public override void Execute(IRosGame game)
+        public override async UniTask Execute(IRosGame game)
         {
-            base.Execute(game);
+            await base.Execute(game);
             target.terrioritySlots[terriority].OnAddEffectToCardSlotAction(this);
         }
 

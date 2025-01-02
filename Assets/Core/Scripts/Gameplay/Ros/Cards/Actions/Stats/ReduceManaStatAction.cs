@@ -5,6 +5,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Cysharp.Threading.Tasks;
 
 
 namespace ReversalOfSpirit.Gameplay.Ros.Cards.Actions
@@ -27,10 +28,10 @@ namespace ReversalOfSpirit.Gameplay.Ros.Cards.Actions
             this.target = target;
         }
 
-        public override void Execute(IRosGame game)
+        public override async UniTask Execute(IRosGame game)
         {
-            base.Execute(game);
-            target.OnReduceManaStatAction(this);
+            await base.Execute(game);
+            await target.OnReduceManaStatAction(this);
 
         }
 

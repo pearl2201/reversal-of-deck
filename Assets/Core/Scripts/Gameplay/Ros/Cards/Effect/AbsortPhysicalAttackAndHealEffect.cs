@@ -1,5 +1,6 @@
 ﻿
 
+using Cysharp.Threading.Tasks;
 using ReversalOfSpirit.Gameplay.Enums;
 using ReversalOfSpirit.Gameplay.Ros.Cards.Actions;
 using System.Collections.Generic;
@@ -21,7 +22,7 @@ namespace ReversalOfSpirit.Gameplay.Ros.Cards.Effects
         public override GameEffectRoleType RoleType => GameEffectRoleType.Negative;
 
 
-        public override void OnPlayerGetDamage(IEffectContext context, SubHpAction subHpAction, IRosGame game)
+        public override async UniTask OnPlayerGetDamage(IEffectContext context, SubHpAction subHpAction, IRosGame game)
         {
             base.OnPlayerGetDamage(context, subHpAction, game);
             if (subHpAction.damageType == DamageType.PhysicalDamage)

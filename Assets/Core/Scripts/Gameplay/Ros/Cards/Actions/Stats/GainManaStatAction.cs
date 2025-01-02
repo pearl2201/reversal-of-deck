@@ -1,4 +1,5 @@
 ﻿
+using Cysharp.Threading.Tasks;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -28,11 +29,9 @@ namespace ReversalOfSpirit.Gameplay.Ros.Cards.Actions
             this.finalValue = value;
         }
 
-        public override void Execute(IRosGame game)
+        public override async UniTask Execute(IRosGame game)
         {
-
-            target.OnGainManaStatAction(this);
-
+             await target.OnGainManaStatAction(this);
         }
 
 

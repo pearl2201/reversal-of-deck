@@ -1,4 +1,5 @@
 ﻿
+using Cysharp.Threading.Tasks;
 using ReversalOfSpirit.Gameplay.Enums;
 
 namespace ReversalOfSpirit.Gameplay.Ros.Cards.Actions
@@ -19,9 +20,9 @@ namespace ReversalOfSpirit.Gameplay.Ros.Cards.Actions
         }
 
         public DecreaseTurnAtkPercentAction() : base(1) { }
-        public override void Execute(IRosGame game)
+        public override async UniTask Execute(IRosGame game)
         {
-            base.Execute(game);
+            await base.Execute(game);
             slot.AdditionTurnAtkPercent -= value;
         }
 

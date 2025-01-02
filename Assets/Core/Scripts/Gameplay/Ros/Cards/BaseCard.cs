@@ -1,4 +1,5 @@
-﻿using ReversalOfSpirit.Gameplay.Enums;
+﻿using Cysharp.Threading.Tasks;
+using ReversalOfSpirit.Gameplay.Enums;
 using ReversalOfSpirit.Gameplay.Ros.Cards.Actions;
 using System.Collections.Generic;
 using UnityEngine;
@@ -28,132 +29,132 @@ namespace ReversalOfSpirit.Gameplay.Ros.Cards
         public List<BaseCardComponent> components = new List<BaseCardComponent>();
 
 
-        public virtual void OnStartRound(ICardRuntimeStat runtimeStat, IRosGame game, RosRoundPhrase roundPhrase)
+        public virtual async UniTask OnStartRound(ICardRuntimeStat runtimeStat, IRosGame game, RosRoundPhrase roundPhrase)
         {
             foreach (var component in components)
             {
-                component.OnStartRound(runtimeStat, game, roundPhrase);
+                await component.OnStartRound(runtimeStat, game, roundPhrase);
             }
         }
 
-        public virtual void OnStartPreAtkTurn(ICardRuntimeStat runtimeStat, IRosGame game, RosRoundPhrase roundPhrase)
+        public virtual async UniTask OnStartPreAtkTurn(ICardRuntimeStat runtimeStat, IRosGame game, RosRoundPhrase roundPhrase)
         {
             foreach (var component in components)
             {
-                component.OnStartPreAtkTurn(runtimeStat, game, roundPhrase);
+                await component.OnStartPreAtkTurn(runtimeStat, game, roundPhrase);
             }
         }
 
-        public virtual void PreAtkTurn(ICardRuntimeStat runtimeStat, IRosGame game, RosRoundPhrase roundPhrase)
+        public virtual async UniTask PreAtkTurn(ICardRuntimeStat runtimeStat, IRosGame game, RosRoundPhrase roundPhrase)
         {
             foreach (var component in components)
             {
-                component.PreAtkTurn(runtimeStat, game, roundPhrase);
+                await component.PreAtkTurn(runtimeStat, game, roundPhrase);
             }
         }
 
-        public virtual void OnEndPreAtkTurn(ICardRuntimeStat runtimeStat, IRosGame game, RosRoundPhrase roundPhrase)
+        public virtual async UniTask OnEndPreAtkTurn(ICardRuntimeStat runtimeStat, IRosGame game, RosRoundPhrase roundPhrase)
         {
             foreach (var component in components)
             {
-                component.OnEndPreAtkTurn(runtimeStat, game, roundPhrase);
+                await component.OnEndPreAtkTurn(runtimeStat, game, roundPhrase);
             }
         }
 
-        public virtual void OnStartPhyAtkTurn(ICardRuntimeStat runtimeStat, IRosGame game, RosRoundPhrase roundPhrase)
+        public virtual async UniTask OnStartPhyAtkTurn(ICardRuntimeStat runtimeStat, IRosGame game, RosRoundPhrase roundPhrase)
         {
             foreach (var component in components)
             {
-                component.OnStartPhyAtkTurn(runtimeStat, game, roundPhrase);
+                await component.OnStartPhyAtkTurn(runtimeStat, game, roundPhrase);
             }
         }
 
-        public virtual void OnPhyAtkTurn(ICardRuntimeStat runtimeStat, IRosGame game, RosRoundPhrase roundPhrase)
+        public virtual async UniTask OnPhyAtkTurn(ICardRuntimeStat runtimeStat, IRosGame game, RosRoundPhrase roundPhrase)
         {
             foreach (var component in components)
             {
-                component.OnPhyAtkTurn(runtimeStat, game, roundPhrase);
+                await component.OnPhyAtkTurn(runtimeStat, game, roundPhrase);
             }
-            game.ExecuteSequential(new List<GameAction> { new PhysicalAttackAction(runtimeStat.Slot.CalculateAtk(), game.GetOpponent(runtimeStat.Owner), runtimeStat.Slot) });
+            await game.ExecuteSequential(new List<GameAction> { new PhysicalAttackAction(runtimeStat.Slot.CalculateAtk(), game.GetOpponent(runtimeStat.Owner), runtimeStat.Slot) });
         }
 
-        public virtual void OnEndPhyAtkTurn(ICardRuntimeStat runtimeStat, IRosGame game, RosRoundPhrase roundPhrase)
+        public virtual async UniTask OnEndPhyAtkTurn(ICardRuntimeStat runtimeStat, IRosGame game, RosRoundPhrase roundPhrase)
         {
             foreach (var component in components)
             {
-                component.OnEndPhyAtkTurn(runtimeStat, game, roundPhrase);
-            }
-        }
-
-        public virtual void OnStartMagicalAtkTurn(ICardRuntimeStat runtimeStat, IRosGame game, RosRoundPhrase roundPhrase)
-        {
-            foreach (var component in components)
-            {
-                component.OnStartMagicalAtkTurn(runtimeStat, game, roundPhrase);
+                await component.OnEndPhyAtkTurn(runtimeStat, game, roundPhrase);
             }
         }
 
-        public virtual void OnMagicalTurn(ICardRuntimeStat runtimeStat, IRosGame game, RosRoundPhrase roundPhrase)
+        public virtual async UniTask OnStartMagicalAtkTurn(ICardRuntimeStat runtimeStat, IRosGame game, RosRoundPhrase roundPhrase)
         {
             foreach (var component in components)
             {
-                component.OnMagicalTurn(runtimeStat, game, roundPhrase);
+                await component.OnStartMagicalAtkTurn(runtimeStat, game, roundPhrase);
             }
         }
 
-        public virtual void OnEndMagicalAtkTurn(ICardRuntimeStat runtimeStat, IRosGame game, RosRoundPhrase roundPhrase)
+        public virtual async UniTask OnMagicalTurn(ICardRuntimeStat runtimeStat, IRosGame game, RosRoundPhrase roundPhrase)
         {
             foreach (var component in components)
             {
-                component.OnEndMagicalAtkTurn(runtimeStat, game, roundPhrase);
+                await component.OnMagicalTurn(runtimeStat, game, roundPhrase);
             }
         }
 
-        public virtual void OnEndRound(ICardRuntimeStat runtimeStat, IRosGame game, RosRoundPhrase roundPhrase)
+        public virtual async UniTask OnEndMagicalAtkTurn(ICardRuntimeStat runtimeStat, IRosGame game, RosRoundPhrase roundPhrase)
         {
             foreach (var component in components)
             {
-                component.OnEndRound(runtimeStat, game, roundPhrase);
+                await component.OnEndMagicalAtkTurn(runtimeStat, game, roundPhrase);
             }
         }
 
-        public virtual void OnPlayerGetDamage(int damage, DamageType damageType, ICardRuntimeStat runtimeStat, IRosGame game, RosRoundPhrase roundPhrase)
+        public virtual async UniTask OnEndRound(ICardRuntimeStat runtimeStat, IRosGame game, RosRoundPhrase roundPhrase)
         {
             foreach (var component in components)
             {
-                component.OnPlayerGetDamage(damage, damageType, runtimeStat, game, roundPhrase);
+                await component.OnEndRound(runtimeStat, game, roundPhrase);
             }
         }
 
-        public virtual void OnPlayerGetEffect(GameEffect effect, ICardRuntimeStat runtimeStat, IRosGame game, RosRoundPhrase roundPhrase)
+        public virtual async UniTask OnPlayerGetDamage(int damage, DamageType damageType, ICardRuntimeStat runtimeStat, IRosGame game, RosRoundPhrase roundPhrase)
         {
             foreach (var component in components)
             {
-                component.OnPlayerGetEffect(effect, runtimeStat, game, roundPhrase);
+                await component.OnPlayerGetDamage(damage, damageType, runtimeStat, game, roundPhrase);
             }
         }
 
-        public virtual void OnStartGame(ICardRuntimeStat runtimeStat, IRosGame game)
+        public virtual async UniTask OnPlayerGetEffect(GameEffect effect, ICardRuntimeStat runtimeStat, IRosGame game, RosRoundPhrase roundPhrase)
         {
             foreach (var component in components)
             {
-                component.OnStartGame(runtimeStat, game);
+                await component.OnPlayerGetEffect(effect, runtimeStat, game, roundPhrase);
             }
         }
 
-        public void AfterAllWin(IRosPlayer owner, IRosGame game, RosRoundPhrase roundPhrase)
+        public virtual async UniTask OnStartGame(ICardRuntimeStat runtimeStat, IRosGame game)
         {
             foreach (var component in components)
             {
-                component.AfterAllWin(owner, game, roundPhrase);
+                await component.OnStartGame(runtimeStat, game);
             }
         }
 
-        public void AfterOpponentAllWin(IRosPlayer owner, IRosGame game, RosRoundPhrase roundPhrase)
+        public async UniTask AfterAllWin(IRosPlayer owner, IRosGame game, RosRoundPhrase roundPhrase)
         {
             foreach (var component in components)
             {
-                component.AfterOpponentAllWin(owner, game, roundPhrase);
+                await component.AfterAllWin(owner, game, roundPhrase);
+            }
+        }
+
+        public async UniTask AfterOpponentAllWin(IRosPlayer owner, IRosGame game, RosRoundPhrase roundPhrase)
+        {
+            foreach (var component in components)
+            {
+                await component.AfterOpponentAllWin(owner, game, roundPhrase);
             }
         }
     }

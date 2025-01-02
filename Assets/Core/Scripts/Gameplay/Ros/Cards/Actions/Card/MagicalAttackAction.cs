@@ -1,14 +1,5 @@
-﻿using ReversalOfSpirit.Gameplay.Ros.Cards.Actions;
-using ReversalOfSpirit.Gameplay.Ros.Cards;
-using ReversalOfSpirit.Gameplay.Ros;
-using System;
+﻿using Cysharp.Threading.Tasks;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-using static UnityEngine.GraphicsBuffer;
-using System.Diagnostics;
 
 namespace ReversalOfSpirit.Gameplay.Ros.Cards.Actions
 {
@@ -28,10 +19,10 @@ namespace ReversalOfSpirit.Gameplay.Ros.Cards.Actions
             this.target = target;
         }
 
-        public override void Execute(IRosGame game)
+        public override async UniTask Execute(IRosGame game)
         {
-            base.Execute(game);
-            game.ExecuteSequential(new List<GameAction> { new SubHpAction(value, target, this.Slot, Enums.DamageType.MagicalDamage) });
+            await base.Execute(game);
+            await game.ExecuteSequential(new List<GameAction> { new SubHpAction(value, target, this.Slot, Enums.DamageType.MagicalDamage) });
         }
 
         /*public override void Serialize(IRosGame game, NetDataWriter writer)

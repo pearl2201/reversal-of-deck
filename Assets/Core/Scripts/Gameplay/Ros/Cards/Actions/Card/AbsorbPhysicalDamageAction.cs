@@ -1,4 +1,5 @@
 ﻿
+using Cysharp.Threading.Tasks;
 using ReversalOfSpirit.Gameplay.Enums;
 using ReversalOfSpirit.Gameplay.Ros.Cards.Effects;
 
@@ -29,9 +30,9 @@ namespace ReversalOfSpirit.Gameplay.Ros.Cards.Actions
             this.terriority = terriority;
         }
 
-        public override void Execute(IRosGame game)
+        public override async UniTask Execute(IRosGame game)
         {
-            base.Execute(game);
+            await base.Execute(game);
         }
 
         /*public override void Serialize(IRosGame game, NetDataWriter writer)

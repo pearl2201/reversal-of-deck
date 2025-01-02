@@ -1,4 +1,6 @@
-﻿namespace ReversalOfSpirit.Gameplay.Ros.Cards.Actions
+﻿using Cysharp.Threading.Tasks;
+
+namespace ReversalOfSpirit.Gameplay.Ros.Cards.Actions
 {
     public class IncreaseTurnAtkAbsAction : GameAction
     {
@@ -16,9 +18,9 @@
             this.slot = slot;
         }
 
-        public override void Execute(IRosGame game)
+        public override async UniTask Execute(IRosGame game)
         {
-            base.Execute(game);
+            await base.Execute(game);
             slot.AdditionTurnAtkAbs += value;
             finalValue = slot.CalculateAtk();
         }

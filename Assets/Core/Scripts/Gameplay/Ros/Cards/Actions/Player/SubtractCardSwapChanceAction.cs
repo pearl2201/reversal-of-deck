@@ -1,5 +1,7 @@
 ﻿
 
+using Cysharp.Threading.Tasks;
+
 namespace ReversalOfSpirit.Gameplay.Ros.Cards.Actions
 {
     public class SubtractCardSwapChanceAction : GameAction
@@ -22,10 +24,10 @@ namespace ReversalOfSpirit.Gameplay.Ros.Cards.Actions
             this.target = target;
         }
 
-        public override void Execute(IRosGame game)
+        public override async UniTask Execute(IRosGame game)
         {
-            base.Execute(game);
-            target.OnSubtractCardSwapChanceAction(this);
+            await base.Execute(game);
+            await target.OnSubtractCardSwapChanceAction(this);
         }
 
         /*public override void Serialize(IRosGame game, NetDataWriter writer)

@@ -1,8 +1,8 @@
-﻿using ReversalOfSpirit.Gameplay.Enums;
+﻿using Cysharp.Threading.Tasks;
+using ReversalOfSpirit.Gameplay.Enums;
 using ReversalOfSpirit.Gameplay.Ros.Cards;
 using ReversalOfSpirit.Gameplay.Ros.Cards.Actions;
 using System.Collections.Generic;
-using System.Diagnostics;
 using System.Linq;
 
 namespace ReversalOfSpirit.Gameplay.Ros
@@ -33,7 +33,6 @@ namespace ReversalOfSpirit.Gameplay.Ros
             return Card.BaseStar;
         }
 
-
         public bool IsSilentRound { get; set; }
 
         public float AdditionTalentAtkPercent { get; set; }
@@ -41,8 +40,6 @@ namespace ReversalOfSpirit.Gameplay.Ros
         public float AdditionTurnAtkPercent { get; set; }
 
         public float AdditionTurnAtkAbs { get; set; }
-
-        public float AbsortPhysicalDamage { get; set; }
 
         public GameTerritory Terriotory { get; set; }
 
@@ -57,139 +54,139 @@ namespace ReversalOfSpirit.Gameplay.Ros
             effects = new List<GameEffect>();
         }
 
-        public void OnStartRound()
+        public UniTask OnStartRound()
         {
             AdditionTurnAtkPercent = 0;
             AdditionTurnAtkAbs = 0;
-            AbsortPhysicalDamage = 0;
+            return UniTask.CompletedTask;
         }
 
-        public void OnStartRound(bool isWin, RosRoundPhrase roundPhrase)
+        public async UniTask OnStartRound(bool isWin, RosRoundPhrase roundPhrase)
         {
             foreach (var effect in effects.ToList())
             {
-                effect.OnStartRound(new EffectContext { Owner = Player, PlayerSlot = this }, Player.Game, roundPhrase);
+                await effect.OnStartRound(new EffectContext { Owner = Player, PlayerSlot = this }, Player.Game, roundPhrase);
             }
             RemoveFinishedEffect();
         }
 
-        public void OnStartPreAtkTurn(bool isWin, RosRoundPhrase roundPhrase)
+        public async UniTask OnStartPreAtkTurn(bool isWin, RosRoundPhrase roundPhrase)
         {
             foreach (var effect in effects.ToList())
             {
-                effect.OnStartPreAtkTurn(new EffectContext { Owner = Player, PlayerSlot = this }, Player.Game, roundPhrase);
+                await effect.OnStartPreAtkTurn(new EffectContext { Owner = Player, PlayerSlot = this }, Player.Game, roundPhrase);
             }
         }
 
-        public void PreAtkTurn(bool isWin, RosRoundPhrase roundPhrase)
+        public async UniTask PreAtkTurn(bool isWin, RosRoundPhrase roundPhrase)
         {
             foreach (var effect in effects.ToList())
             {
-                effect.PreAtkTurn(new EffectContext { Owner = Player, PlayerSlot = this }, Player.Game, roundPhrase);
+                await effect.PreAtkTurn(new EffectContext { Owner = Player, PlayerSlot = this }, Player.Game, roundPhrase);
             }
         }
 
-        public void OnEndPreAtkTurn(bool isWin, RosRoundPhrase roundPhrase)
+        public async UniTask OnEndPreAtkTurn(bool isWin, RosRoundPhrase roundPhrase)
         {
             foreach (var effect in effects.ToList())
             {
-                effect.OnEndPreAtkTurn(new EffectContext { Owner = Player, PlayerSlot = this }, Player.Game, roundPhrase);
+                await effect.OnEndPreAtkTurn(new EffectContext { Owner = Player, PlayerSlot = this }, Player.Game, roundPhrase);
             }
         }
 
-        public void OnStartPhyAtkTurn(bool isWin, RosRoundPhrase roundPhrase)
+        public async UniTask OnStartPhyAtkTurn(bool isWin, RosRoundPhrase roundPhrase)
         {
             foreach (var effect in effects.ToList())
             {
-                effect.OnStartPhyAtkTurn(new EffectContext { Owner = Player, PlayerSlot = this }, Player.Game, roundPhrase);
+                await effect.OnStartPhyAtkTurn(new EffectContext { Owner = Player, PlayerSlot = this }, Player.Game, roundPhrase);
             }
         }
 
-        public void OnPhyAtkTurn(bool isWin, RosRoundPhrase roundPhrase)
+        public async UniTask OnPhyAtkTurn(bool isWin, RosRoundPhrase roundPhrase)
         {
             foreach (var effect in effects.ToList())
             {
-                effect.OnPhyAtkTurn(new EffectContext { Owner = Player, PlayerSlot = this }, Player.Game, roundPhrase);
+                await effect.OnPhyAtkTurn(new EffectContext { Owner = Player, PlayerSlot = this }, Player.Game, roundPhrase);
             }
         }
 
-        public void OnEndPhyAtkTurn(bool isWin, RosRoundPhrase roundPhrase)
+        public async UniTask OnEndPhyAtkTurn(bool isWin, RosRoundPhrase roundPhrase)
         {
             foreach (var effect in effects.ToList())
             {
-                effect.OnEndPhyAtkTurn(new EffectContext { Owner = Player, PlayerSlot = this }, Player.Game, roundPhrase);
+                await effect.OnEndPhyAtkTurn(new EffectContext { Owner = Player, PlayerSlot = this }, Player.Game, roundPhrase);
             }
         }
 
-        public void OnStartMagicalAtkTurn(bool isWin, RosRoundPhrase roundPhrase)
+        public async UniTask OnStartMagicalAtkTurn(bool isWin, RosRoundPhrase roundPhrase)
         {
             foreach (var effect in effects.ToList())
             {
-                effect.OnStartMagicalAtkTurn(new EffectContext { Owner = Player, PlayerSlot = this }, Player.Game, roundPhrase);
+                await effect.OnStartMagicalAtkTurn(new EffectContext { Owner = Player, PlayerSlot = this }, Player.Game, roundPhrase);
             }
         }
 
-        public void OnMagicalTurn(bool isWin, RosRoundPhrase roundPhrase)
+        public async UniTask OnMagicalTurn(bool isWin, RosRoundPhrase roundPhrase)
         {
             foreach (var effect in effects.ToList())
             {
-                effect.OnMagicalTurn(new EffectContext { Owner = Player, PlayerSlot = this }, Player.Game, roundPhrase);
+                await effect.OnMagicalTurn(new EffectContext { Owner = Player, PlayerSlot = this }, Player.Game, roundPhrase);
             }
         }
 
-        public void OnEndMagicalAtkTurn(bool isWin, RosRoundPhrase roundPhrase)
+        public async UniTask OnEndMagicalAtkTurn(bool isWin, RosRoundPhrase roundPhrase)
         {
             foreach (var effect in effects.ToList())
             {
-                effect.OnEndMagicalAtkTurn(new EffectContext { Owner = Player, PlayerSlot = this }, Player.Game, roundPhrase);
+                await effect.OnEndMagicalAtkTurn(new EffectContext { Owner = Player, PlayerSlot = this }, Player.Game, roundPhrase);
             }
         }
 
-        public void OnEndRound(bool isWin, RosRoundPhrase roundPhrase)
+        public async UniTask OnEndRound(bool isWin, RosRoundPhrase roundPhrase)
         {
             foreach (var effect in effects.ToList())
             {
-                effect.OnEndRound(new EffectContext { Owner = Player, PlayerSlot = this }, Player.Game, roundPhrase);
+                await effect.OnEndRound(new EffectContext { Owner = Player, PlayerSlot = this }, Player.Game, roundPhrase);
             }
         }
 
-        public void OnPlayerGetDamage(SubHpAction subHpAction)
+        public async UniTask OnPlayerGetDamage(SubHpAction subHpAction)
         {
             foreach (var effect in effects.ToList())
             {
-                effect.OnPlayerGetDamage(new EffectContext { Owner = Player, PlayerSlot = this }, subHpAction, Player.Game);
+                await effect.OnPlayerGetDamage(new EffectContext { Owner = Player, PlayerSlot = this }, subHpAction, Player.Game);
             }
         }
 
-        public void OnPlayerGetEffect(AddEffectToPlayerAction addEffectAction, bool isWin, RosRoundPhrase roundPhrase)
+        public async UniTask OnPlayerGetEffect(AddEffectToPlayerAction addEffectAction, bool isWin, RosRoundPhrase roundPhrase)
         {
             foreach (var effect in effects.ToList())
             {
-                effect.OnPlayerGetEffect(new EffectContext { Owner = Player, PlayerSlot = this }, addEffectAction, Player.Game);
+                await effect.OnPlayerGetEffect(new EffectContext { Owner = Player, PlayerSlot = this }, addEffectAction, Player.Game);
             }
         }
 
-        public void OnStartGame(IRosGame game)
+        public async UniTask OnStartGame(IRosGame game)
         {
             foreach (var effect in effects.ToList())
             {
-                effect.OnStartGame(new EffectContext { Owner = Player, PlayerSlot = this }, game);
+                await effect.OnStartGame(new EffectContext { Owner = Player, PlayerSlot = this }, game);
             }
         }
 
-        public void AfterAllWin(IRosPlayer owner, bool isWin, RosRoundPhrase roundPhrase)
+        public async UniTask AfterAllWin(IRosPlayer owner, bool isWin, RosRoundPhrase roundPhrase)
         {
             foreach (var effect in effects.ToList())
             {
-                effect.AfterAllWin(new EffectContext { Owner = Player, PlayerSlot = this }, owner, Player.Game, roundPhrase);
+                await effect.AfterAllWin(new EffectContext { Owner = Player, PlayerSlot = this }, owner, Player.Game, roundPhrase);
             }
         }
 
-        public void AfterOpponentAllWin(IRosPlayer owner, bool isWin, RosRoundPhrase roundPhrase)
+        public async UniTask AfterOpponentAllWin(IRosPlayer owner, bool isWin, RosRoundPhrase roundPhrase)
         {
             foreach (var effect in effects.ToList())
             {
-                effect.AfterOpponentAllWin(new EffectContext { Owner = Player, PlayerSlot = this }, owner, Player.Game, roundPhrase);
+                await effect.AfterOpponentAllWin(new EffectContext { Owner = Player, PlayerSlot = this }, owner, Player.Game, roundPhrase);
             }
         }
 

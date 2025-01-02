@@ -17,7 +17,7 @@ namespace ReversalOfSpirit.Gameplay.Ros.Arcanes
     {
         void OnStartGame(IArcaneRuntimeStat runtimeStat, IRosGame game);
 
-        void OnStartRound(IArcaneRuntimeStat runtimeStat, IRosGame game, RosRoundPhrase roundPhrase);
+        async UniTask OnStartRound(IArcaneRuntimeStat runtimeStat, IRosGame game, RosRoundPhrase roundPhrase);
 
         void OnStartPreAtkTurn(IArcaneRuntimeStat runtimeStat, IRosGame game, RosRoundPhrase roundPhrase);
 
